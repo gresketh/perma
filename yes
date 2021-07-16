@@ -221,7 +221,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227538/3221227538.mpd
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
 http://1.9.62.158/PLTV/88888888/224/3221227541/3221227541.mpd
 
-#EXTINF:-1 tvg-id="ParamountNetwork" group-title="MOVIES" tvg-logo="https://png.pngitem.com/pimgs/s/512-5129446_client-logo-paramount-pictures-logo-hd-png-download.png",Paramount HD
+#EXTINF:-1 tvg-id="ParamountNetwork" group-title="MOVIES" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/paramount-channel.png",Paramount HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
 http://1.9.62.158/PLTV/88888888/224/3221227565/3221227565.mpd
