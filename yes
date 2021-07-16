@@ -231,17 +231,17 @@ http://1.9.62.158/PLTV/88888888/224/3221227565/3221227565.mpd
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
 http://1.9.62.158/PLTV/88888888/224/3221227568/3221227568.mpd
 
-#EXTINF:-1 tvg-id="FOXMoviesHD" group-title="MOVIES" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/151_144.png",FOX Movies HD
+#EXTINF:-1 tvg-id="FOXMoviesHD" group-title="MOVIES" tvg-logo="https://www.foxmoviesasia.com/images/fm.png",FOX Movies HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
 http://1.9.62.158/PLTV/88888888/224/3221227572/3221227572.mpd|User-Agent=DmpPlayer/20.0.25.15 (Android 7.1.2; 828d5831-f00b-4332-9080-d0db5238ae57; SM-G955F)
 
-#EXTINF:-1 tvg-id="FOXFamilyMoviesHD" group-title="MOVIES" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/170_144.png",FOX Family Movies HD
+#EXTINF:-1 tvg-id="FOXFamilyMoviesHD" group-title="MOVIES" tvg-logo="https://foxfamilymovies.foxmoviesasia.com/images/ffm.png",FOX Family Movies HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
 http://1.9.62.158/PLTV/88888888/224/3221227644/3221227644.mpd
 
-#EXTINF:-1 tvg-id="FOXActionMoviesHD" group-title="MOVIES" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/184_144.png",FOX Action Movies HD
+#EXTINF:-1 tvg-id="FOXActionMoviesHD" group-title="MOVIES" tvg-logo="https://foxactionmovies.foxmoviesasia.com/images/fam.pn",FOX Action Movies HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
 http://1.9.62.158/PLTV/88888888/224/3221227638/3221227638.mpd
@@ -373,7 +373,7 @@ https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 
-#EXTINF:-1 tvg-id="HistoryHD" group-title="EDUCATION" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/144_144.png",History HD
+#EXTINF:-1 tvg-id="HistoryHD" group-title="EDUCATION" tvg-logo="https://poster.starhubgo.com/Linear_channels2/401_1920x1080_HTV.png",History HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
