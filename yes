@@ -241,7 +241,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227572/3221227572.mpd|User-Agent=DmpPlay
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
 http://1.9.62.158/PLTV/88888888/224/3221227644/3221227644.mpd
 
-#EXTINF:-1 tvg-id="FOXActionMoviesHD" group-title="MOVIES" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/fox-action.png",FOX Action Movies HD
+#EXTINF:-1 tvg-id="FOXActionMoviesHD" group-title="MOVIES" tvg-logo="https://foxactionmovies.foxmoviesasia.com/images/fam.png",FOX Action Movies HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
 http://1.9.62.158/PLTV/88888888/224/3221227638/3221227638.mpd
