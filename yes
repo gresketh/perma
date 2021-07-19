@@ -635,7 +635,7 @@ http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroSuperSport2HD" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png",Astro SuperSport 2 HD
 http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AstroSuperSport3HD" group-title="SPORTS" tvg-logo=""https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png",Astro SuperSport 3 HD
+#EXTINF:-1 tvg-id="AstroSuperSport3HD" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png",Astro SuperSport 3 HD
 http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AstroSuperSport4HD" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png",Astro SuperSport 4 HD
@@ -672,7 +672,7 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227793/3221227793.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
-#EXTINF:-1 group-title="SPORTS" ch-number="713" tvg-id="713" tvg-chno="713 tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/unfi-Sports10-Olympic.png",unifi Sports 10 HD
+#EXTINF:-1 group-title="SPORTS" ch-number="713" tvg-id="713" tvg-chno="713" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/unfi-Sports10-Olympic.png",unifi Sports 10 HD
 https://web.hypp.tv:443/PLTV/88888888/224/3221227830/3221227830.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
