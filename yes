@@ -686,6 +686,6 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227833/3221227833.mpd
 https://web.hypp.tv:443/PLTV/88888888/224/3221227799/3221227799.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZDIwNjhjZDEtYTY5Yy0zM2QxLTllNjQtODRiMTM3Y2VjZGFj
 #EXTINF:-1 group-title="SPORTS" ch-number="716"  tvg-id="716" tvg-chno="716" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/wuC3Kw9b",unifi Sports 13 HD
 https://web.hypp.tv:443/PLTV/88888888/224/3221227802/3221227802.mpd
