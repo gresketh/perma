@@ -1,77 +1,77 @@
 #EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MjlhMGZiNWEtYjgyNy0zNDY5LTkyODctNjhiZmM1ZGVkMGY1
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
 #EXTINF:-1 group-title="Sports: Tokyo 2020 Olympics" ch-number="701" tvg-id="701" tvg-chno="701" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202107/20210709/20210709180917156kdl.png",Unifi Sports 1
 https://web.hypp.tv/PLTV/88888888/224/3221227675/3221227675.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MjlhMGZiNWEtYjgyNy0zNDY5LTkyODctNjhiZmM1ZGVkMGY1
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
 #EXTINF:-1 group-title="Sports: Tokyo 2020 Olympics" ch-number="702" tvg-id="702" tvg-chno="702" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202107/20210709/202107091805315962ck.png",Unifi Sports 2
 https://web.hypp.tv/PLTV/88888888/224/3221227722/3221227722.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MjlhMGZiNWEtYjgyNy0zNDY5LTkyODctNjhiZmM1ZGVkMGY1
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
 #EXTINF:-1 group-title="Sports: Tokyo 2020 Olympics" ch-number="703" tvg-id="703" tvg-chno="703" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202107/20210709/20210709052952183il3.png",Unifi Sports 3
 https://web.hypp.tv/PLTV/88888888/224/3221227682/3221227682.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MjlhMGZiNWEtYjgyNy0zNDY5LTkyODctNjhiZmM1ZGVkMGY1
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
 #EXTINF:-1 group-title="Sports: Tokyo 2020 Olympics" ch-number="704" tvg-id="704" tvg-chno="704" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202107/20210709/20210709175936849u0i.png",Unifi Sports 4
 https://web.hypp.tv/PLTV/88888888/224/3221227685/3221227685.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MjlhMGZiNWEtYjgyNy0zNDY5LTkyODctNjhiZmM1ZGVkMGY1
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
 #EXTINF:-1 group-title="Sports: Tokyo 2020 Olympics" ch-number="705" tvg-id="705" tvg-chno="705" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202107/20210709/20210709175600988bln.png",Unifi Sports 5
 https://web.hypp.tv/PLTV/88888888/224/3221227705/3221227705.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MjlhMGZiNWEtYjgyNy0zNDY5LTkyODctNjhiZmM1ZGVkMGY1
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
 #EXTINF:-1 group-title="Sports" ch-number="706" tvg-id="706" tvg-chno="706" tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/201907/20190716/20190716071809155j4i.png",FOX Sports HD
 https://web.hypp.tv/PLTV/88888888/224/3221227608/3221227608.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MjlhMGZiNWEtYjgyNy0zNDY5LTkyODctNjhiZmM1ZGVkMGY1
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
 #EXTINF:-1 group-title="Sports" ch-number="707" tvg-id="707" tvg-chno="707" tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/201907/20190716/20190716071931352bjn.png",FOX Sports 2 HD
 https://web.hypp.tv/PLTV/88888888/224/3221227726/3221227726.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MjlhMGZiNWEtYjgyNy0zNDY5LTkyODctNjhiZmM1ZGVkMGY1
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
 #EXTINF:-1 group-title="Sports" ch-number="708" tvg-id="708" tvg-chno="708" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072024251ul7.png",FOX Sports 3 HD
 https://web.hypp.tv/PLTV/88888888/224/3221227634/3221227634.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MjlhMGZiNWEtYjgyNy0zNDY5LTkyODctNjhiZmM1ZGVkMGY1
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
 #EXTINF:-1 group-title="Sports: Tokyo 2020 Olympics" ch-number="709" tvg-id="709" tvg-chno="709" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/NpUkSL3T",unifi Sports 6 HD
 https://web.hypp.tv:443/PLTV/88888888/224/3221227795/3221227795.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MjlhMGZiNWEtYjgyNy0zNDY5LTkyODctNjhiZmM1ZGVkMGY1
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
 #EXTINF:-1 group-title="Sports: Tokyo 2020 Olympics" ch-number="710" tvg-id="710" tvg-chno="710" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/1gQKtrxB",unifi Sports 7 HD
 https://web.hypp.tv:443/PLTV/88888888/224/3221227787/3221227787.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MjlhMGZiNWEtYjgyNy0zNDY5LTkyODctNjhiZmM1ZGVkMGY1
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
 #EXTINF:-1 group-title="Sports: Tokyo 2020 Olympics" ch-number="711" tvg-id="711" tvg-chno="711" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/VrUDHzHa",unifi Sports 8 HD
 https://web.hypp.tv:443/PLTV/88888888/224/3221227798/3221227798.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MjlhMGZiNWEtYjgyNy0zNDY5LTkyODctNjhiZmM1ZGVkMGY1
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
 #EXTINF:-1 group-title="Sports: Tokyo 2020 Olympics" ch-number="712" tvg-id="712" tvg-chno="712" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/8rs5tKy8",unifi Sports 9 HD
 https://web.hypp.tv:443/PLTV/88888888/224/3221227793/3221227793.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MjlhMGZiNWEtYjgyNy0zNDY5LTkyODctNjhiZmM1ZGVkMGY1
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
 #EXTINF:-1 group-title="Sports: Tokyo 2020 Olympics" ch-number="713" tvg-id="713" tvg-chno="713 tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/8Y9dZUSI",unifi Sports 10 HD
 https://web.hypp.tv:443/PLTV/88888888/224/3221227830/3221227830.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MjlhMGZiNWEtYjgyNy0zNDY5LTkyODctNjhiZmM1ZGVkMGY1
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
 #EXTINF:-1 group-title="Sports: Tokyo 2020 Olympics" ch-number="714" tvg-id="714" tvg-chno="714" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/pC41J1AK",unifi Sports 11 HD
 https://web.hypp.tv:443/PLTV/88888888/224/3221227833/3221227833.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MjlhMGZiNWEtYjgyNy0zNDY5LTkyODctNjhiZmM1ZGVkMGY1
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
 #EXTINF:-1 group-title="Sports: Tokyo 2020 Olympics" ch-number="715" tvg-id="715" tvg-chno="715" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/cL0ged2e",unifi Sports 12 HD
 https://web.hypp.tv:443/PLTV/88888888/224/3221227799/3221227799.mpd
 
