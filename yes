@@ -601,12 +601,12 @@ http://1.9.62.158/PLTV/88888888/224/3221227726/3221227726.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjOGQyZWYtNzM0OS0zOTkwLWI4ZGItOTc2YjIyNjQ3NTkw
 http://1.9.62.158/PLTV/88888888/224/3221227634/3221227634.mpd
 
-#EXTINF:-1 tvg-id="unifiSports1" group-title="SPORTS" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200219/20200219034140282its.png",unifi Sports 1
+#EXTINF:-1 tvg-id="unifiSports1" group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Unifi-Sports_1.png/revision/latest?cb=20210712111848",unifi Sports 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjOGQyZWYtNzM0OS0zOTkwLWI4ZGItOTc2YjIyNjQ3NTkw
 http://1.9.62.158/PLTV/88888888/224/3221227675/3221227675.mpd
 
-#EXTINF:-1 tvg-id="unifiSports2" group-title="SPORTS" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200223/20200223030942343uz5.png",unifi Sports 2
+#EXTINF:-1 tvg-id="unifiSports2" group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Unifi-Sports-2.png/revision/latest?cb=20210712113109",unifi Sports 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjOGQyZWYtNzM0OS0zOTkwLWI4ZGItOTc2YjIyNjQ3NTkw
 http://1.9.62.158/PLTV/88888888/224/3221227722/3221227722.mpd
@@ -621,7 +621,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227682/3221227682.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjOGQyZWYtNzM0OS0zOTkwLWI4ZGItOTc2YjIyNjQ3NTkw
 http://1.9.62.158/PLTV/88888888/224/3221227685/3221227685.mpd
 
-#EXTINF:-1 tvg-id="unifiSports5" group-title="SPORTS" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200223/20200223031129462i1k.png",unifi Sports 5
+#EXTINF:-1 tvg-id="unifiSports5" group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Unifi-Sports-5.png/revision/latest?cb=20210712113706",unifi Sports 5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjOGQyZWYtNzM0OS0zOTkwLWI4ZGItOTc2YjIyNjQ3NTkw
 http://1.9.62.158/PLTV/88888888/224/3221227705/3221227705.mpd
