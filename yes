@@ -65,6 +65,9 @@ http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroCitraHD" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png",Astro Citra HD
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 
+#EXTINF:-1 tvg-id="BOOmalay" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png",BOO HD
+https://link.zozotv.xyz:443/Freemium1/unlimited99/2
+
 #EXTINF:-1 tvg-id="NauraHD" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/299_144.png",Naura HD
 http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
 # https://agsplayback01.astro.com.my/CH2/master_NAURAGOSHOP4_03.m3u8
@@ -313,6 +316,9 @@ http://1.9.62.158/PLTV/88888888/224/3221227620/3221227620.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDAwMjFkZWMtOWE4Zi0zMDZiLTlhOTUtY2M4MzAyMTEzNTJi
 http://1.9.62.158/PLTV/88888888/224/3221227578/3221227578.mpd
 
+#EXTINF:-1 tvg-id="DMAX" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/367_144.png",DMAX HD
+https://link.zozotv.xyz:443/Freemium1/unlimited99/118
+
 #EXTINF:-1 tvg-id="FX" group-title="ENTERTAINMENT" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716073911037n9t.png",FX
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDAwMjFkZWMtOWE4Zi0zMDZiLTlhOTUtY2M4MzAyMTEzNTJi
@@ -389,9 +395,10 @@ https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
 
 #EXTINF:-1 tvg-id="AsianFoodNetworkHD" group-title="LIFE_STYLE" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/91_144.png",Asian Food Network HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
-https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd
+https://link.zozotv.xyz:443/Freemium1/unlimited99/127
+# #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+# #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+# https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd
 
 # #EXTINF:-1 tvg-id="FoodNetwork" group-title="LIFE_STYLE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/246px-Food_Network_New_Logo.png",Food Network HD
 # http://line.yo-ott.com:8000/167d10c8c2/50cda00648/391013
