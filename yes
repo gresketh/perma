@@ -370,9 +370,10 @@ https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_dash_vmx/WakuWakuJapan.mpd
 
 #EXTINF:-1 tvg-id="Lifetime.MACAN" group-title="LIFE_STYLE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/800px-Logo_Lifetime_2020.svg.png",Lifetime ID
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
-https://liveanevia.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
+https://link.zozotv.xyz:443/Freemium1/unlimited99/87
+# #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+# #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+# #https://liveanevia.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 
 #EXTINF:-1 tvg-id="AnimalPlanetHD" group-title="ANIMAL_WILDLIFE" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/377_144.png",Animal Planet HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -604,9 +605,9 @@ http://210.210.155.35:80/uq2663/h/h22/01.m3u8
 #EXTINF:-1 tvg-id="WWENETWORK" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/194_144.png",WWE Network HD
 http://185.180.221.194:8278/streams/d/Wwe/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ASTROCRICKET" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png",Astro Cricket HD
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/319604
+#EXTINF:-1 group-title="SPORTS" tvg-id="1824" tvg-chno="824" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png",Astro Cricket HD
 http://fastrunner.live:8080/SPYKeWkZUT/sBrlqIiJC1/62525
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/319604
 
 #EXTINF:-1 tvg-id="FOXSportsHD" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/141_144.png",FOX Sports HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
