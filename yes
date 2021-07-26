@@ -287,7 +287,7 @@ https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 
 #EXTINF:-1 tvg-id="BOOmalay" group-title="MOVIES" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png",BOO HD
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
+https://link.zozotv.xyz:443/Freemium1/unlimited99/2
 
 #EXTINF:-1 tvg-id="hitsmovies.id" group-title="MOVIES" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png",Hits Movies HD 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
