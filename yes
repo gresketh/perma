@@ -605,8 +605,8 @@ http://210.210.155.35:80/uq2663/h/h22/01.m3u8
 http://185.180.221.194:8278/streams/d/Wwe/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ASTROCRICKET" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png",Astro Cricket HD
-http://fastrunner.live:8080/SPYKeWkZUT/sBrlqIiJC1/62525
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/319604
+http://fastrunner.live:8080/SPYKeWkZUT/sBrlqIiJC1/62525
 
 #EXTINF:-1 tvg-id="FOXSportsHD" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/141_144.png",FOX Sports HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
