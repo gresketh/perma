@@ -464,6 +464,9 @@ https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
+#EXTINF:-1 tvg-id="Aniplus.id" group-title="FAMILY_KIDS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/267_144.png",Aniplus
+https://link.zozotv.xyz:443/Freemium1/unlimited99/70
+
 #EXTINF:-1 tvg-id="DreamworksHD" group-title="FAMILY_KIDS" tvg-logo="http://www.dreamworks-asia.com/images/dwalogo.png",Dreamworks HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDAwMjFkZWMtOWE4Zi0zMDZiLTlhOTUtY2M4MzAyMTEzNTJi
@@ -587,17 +590,22 @@ https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 https://rtmlive02.secureswiftcontent.com/rtmchannel/02_1080.m3u8|Referer=https://rtmklik.rtm.gov.my
 
 #EXTINF:-1 tvg-id="beINSports1.MACAN" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png",beIN Sports 1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
-https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd
+https://link.zozotv.xyz:443/Freemium1/unlimited99/162
+# #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+# #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+# #https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd
 
-# #EXTINF:-1 tvg-id="beINSPORTS2" group-title="SPORTS" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_2.png",beIN Sports 2
+#EXTINF:-1 tvg-id="beINSports2.MACAN" group-title="SPORTS" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_2.png",beIN Sports 2
+https://link.zozotv.xyz:443/Freemium1/unlimited99/163
 # #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 # #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 # https://liveanevia.mncnow.id/live/eds/BeIN2/sa_dash_vmx/BeIN2.mpd
 
 #EXTINF:-1 tvg-id="BeINSPORTSMAX" group-title="SPORTS" tvg-logo="https://i.postimg.cc/QxTnfTBd/bein-sports-max.png",beIN Sports MAX HD
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6748
+
+#EXTINF:-1 tvg-id="EuroSport" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/38_144.png",Eurosport HD
+https://link.zozotv.xyz:443/Freemium1/unlimited99/328
 
 #EXTINF:-1 tvg-id="EGGNETWORK" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/206_144.png",eGG Network HD
 http://210.210.155.35:80/uq2663/h/h22/01.m3u8
@@ -769,3 +777,18 @@ https://link.zozotv.xyz:443/Freemium1/unlimited99/326
 
 #EXTINF:-1 tvg-id="OLY10" group-title="ASTRO_OLYMPICS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png",OLY10
 https://link.zozotv.xyz:443/Freemium1/unlimited99/327
+
+#EXTINF:-1 tvg-id="FOX50fps1" group-title="SPORTS_50FPS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png",Fox Sports 1 HD
+https://link.zozotv.xyz:443/Freemium1/unlimited99/159
+
+#EXTINF:-1 tvg-id="Fox50fps2" group-title="SPORTS_50FPS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png",Fox Sports 2 HD
+https://link.zozotv.xyz:443/Freemium1/unlimited99/160
+
+#EXTINF:-1 tvg-id="fox50fps3" group-title="SPORTS_50FPS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png",Fox Sports 3 HD
+https://link.zozotv.xyz:443/Freemium1/unlimited99/161
+
+#EXTINF:-1 tvg-id="champions1.id" group-title="SPORTS_50FPS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Champions_TV_1_%282021%29.png/revision/latest/scale-to-width-down/350?cb=20210621091805",Champions 1
+https://link.zozotv.xyz:443/Freemium1/unlimited99/164
+
+#EXTINF:-1 tvg-id="champions2.id" group-title="SPORTS_50FPS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Champions_TV_2_%282021%29.png/revision/latest?cb=20210621091959",Champions 2
+https://link.zozotv.xyz:443/Freemium1/unlimited99/165
