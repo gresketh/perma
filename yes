@@ -67,8 +67,14 @@ http://iptv.tvmalaysia.cc:80/321456/321456/6740
 # #http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AstroCitraHD" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png",Astro Citra HD
-https://link.zozotv.xyz:443/Freemium1/unlimited99/36
+http://iptv.tvmalaysia.cc:80/321456/321456/7267
 # #http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AstroRaniaHD" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png",Astro Rania HD
+http://iptv.tvmalaysia.cc:80/321456/321456/6729
+
+#EXTINF:-1 tvg-id="AstroAuraHD" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png",Astro Aura HD
+http://iptv.tvmalaysia.cc:80/321456/321456/6713
 
 #EXTINF:-1 tvg-id="BOOmalay" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png",BOO HD
 http://iptv.tvmalaysia.cc:80/321456/321456/8872
