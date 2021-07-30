@@ -786,3 +786,8 @@ https://link.zozotv.xyz:443/Freemium4/unlimited99/161
 #EXTINF:-1 group-title="SPORTS_50fps" tvg-id="FightSPORT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/FIGHT_SPORTS_2018.png/revision/latest?cb=20191026180443",Fight Sport
 https://link.zozotv.xyz:443/Freemium4/unlimited99/168
 
+#EXTINF:-1 group-title="SPORTS_50fps" tvg-id="TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Champions_TV_1_%282021%29.png/revision/latest?cb=20210621091805",TV Champions
+https://link.zozotv.xyz:443/Freemium4/unlimited99/164
+
+#EXTINF:-1 group-title="SPORTS_50fps" tvg-id="FightSPORT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Champions_TV_2_%282021%29.png/revision/latest/scale-to-width-down/1000?cb=20210621091959",TV Champions 2
+https://link.zozotv.xyz:443/Freemium4/unlimited99/165
