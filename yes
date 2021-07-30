@@ -328,7 +328,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227620/3221227620.mpd
 http://1.9.62.158/PLTV/88888888/224/3221227578/3221227578.mpd
 
 #EXTINF:-1 tvg-id="DMAX" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/367_144.png",DMAX HD
-http://iptv.tvmalaysia.cc:80/321456/321456/6778
+https://link.zozotv.xyz:443/Freemium4/unlimited99/118
 
 #EXTINF:-1 tvg-id="FX" group-title="ENTERTAINMENT" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716073911037n9t.png",FX
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -513,6 +513,12 @@ http://1.9.62.158/PLTV/88888888/224/3221227534/3221227534.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
 
+#EXTINF:-1 tvg-id="DisneyChannel.MACAN" tvg-name="Disney Channel" tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/f/ff/Disney_channel_2019.svg/revision/latest?cb=20190821144831" group-title="FAMILY_KIDS",Disney Channel
+https://link.zozotv.xyz:443/Freemium4/unlimited99/130
+
+#EXTINF:-1 tvg-id="DisneyJunior.MACAN" tvg-name="https://static.wikia.nocookie.net/logopedia/images/b/bb/Disney_Junior.svg/revision/latest?cb=20210627231353" group-title="FAMILY_KIDS",Disney Junior
+https://link.zozotv.xyz:443/Freemium4/unlimited99/131
+
 #EXTINF:-1 tvg-id="AstroAwaniHD" group-title="NEWS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/436_144.png",Astro Awani 
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
@@ -619,6 +625,9 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/6748
 https://link.zozotv.xyz:443/Freemium4/unlimited99/328
 # #http://iptv.tvmalaysia.cc:80/321456/321456/6784
 
+#EXTINF:-1 tvg-id="GolfChannelHD" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/189_144.png",Golf Channel HD
+https://link.zozotv.xyz:443/Freemium4/unlimited99/166
+
 #EXTINF:-1 tvg-id="EGGNETWORK" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/206_144.png",eGG Network HD
 http://210.210.155.35:80/uq2663/h/h22/01.m3u8
 
@@ -629,6 +638,9 @@ http://185.180.221.194:8278/streams/d/Wwe/playlist.m3u8
 http://iptv.tvmalaysia.cc:80/321456/321456/6717
 # http://fastrunner.live:8080/SPYKeWkZUT/sBrlqIiJC1/62525
 # http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/319604
+
+#EXTINF:-1 tvg-id="RugbyPassTV" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/393_144.png",RugbyPass TV HD
+https://link.zozotv.xyz:443/Freemium4/unlimited99/338
 
 #EXTINF:-1 tvg-id="FOXSportsHD" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/141_144.png",FOX Sports HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -770,4 +782,7 @@ https://link.zozotv.xyz:443/Freemium4/unlimited99/160
 
 #EXTINF:-1 group-title="SPORTS_50fps" tvg-id="FOXSPORTS3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/291_144.png",Fox Sports 3 HD
 https://link.zozotv.xyz:443/Freemium4/unlimited99/161
+
+#EXTINF:-1 group-title="SPORTS_50fps" tvg-id="FightSPORT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/FIGHT_SPORTS_2018.png/revision/latest?cb=20191026180443",Fight Sport
+https://link.zozotv.xyz:443/Freemium4/unlimited99/168
 
