@@ -606,13 +606,13 @@ https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 #EXTINF:-1 tvg-id="TVSUKAN" group-title="SPORTS" tvg-logo="https://mediahomes.github.io/logos/sukan.png",Sukan RTM
 https://rtmlive02.secureswiftcontent.com/rtmchannel/02_1080.m3u8|Referer=https://rtmklik.rtm.gov.my
 
-EXTINF:-1 tvg-id="beINSports1.MACAN" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",beIN Sports 1
+#EXTINF:-1 tvg-id="beINSports1.MACAN" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",beIN Sports 1
 https://link.zozotv.xyz:443/Freemium4/unlimited99/162
 # #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 # #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 # #https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd
 
-EXTINF:-1 tvg-id="beINSports2.MACAN" group-title="SPORTS" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_2.png",beIN Sports 2
+#EXTINF:-1 tvg-id="beINSports2.MACAN" group-title="SPORTS" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_2.png",beIN Sports 2
 https://link.zozotv.xyz:443/Freemium4/unlimited99/163
 # #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 # #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
