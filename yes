@@ -77,14 +77,15 @@ http://iptv.tvmalaysia.cc:80/321456/321456/6729
 http://iptv.tvmalaysia.cc:80/321456/321456/6713
 
 #EXTINF:-1 tvg-id="BOOmalay" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png",BOO HD
-http://iptv.tvmalaysia.cc:80/321456/321456/8872
+https://link.zozotv.xyz:443/Freemium4/unlimited99/2
 
 #EXTINF:-1 tvg-id="NauraHD" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/299_144.png",Naura HD
 http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
 # https://agsplayback01.astro.com.my/CH2/master_NAURAGOSHOP4_03.m3u8
 
 #EXTINF:-1 tvg-id="HelloHD" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/110.png",Hello HD
-https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6.m3u8
+https://link.zozotv.xyz:443/Freemium4/unlimited99/42
+# #https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6.m3u8
 
 #EXTINF:-1 tvg-id="TVS" group-title="ENTERTAINMENT" tvg-logo="https://tvstv.my/wp-content/uploads/2020/09/cropped-TVS-Logo-Square2.jpg",TVS
 https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS.m3u8
@@ -299,7 +300,7 @@ https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 
 #EXTINF:-1 tvg-id="BOOmalay" group-title="MOVIES" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png",BOO HD
-http://iptv.tvmalaysia.cc:80/321456/321456/8872
+https://link.zozotv.xyz:443/Freemium4/unlimited99/2
 
 #EXTINF:-1 tvg-id="Hits.MACAN" group-title="MOVIES" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png",Hits Movies HD 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -380,9 +381,10 @@ https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_dash_vmx/WakuWakuJapan.mpd
 
 #EXTINF:-1 tvg-id="Lifetime.MACAN" group-title="LIFE_STYLE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/800px-Logo_Lifetime_2020.svg.png",Lifetime ID
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
-https://liveanevia.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
+https://link.zozotv.xyz:443/Freemium4/unlimited99/87
+# #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+# #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+# #https://liveanevia.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 
 #EXTINF:-1 tvg-id="AnimalPlanetHD" group-title="ANIMAL_WILDLIFE" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/377_144.png",Animal Planet HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -598,12 +600,14 @@ https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 #EXTINF:-1 tvg-id="TVSUKAN" group-title="SPORTS" tvg-logo="https://mediahomes.github.io/logos/sukan.png",Sukan RTM
 https://rtmlive02.secureswiftcontent.com/rtmchannel/02_1080.m3u8|Referer=https://rtmklik.rtm.gov.my
 
-# #EXTINF:-1 tvg-id="beINSports1.MACAN" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",beIN Sports 1
+EXTINF:-1 tvg-id="beINSports1.MACAN" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",beIN Sports 1
+https://link.zozotv.xyz:443/Freemium4/unlimited99/162
 # #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 # #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 # #https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd
 
-# #EXTINF:-1 tvg-id="beINSports2.MACAN" group-title="SPORTS" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_2.png",beIN Sports 2
+EXTINF:-1 tvg-id="beINSports2.MACAN" group-title="SPORTS" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_2.png",beIN Sports 2
+https://link.zozotv.xyz:443/Freemium4/unlimited99/163
 # #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 # #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 # https://liveanevia.mncnow.id/live/eds/BeIN2/sa_dash_vmx/BeIN2.mpd
@@ -612,7 +616,8 @@ https://rtmlive02.secureswiftcontent.com/rtmchannel/02_1080.m3u8|Referer=https:/
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6748
 
 #EXTINF:-1 tvg-id="EuroSport" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/38_144.png",Eurosport HD
-http://iptv.tvmalaysia.cc:80/321456/321456/6784
+https://link.zozotv.xyz:443/Freemium4/unlimited99/328
+# #http://iptv.tvmalaysia.cc:80/321456/321456/6784
 
 #EXTINF:-1 tvg-id="EGGNETWORK" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/206_144.png",eGG Network HD
 http://210.210.155.35:80/uq2663/h/h22/01.m3u8
@@ -756,4 +761,13 @@ http://stream2.grandma.fit/fs2.m3u8
 
 #EXTINF:-1 tvg-id="ES2.US" tvg-logo="https://static.epg.best/us/ESPN2.us.png" group-title="SPORTS",ESPN 2
 http://stream2.grandma.fit/espn2.m3u8
+
+#EXTINF:-1 tvg-id="FOXSPORTS1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/141_144.png",Fox Sports HD
+https://link.zozotv.xyz:443/Freemium4/unlimited99/159
+
+#EXTINF:-1 tvg-id="FOXSPORTS2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/290_144.png",Fox Sports 2 HD
+https://link.zozotv.xyz:443/Freemium4/unlimited99/160
+
+#EXTINF:-1 tvg-id="FOXSPORTS3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/291_144.png",Fox Sports 3 HD
+https://link.zozotv.xyz:443/Freemium4/unlimited99/161
 
