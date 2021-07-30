@@ -756,18 +756,18 @@ https://rtm-olympic04.secureswiftcontent.com/rtm/olympic04_1080.m3u8|Referer=htt
 #EXTINF:-1 group-title="SPORTS" ch-number="1005" tvg-id="1005" tvg-chno="1005" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tokyo_ch5.png",RTM Tokyo 2020 Channel 5 (HD)
 https://rtm-olympic05.secureswiftcontent.com/rtm/olympic05_1080.m3u8|Referer=https://rtmklik.rtm.gov.my
 
-#EXTINF:-1 tvg-id="ES1.US" tvg-logo="https://static.epg.best/us/ESPN.us.png" group-title="SPORTS",ESPN
+#EXTINF:-1 tvg-id="ES1.US" tvg-logo="https://static.epg.best/us/ESPN.us.png" group-title="SPORTS_50fps",ESPN
 http://stream2.grandma.fit/fs2.m3u8
 
-#EXTINF:-1 tvg-id="ES2.US" tvg-logo="https://static.epg.best/us/ESPN2.us.png" group-title="SPORTS",ESPN 2
+#EXTINF:-1 tvg-id="ES2.US" tvg-logo="https://static.epg.best/us/ESPN2.us.png" group-title="SPORTS_50fps",ESPN 2
 http://stream2.grandma.fit/espn2.m3u8
 
-#EXTINF:-1 tvg-id="FOXSPORTS1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/141_144.png",Fox Sports HD
+#EXTINF:-1 group-title="SPORTS_50fps" tvg-id="FOXSPORTS1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/141_144.png",Fox Sports HD
 https://link.zozotv.xyz:443/Freemium4/unlimited99/159
 
-#EXTINF:-1 tvg-id="FOXSPORTS2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/290_144.png",Fox Sports 2 HD
+#EXTINF:-1 group-title="SPORTS_50fps" tvg-id="FOXSPORTS2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/290_144.png",Fox Sports 2 HD
 https://link.zozotv.xyz:443/Freemium4/unlimited99/160
 
-#EXTINF:-1 tvg-id="FOXSPORTS3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/291_144.png",Fox Sports 3 HD
+#EXTINF:-1 group-title="SPORTS_50fps" tvg-id="FOXSPORTS3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/291_144.png",Fox Sports 3 HD
 https://link.zozotv.xyz:443/Freemium4/unlimited99/161
 
