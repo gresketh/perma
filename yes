@@ -513,7 +513,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227534/3221227534.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
 
-#EXTINF:-1 tvg-id="DisneyChannel.MACAN" tvg-name="Disney Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Disney_channel_2019.svg/revision/latest?cb=20210529193239" group-title="FAMILY_KIDS",Disney Channel
+#EXTINF:-1 tvg-id="DisneyChannel.MACAN" tvg-name="Disney Channel" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/Disney-Channel-logo.png" group-title="FAMILY_KIDS",Disney Channel
 https://link.zozotv.xyz:443/Freemium4/unlimited99/130
 
 #EXTINF:-1 tvg-id="DisneyJunior.MACAN" tvg-name="https://static.wikia.nocookie.net/logopedia/images/b/bb/Disney_Junior.svg/revision/latest?cb=20210627231353" group-title="FAMILY_KIDS",Disney Junior
