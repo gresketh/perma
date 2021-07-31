@@ -431,6 +431,9 @@ http://1.9.62.158/PLTV/88888888/224/3221227672/3221227672.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDAwMjFkZWMtOWE4Zi0zMDZiLTlhOTUtY2M4MzAyMTEzNTJi
 http://1.9.62.158/PLTV/88888888/224/3221227567/3221227567.mpd
 
+#EXTINF:-1 tvg-id="NationalGeographicindo" group-title="EDUCATION" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716065651397ki2.png",National Geographic (INDOSUB)
+https://link.zozotv.xyz:443/Freemium4/unlimited99/120
+
 #EXTINF:-1 tvg-id="NatGeoWild" group-title="ANIMAL_WILDLIFE" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202009/20200907/20200907034018802dtj.PNG",Nat Geo Wild
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDAwMjFkZWMtOWE4Zi0zMDZiLTlhOTUtY2M4MzAyMTEzNTJi
