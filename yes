@@ -716,10 +716,8 @@ http://iptv.tvmalaysia.cc:80/321456/321456/6715
 #EXTINF:-1 tvg-id="historyfhd" group-title="EDUCATION" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/144_144.png",History HD
 http://iptv.tvmalaysia.cc/932633/932633/7079
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09Yd2dCYnhnUVZyZHFVdFN6X0xSMHgxaFVDWGpyNVBaYzVXR09FTXBSdlNNMkZPOFp1NlU5MjFlMm5tT0dITGNYQ3haNWtMNDJkbzVCbzRFblpRbWhLajRaM2pIY2VtNklHMzFkSXQ2cU5ZdWFOY1JqY09lT3l6ZjFIeVF3bmpKVWt5a0VNN3lKcnEzb2pwbmlONjhtcEw4R0pIZWZpOGp1MThDUTg1MU94V0dPSV9SV1JaZG5yQ3NFbFRJN0dDM3hVUlBkSEhJRUVKSlhLQ0dHdGJBOTh4ZkR6alZVRllmV05Xb0FJQ0EyMTQ4UHJPY2NnVE56X2ZPa2FmTXY5TVBNRTA5WVRLRTJkTG1xRTVZRnlzaVBIZWhkOVRZUGdsSUxiYUpBc1pTY0ZuSmJLbDVsMW02YmVJVnpVaFdoRV9zTDM4PSZjb250ZXh0VHlwZT1ub25lJmlkPTEzMjI1MTY2IiwiYWNjb3VudF9pZCI6MzA4OTYzMywiY29udGVudF9pZCI6IjlmOTlmZmEyX2QyN2FfNGNmYl9hMDViXzgzYjkxZGI4NDZkZiIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNekl3T1h3Z0JieGdRVnJkcVV0U3pfTFIweDFoVUNYanI1UFpjNVdHT0VNcFJ2U00yRk84WnU2VTkyMWUybm1PR0hMY1hDeFo1a0w0MmRvNUJvNEVuWlFtaEtqNFozakhjZW02SUczMWRJdDZxTll1YU5jUmpjT2VPeXpmMUh5UXduakpVa3lrRU03eUpycTNvanBuaU42OG1wTDhHSkhlZmk4anUxOENRODUxT3hXR09JX1JXUlpkbnJDc0VsVEk3R0MzeFVSUGRISElFRUpKWEtDR0d0YkE5OHhmRHpqVlVGWWZXTldvQUlDQTIxNDhQck9jY2dUTnpfZk9rYWZNdjlNUE1FMDlZVEtFMmRMbXFFNVlGeXNpUEhlaGQ5VFlQZ2xJTGJhSkFzWlNjRm5KYktsNWwxbTZiZUlWelVoV2hFX3NMMzg9IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MzIwOX0%3d&signature=Pht3pZO4fsfYCrVvBZpK%2faee3vA%3d&sessionId=e8329bec-1e5f-30e9-7ebc-a3c234833b5d:aed6734f-958e-5511-3d0a-0a3d4a73cb2f&clientTag=html5:v1.10.3&referrer=aHR0cHM6Ly9zb29rYS5teS9lbi9wbGF5L29saW1waWstMjAyMC1ib2xhc2VwYWstLWJyYS1sd24tZ2VyLzEwOTQ0OTAvcGxheWVyP2xpbmVhcklkPTEwMDA0NzEwNiZpc0xpdmU9dHJ1ZQ==
 #EXTINF:-1 tvg-id="AstroArenaHD" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",Astro Arena HD
-https://linear01-playback.sooka.my/CH3/masterCH3.mpd
+https://link.zozotv.xyz:443/Freemium4/unlimited99/154
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDAwMjFkZWMtOWE4Zi0zMDZiLTlhOTUtY2M4MzAyMTEzNTJi
@@ -761,19 +759,19 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227799/3221227799.mpd
 #EXTINF:-1 group-title="SPORTS" ch-number="unifisports13"  tvg-id="99965" tvg-chno="99965" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/wuC3Kw9b",unifi Sports 13
 https://web.hypp.tv:443/PLTV/88888888/224/3221227802/3221227802.mpd
 
-#EXTINF:-1 group-title="SPORTS" ch-number="1001" tvg-id="1001" tvg-chno="1001" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tokyo_ch1.png",RTM Tokyo 2020 Channel 1 (HD)
+##EXTINF:-1 group-title="SPORTS" ch-number="1001" tvg-id="1001" tvg-chno="1001" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tokyo_ch1.png",RTM Tokyo 2020 Channel 1 (HD)
 https://rtm-olympic01.secureswiftcontent.com/rtm/olympic01_1080.m3u8|Referer=https://rtmklik.rtm.gov.my
 
-#EXTINF:-1 group-title="SPORTS" ch-number="1002" tvg-id="1002" tvg-chno="1002" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tokyo_ch2.png",RTM Tokyo 2020 Channel 2 (HD)
+##EXTINF:-1 group-title="SPORTS" ch-number="1002" tvg-id="1002" tvg-chno="1002" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tokyo_ch2.png",RTM Tokyo 2020 Channel 2 (HD)
 https://rtm-olympic02.secureswiftcontent.com/rtm/olympic02_1080.m3u8|Referer=https://rtmklik.rtm.gov.my
 
-#EXTINF:-1 group-title="SPORTS" ch-number="1003" tvg-id="1003" tvg-chno="1003" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tokyo_ch3.png",RTM Tokyo 2020 Channel 3 (HD)
+##EXTINF:-1 group-title="SPORTS" ch-number="1003" tvg-id="1003" tvg-chno="1003" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tokyo_ch3.png",RTM Tokyo 2020 Channel 3 (HD)
 https://rtm-olympic03.secureswiftcontent.com/rtm/olympic03_1080.m3u8|Referer=https://rtmklik.rtm.gov.my
 
-#EXTINF:-1 group-title="SPORTS" ch-number="1004" tvg-id="1004" tvg-chno="1004" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tokyo_ch4.png",RTM Tokyo 2020 Channel 4 (HD)
+##EXTINF:-1 group-title="SPORTS" ch-number="1004" tvg-id="1004" tvg-chno="1004" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tokyo_ch4.png",RTM Tokyo 2020 Channel 4 (HD)
 https://rtm-olympic04.secureswiftcontent.com/rtm/olympic04_1080.m3u8|Referer=https://rtmklik.rtm.gov.my
 
-#EXTINF:-1 group-title="SPORTS" ch-number="1005" tvg-id="1005" tvg-chno="1005" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tokyo_ch5.png",RTM Tokyo 2020 Channel 5 (HD)
+##EXTINF:-1 group-title="SPORTS" ch-number="1005" tvg-id="1005" tvg-chno="1005" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tokyo_ch5.png",RTM Tokyo 2020 Channel 5 (HD)
 https://rtm-olympic05.secureswiftcontent.com/rtm/olympic05_1080.m3u8|Referer=https://rtmklik.rtm.gov.my
 
 #EXTINF:-1 tvg-id="ES1.US" tvg-logo="https://static.epg.best/us/ESPN.us.png" group-title="SPORTS_50fps",ESPN
