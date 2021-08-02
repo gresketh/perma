@@ -51,19 +51,23 @@ https://rtmlive03.secureswiftcontent.com/rtmchannel/03_1080.m3u8|Referer=https:/
 http://tvms.me:8080/norazah/norazah/366
 
 #EXTINF:-1 tvg-id="AstroRiaHD" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",Astro Ria HD
-http://iptv.tvmalaysia.cc:80/321456/321456/6730
+https://nonton.site:8443/Ainamanja/RPLf79Gusm/37332
+# #http://iptv.tvmalaysia.cc:80/321456/321456/6730
 # #http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AstroPrimaHD" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",Astro Prima HD
-http://iptv.tvmalaysia.cc:80/321456/321456/6727
+https://nonton.site:8443/Ainamanja/RPLf79Gusm/37333
+# #http://iptv.tvmalaysia.cc:80/321456/321456/6727
 # #http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AstroOasisHD" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png",Astro Oasis HD
-http://iptv.tvmalaysia.cc:80/321456/321456/6725
+https://nonton.site:8443/Ainamanja/RPLf79Gusm/37334
+# #http://iptv.tvmalaysia.cc:80/321456/321456/6725
 # #http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AstroWarnaHD" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png",Astro Warna HD
-http://iptv.tvmalaysia.cc:80/321456/321456/6740
+https://nonton.site:8443/Ainamanja/RPLf79Gusm/37335
+# #http://iptv.tvmalaysia.cc:80/321456/321456/6740
 # #http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AstroCitraHD" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png",Astro Citra HD
@@ -71,16 +75,19 @@ http://iptv.tvmalaysia.cc:80/321456/321456/7267
 # #http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AstroRaniaHD" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png",Astro Rania HD
-http://iptv.tvmalaysia.cc:80/321456/321456/6729
+https://nonton.site:8443/Ainamanja/RPLf79Gusm/37467
+# #http://iptv.tvmalaysia.cc:80/321456/321456/6729
 
 #EXTINF:-1 tvg-id="AstroAuraHD" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png",Astro Aura HD
-http://iptv.tvmalaysia.cc:80/321456/321456/6713
+https://nonton.site:8443/Ainamanja/RPLf79Gusm/37468
+#http://iptv.tvmalaysia.cc:80/321456/321456/6713
 
 #EXTINF:-1 tvg-id="BOOmalay" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png",BOO HD
 https://link.zozotv.xyz:443/Freemium4/unlimited99/2
 
 #EXTINF:-1 tvg-id="NauraHD" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/299_144.png",Naura HD
-http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
+https://nonton.site:8443/Ainamanja/RPLf79Gusm/37336
+# #http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
 # https://agsplayback01.astro.com.my/CH2/master_NAURAGOSHOP4_03.m3u8
 
 #EXTINF:-1 tvg-id="HelloHD" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/110.png",Hello HD
@@ -626,10 +633,12 @@ https://link.zozotv.xyz:443/Freemium4/unlimited99/163
 # https://liveanevia.mncnow.id/live/eds/BeIN2/sa_dash_vmx/BeIN2.mpd
 
 #EXTINF:-1 tvg-id="BeINSPORTSMAX" group-title="SPORTS" tvg-logo="https://i.postimg.cc/QxTnfTBd/bein-sports-max.png",beIN Sports MAX HD
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6748
+https://nonton.site:8443/Ainamanja/RPLf79Gusm/37433
+# #http://iptv.tvmalaysia.cc:80/penang172/penang172/6748
 
 #EXTINF:-1 tvg-id="EuroSport" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/38_144.png",Eurosport HD
-https://link.zozotv.xyz:443/Freemium4/unlimited99/328
+https://nonton.site:8443/Ainamanja/RPLf79Gusm/37434
+# #https://link.zozotv.xyz:443/Freemium4/unlimited99/328
 # #http://iptv.tvmalaysia.cc:80/321456/321456/6784
 
 #EXTINF:-1 tvg-id="GolfChannelHD" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/189_144.png",Golf Channel HD
@@ -640,6 +649,7 @@ http://210.210.155.35:80/uq2663/h/h22/01.m3u8
 
 #EXTINF:-1 tvg-id="WWENETWORK" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/194_144.png",WWE Network HD
 http://89.187.185.100/WWE/index.m3u8
+# #https://nonton.site:8443/Ainamanja/RPLf79Gusm/37435
 # #http://185.180.221.194:8278/streams/d/Wwe/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="1824" tvg-chno="824" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png",Astro Cricket HD
@@ -710,7 +720,8 @@ http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
 http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AstroCeriaHD" group-title="FAMILY_KIDS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png",Astro Ceria HD
-http://iptv.tvmalaysia.cc:80/321456/321456/6715
+https://nonton.site:8443/Ainamanja/RPLf79Gusm/37399
+# http://iptv.tvmalaysia.cc:80/321456/321456/6715
 # #http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 
 #EXTINF:-1 tvg-id="historyfhd" group-title="EDUCATION" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/144_144.png",History HD
