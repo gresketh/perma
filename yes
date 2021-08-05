@@ -648,7 +648,7 @@ https://linear01-playback.sooka.my/CH2/masterCH2.mpd
 # #http://210.210.155.35:80/uq2663/h/h22/01.m3u8
 # #http://210.210.155.35:80/uq2663/h/h22/01.m3u8
 
-#EXTINF:-1 tvg-id="WWENetwork.us" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/WWE_Network_logo.svg",WWE Network
+#EXTINF:-1 tvg-id="WWENetwork.us" group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/WWE_Network.svg/revision/latest?cb=20200925185931",WWE Network
 http://89.187.185.100/WWE/index.m3u8
 # #https://nonton.site:8443/Ainamanja/RPLf79Gusm/37435
 # #http://185.180.221.194:8278/streams/d/Wwe/playlist.m3u8
