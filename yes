@@ -741,46 +741,6 @@ http://iptv.tvmalaysia.cc/932633/932633/7079
 #EXTINF:-1 tvg-id="AstroArenaHD" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",Astro Arena HD
 https://linear01-playback.sooka.my/CH3/masterCH3.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDAwMjFkZWMtOWE4Zi0zMDZiLTlhOTUtY2M4MzAyMTEzNTJi
-#EXTINF:-1 group-title="SPORTS" ch-number="unifisports6" tvg-id="99972" tvg-chno="99972" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/NpUkSL3T",unifi Sports 6
-https://web.hypp.tv:443/PLTV/88888888/224/3221227795/3221227795.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDAwMjFkZWMtOWE4Zi0zMDZiLTlhOTUtY2M4MzAyMTEzNTJi
-#EXTINF:-1 group-title="SPORTS" ch-number="unifisports7" tvg-id="99971" tvg-chno="99971" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/1gQKtrxB",unifi Sports 7
-https://web.hypp.tv:443/PLTV/88888888/224/3221227787/3221227787.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDAwMjFkZWMtOWE4Zi0zMDZiLTlhOTUtY2M4MzAyMTEzNTJi
-#EXTINF:-1 group-title="SPORTS" ch-number="unifisports8" tvg-id="99970" tvg-chno="99970" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/VrUDHzHa",unifi Sports 8
-https://web.hypp.tv:443/PLTV/88888888/224/3221227798/3221227798.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDAwMjFkZWMtOWE4Zi0zMDZiLTlhOTUtY2M4MzAyMTEzNTJi
-#EXTINF:-1 group-title="SPORTS" ch-number="unifisports9" tvg-id="99969" tvg-chno="99969" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/8rs5tKy8",unifi Sports 9
-https://web.hypp.tv:443/PLTV/88888888/224/3221227793/3221227793.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDAwMjFkZWMtOWE4Zi0zMDZiLTlhOTUtY2M4MzAyMTEzNTJi
-#EXTINF:-1 group-title="SPORTS" ch-number="unifisports10" tvg-id="99968" tvg-chno="99968" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/8Y9dZUSI",unifi Sports 10
-https://web.hypp.tv:443/PLTV/88888888/224/3221227830/3221227830.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDAwMjFkZWMtOWE4Zi0zMDZiLTlhOTUtY2M4MzAyMTEzNTJi
-#EXTINF:-1 group-title="SPORTS" ch-number="unifisports11" tvg-id="99967" tvg-chno="99967" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/pC41J1AK",unifi Sports 11
-https://web.hypp.tv:443/PLTV/88888888/224/3221227833/3221227833.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDAwMjFkZWMtOWE4Zi0zMDZiLTlhOTUtY2M4MzAyMTEzNTJi
-#EXTINF:-1 group-title="SPORTS" ch-number="unifisports12" tvg-id="99966" tvg-chno="99966" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/cL0ged2e",unifi Sports 12
-https://web.hypp.tv:443/PLTV/88888888/224/3221227799/3221227799.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDAwMjFkZWMtOWE4Zi0zMDZiLTlhOTUtY2M4MzAyMTEzNTJi
-#EXTINF:-1 group-title="SPORTS" ch-number="unifisports13"  tvg-id="99965" tvg-chno="99965" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/wuC3Kw9b",unifi Sports 13
-https://web.hypp.tv:443/PLTV/88888888/224/3221227802/3221227802.mpd
-
 #EXTINF:-1 tvg-id="ES1.US" tvg-logo="https://static.epg.best/us/ESPN.us.png" group-title="SPORTS_50fps",ESPN
 http://stream2.grandma.fit/fs2.m3u8
 
