@@ -660,6 +660,9 @@ http://89.187.185.100/WWE/index.m3u8
 # ##https://nonton.site:8443/Ainamanja/RPLf79Gusm/37435
 # #http://185.180.221.194:8278/streams/d/Wwe/playlist.m3u8
 
+#EXTINF:-1 tvg-id="wwe.us" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/194_144.png",WWE Network (backup)
+http://iptv.tvmalaysia.cc:80/932633/932633/6849
+
 #EXTINF:-1 group-title="SPORTS" tvg-id="1824" tvg-chno="824" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png",Astro Cricket HD
 http://iptv.tvmalaysia.cc:80/321456/321456/6717
 # http://fastrunner.live:8080/SPYKeWkZUT/sBrlqIiJC1/62525
@@ -736,10 +739,11 @@ http://194.233.68.128:5080/LiveApp/streams/092138205532815210907549.m3u8?token=u
 #EXTINF:-1 tvg-id="historyfhd" group-title="EDUCATION" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/144_144.png",History HD
 http://iptv.tvmalaysia.cc/932633/932633/7079
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09YdzlmeW1SSkRzMFF1LVBYb18yc0huajg1clNvWmdpYW9hR1VOcHN0TXdoNGMxWWJZb2FhM1c2VGMxYklveWEzSERhVWVMR1NibjVaQUIwUVdLMGxHU3FScjRnYlRwMUtPUDVZMkd6NjN5ODcwcERyVi1YeWFUUkluYVQ0VDA1a0J5RkZMbzZXU0pWTkxMbmFub09UZHhYZ3BjaUpvbGFKS1MyOTR1VkFHWlVGLUs2OHczS19kUllSQlNwdlNOVlV1eUlPZ3J2QkpiYnEwc3A4MnpkZ29DN25fVER4eWQwTEpOU0xiU2VRUVBfTVNCWG5VbVFnZWo5WkdpT3dVS0l0VFhGaDZ1SjBPZlB2Q0VkV25yRFl4YVdOX1k0cmlRNmVxUUxOalRMVDJkRlhYTzBWdDJUUk1tWGZ0dHdZTXVqY1o0PSZjb250ZXh0VHlwZT1ub25lJmlkPTEzMjI1MTY2IiwiYWNjb3VudF9pZCI6MzA4OTYzMywiY29udGVudF9pZCI6IjlmOTlmZmEyX2QyN2FfNGNmYl9hMDViXzgzYjkxZGI4NDZkZiIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNekl3T1h3OWZ5bVJKRHMwUXUtUFhvXzJzSG5qODVyU29aZ2lhb2FHVU5wc3RNd2g0YzFZYllvYWEzVzZUYzFiSW95YTNIRGFVZUxHU2JuNVpBQjBRV0swbEdTcVJyNGdiVHAxS09QNVkyR3o2M3k4NzBwRHJWLVh5YVRSSW5hVDRUMDVrQnlGRkxvNldTSlZOTExuYW5vT1RkeFhncGNpSm9sYUpLUzI5NHVWQUdaVUYtSzY4dzNLX2RSWVJCU3B2U05WVXV5SU9ncnZCSmJicTBzcDgyemRnb0M3bl9URHh5ZDBMSk5TTGJTZVFRUF9NU0JYblVtUWdlajlaR2lPd1VLSXRUWEZoNnVKME9mUHZDRWRXbnJEWXhhV05fWTRyaVE2ZXFRTE5qVExUMmRGWFhPMFZ0MlRSTW1YZnR0d1lNdWpjWjQ9IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MzIwOX0%3d&signature=gZRefWdHJ2aT4VT4CLDwBtOpb%2bc%3d&sessionId=0293e7fc-9338-78f9-6d4b-ff891c3f6b03:8762e6a9-7c99-f9a3-607c-08c8fbc1cde5&clientTag=html5:v1.11.1&referrer=aHR0cHM6Ly9zb29rYS5teS9lbi9wbGF5Ly1sLS1oYXJpLWtlLTEwLS1zdWthbi1vbGltcGlrJTI1MjAyMDIwLzEwOTQ0OTAvcGxheWVyP2xpbmVhcklkPTEwMDA0ODgwNyZpc0xpdmU9dHJ1ZQ==
 #EXTINF:-1 tvg-id="AstroArenaHD" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",Astro Arena HD
-https://linear01-playback.sooka.my/CH3/masterCH3.mpd
+http://iptv.tvmalaysia.cc:80/932633/932633/6707
+
+#EXTINF:-1 tvg-id="AstroArenaHD" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",Astro Arena HD (backup)
+http://iptv.tvmalaysia.cc:80/932633/932633/6707
 
 #EXTINF:-1 tvg-id="ES1.US" tvg-logo="https://static.epg.best/us/ESPN.us.png" group-title="SPORTS_50fps",ESPN
 http://stream2.grandma.fit/fs2.m3u8
