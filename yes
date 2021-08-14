@@ -760,6 +760,9 @@ http://iptv.tvmalaysia.cc:80/penang173/penang173/6707
 #EXTINF:-1 tvg-id="AstroArenaHD" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",Astro Arena HD (backup2)
 http://iptv.tvmalaysia.cc:80/penang173/penang173/9010
 
+#EXTINF:-1 tvg-id="premierleague" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2020/08/epl-premierleague-logo.png" group-title="PREMIER_LEAGUE",Premier League 1
+https://push1.sxy2008.cn/live/ballbar17390.m3u8
+
 #EXTINF:-1 tvg-id="ES1.US" tvg-logo="https://static.epg.best/us/ESPN.us.png" group-title="SPORTS_50fps",ESPN
 http://stream2.grandma.fit/fs2.m3u8
 
