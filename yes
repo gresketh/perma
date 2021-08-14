@@ -1,21 +1,22 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="TV1HD" group-title="ENTERTAINMENT" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032126911a3z.png",TV1 HD
-https://github.com/196-25-717-6196/Test/raw/main/101-multi.m3u8|Referer=https://rtmklik.rtm.gov.my
-# http://1.9.62.158/PLTV/88888888/224/3221227769/3221227769.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OWY4ODZjM2UtMGFhZS0zYjJiLTk2MjktNWIyMzI3MWViNGFl
+#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
+https://web.hypp.tv:443/PLTV/88888888/224/3221227769/3221227769.mpd
 
 #EXTINF:-1 tvg-id="TV2" group-title="ENTERTAINMENT" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png",TV2
-https://github.com/196-25-717-6196/Test/raw/main/102-multi.m3u8|Referer=https://rtmklik.rtm.gov.my
-# #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-# #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDAwMjFkZWMtOWE4Zi0zMDZiLTlhOTUtY2M4MzAyMTEzNTJi
-# http://1.9.62.158/PLTV/88888888/224/3221227490/3221227490.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OWY4ODZjM2UtMGFhZS0zYjJiLTk2MjktNWIyMzI3MWViNGFl
+#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
+https://web.hypp.tv:443/PLTV/88888888/224/3221227815/3221227815.mpd
 
 #EXTINF:-1 tvg-id="TV3" group-title="ENTERTAINMENT" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",TV3
-https://github.com/196-25-717-6196/Test/raw/main/103-multi.m3u8|Referer=https://www.dailymotion.com
-# #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-# #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDAwMjFkZWMtOWE4Zi0zMDZiLTlhOTUtY2M4MzAyMTEzNTJi
-# http://1.9.62.158/PLTV/88888888/224/3221227779/3221227779.mpd|User-Agent=DmpPlayer/20.0.25.15 (Android 7.1.2; accd121c-2f28-43fd-82ec-5165bdd83549; SM-G955F)
-# http://1.9.62.158/PLTV/88888888/224/3221227779/3221227779.mpd|User-Agent=
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OWY4ODZjM2UtMGFhZS0zYjJiLTk2MjktNWIyMzI3MWViNGFl
+#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
+https://web.hypp.tv:443/PLTV/88888888/224/3221227779/3221227779.mpd
 
 #EXTINF:-1 tvg-id="TV6" group-title="ENTERTAINMENT" tvg-logo="https://mediahomes.github.io/logos/tv6.png",TV6
 https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b4064000.m3u8|Referer=https://rtmklik.rtm.gov.my
@@ -24,10 +25,10 @@ https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b4064000.m3u8|R
 https://github.com/196-25-717-6196/Test/raw/main/G%3CS%3Ehop_my-multi.m3u8
 
 #EXTINF:-1 tvg-id="NTV7" group-title="EDUCATION" tvg-logo="https://didik.tv/images/logotv2.png",DidikTV KPM
-https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHQFfVgCDmLKqyOgdidDeZkw)/dm/3/x6qp6ou/s/live-4.m3u8|Referer=https://www.dailymotion.com
-# #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-# #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDAwMjFkZWMtOWE4Zi0zMDZiLTlhOTUtY2M4MzAyMTEzNTJi
-# http://1.9.62.158/PLTV/88888888/224/3221227515/3221227515.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OWY4ODZjM2UtMGFhZS0zYjJiLTk2MjktNWIyMzI3MWViNGFl
+#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
+https://web.hypp.tv:443/PLTV/88888888/224/3221227515/3221227515.mpd
 
 #EXTINF:-1 tvg-id="8TV" group-title="ENTERTAINMENT" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190708/20190708074041526yld.png",8TV
 https://github.com/KakLongGarang/hentamsajala/raw/main/8TV.m3u8|Referer=https://www.dailymotion.com
@@ -36,10 +37,10 @@ https://github.com/KakLongGarang/hentamsajala/raw/main/8TV.m3u8|Referer=https://
 # http://1.9.62.158/PLTV/88888888/224/3221227480/3221227480.mpd
 
 #EXTINF:-1 tvg-id="TV9" group-title="ENTERTAINMENT" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/2019071607262664255l.png",TV9
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHd6oejuqK2ml3ERCNjZSgUM)/dm/3/x6qqja6/s/live-4.m3u8|Referer=https://www.dailymotion.com
-# #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-# #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDAwMjFkZWMtOWE4Zi0zMDZiLTlhOTUtY2M4MzAyMTEzNTJi
-# http://1.9.62.158/PLTV/88888888/224/3221227483/3221227483.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OWY4ODZjM2UtMGFhZS0zYjJiLTk2MjktNWIyMzI3MWViNGFl
+#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
+https://web.hypp.tv:443/PLTV/88888888/224/3221227483/3221227483.mpd
 
 #EXTINF:-1 tvg-id=" " group-title="ENTERTAINMENT" tvg-logo="https://mediahomes.github.io/logos/drama-sangat.png",Drama Sangat
 https://stream-02.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0mLMzb4QHVIjeMGeSbO4gk4)/dm/3/x6zvnex/s/live-4.m3u8|Referer=https://www.dailymotion.com
