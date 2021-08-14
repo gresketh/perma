@@ -763,6 +763,9 @@ http://iptv.tvmalaysia.cc:80/penang173/penang173/9010
 #EXTINF:-1 tvg-id="premierleague" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2020/08/epl-premierleague-logo.png" group-title="PREMIER_LEAGUE",Premier League 1
 https://push1.sxy2008.cn/live/ballbar17390.m3u8
 
+#EXTINF:-1 tvg-id="premierleague" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2020/08/epl-premierleague-logo.png" group-title="PREMIER_LEAGUE",Premier League 2
+https://tv2.tructiep.space/live/10db8bcf2b46345d/playlist.m3u8?wsSession=43c6e239007a4409b9a9a555-162894936740368&wsIPSercert=dcd4221018ec79db7d9fe41c15bd47d3&wsMonitor=0
+
 #EXTINF:-1 tvg-id="premierleague1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/BS1.svg/revision/latest?cb=20200107203607" group-title="PREMIER_LEAGUE",BeIN Sports 1 En
 https://wowzaprodhd9-lh.akamaihd.net/i/40ce7c2c_1@729045/index_2560000_av-p.m3u8?sd=10&rebase=on
 
