@@ -177,7 +177,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227560/3221227560.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDAwMjFkZWMtOWE4Zi0zMDZiLTlhOTUtY2M4MzAyMTEzNTJi
 http://1.9.62.158/PLTV/88888888/224/3221227553/3221227553.mpd
 
-#EXTINF:-1 tvg-id="ArirangTVHD" group-title="ENTERTAINMENT" tvg-logo="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png",Arirang TV
+#EXTINF:-1 tvg-id="Arirang.MACAN" group-title="ENTERTAINMENT" tvg-logo="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png",Arirang TV
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="tvNHD" group-title="ENTERTAINMENT" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716065439314yz3.png",tvN HD
@@ -321,7 +321,7 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 #EXTINF:-1 tvg-id="BOOmalay" group-title="MOVIES" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png",BOO HD
 http://iptv.tvmalaysia.cc:80/321456/321456/8872
 
-#EXTINF:-1 tvg-id="Hits.MACAN" group-title="MOVIES" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png",Hits Movies HD 
+#EXTINF:-1 tvg-id="HITSMovies.MACAN" group-title="MOVIES" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png",Hits Movies HD 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
@@ -379,7 +379,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227656/3221227656.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
-#EXTINF:-1 tvg-id="HITSHD" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png",HITS HD
+#EXTINF:-1 tvg-id="Hits.MACAN" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png",HITS HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
@@ -645,7 +645,8 @@ http://iptv.tvmalaysia.cc:80/321456/321456/6748
 # #http://iptv.tvmalaysia.cc:80/penang172/penang172/6748
 
 #EXTINF:-1 tvg-id="EuroSport" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/38_144.png",Eurosport HD
-https://nonton.site:8443/Ainamanja/RPLf79Gusm/37434
+http://77.83.117.60:8888/02_EUROHD1_720p/chunklist.m3u8
+#https://nonton.site:8443/Ainamanja/RPLf79Gusm/37434
 # #http://iptv.tvmalaysia.cc:80/321456/321456/6784
 
 #EXTINF:-1 tvg-id="GolfChannelHD" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/189_144.png",Golf Channel HD
@@ -721,19 +722,23 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 # #https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 
 #EXTINF:-1 tvg-id="AstroSuperSportHD" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png",Astro SuperSport HD
-http://iptv.tvmalaysia.cc:80/penang173/penang173/6708
+http://194.233.68.128:5080/LiveApp/streams/197624546060868296054470.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
+#http://iptv.tvmalaysia.cc:80/penang173/penang173/6708
 # #http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AstroSuperSport2HD" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png",Astro SuperSport 2 HD
-http://iptv.tvmalaysia.cc:80/penang173/penang173/6710
+http://194.233.68.128:5080/LiveApp/streams/744400635472014783693941.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
+#http://iptv.tvmalaysia.cc:80/penang173/penang173/6710
 # #http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AstroSuperSport3HD" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png",Astro SuperSport 3 HD
-http://iptv.tvmalaysia.cc:80/penang173/penang173/6711
+http://194.233.68.128:5080/LiveApp/streams/866109907624297419597997.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
+#http://iptv.tvmalaysia.cc:80/penang173/penang173/6711
 # #http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AstroSuperSport4HD" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png",Astro SuperSport 4 HD
-http://iptv.tvmalaysia.cc:80/penang173/penang173/6712
+http://194.233.68.128:5080/LiveApp/streams/004948684758244535020050.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
+#http://iptv.tvmalaysia.cc:80/penang173/penang173/6712
 # #http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AstroCeriaHD" group-title="FAMILY_KIDS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png",Astro Ceria HD
