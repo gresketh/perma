@@ -765,3 +765,6 @@ http://stream2.grandma.fit/fs2.m3u8
 
 #EXTINF:-1 tvg-id="ES2.US" tvg-logo="https://static.epg.best/us/ESPN2.us.png" group-title="SPORTS_50fps",ESPN 2
 http://stream2.grandma.fit/espn2.m3u8
+
+#EXTINF:-1 tvg-id="LALIGA1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/LaLiga_Santander_%282%29.svg" group-title="SPORTS_50fps",LaLiga 1
+https://tv2.tructiep.space/live/39b3e82efcf7bc44/playlist.m3u8?wsSession=35693f1202394a615471c1c3-162897090389306&wsIPSercert=dcd4221018ec79db7d9fe41c15bd47d3&wsMonitor=0
