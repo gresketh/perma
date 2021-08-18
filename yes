@@ -759,10 +759,10 @@ http://iptv.tvmalaysia.cc/932633/932633/7079
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AstroArenaHD" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",Astro Arena HD (backup)
-http://iptv.tvmalaysia.cc:80/penang173/penang173/6707
+http://iptv.tvmalaysia.cc:80/penang188/penang188/6707
 
 #EXTINF:-1 tvg-id="AstroArenaHD" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",Astro Arena HD (backup2)
-http://iptv.tvmalaysia.cc:80/penang173/penang173/9010
+http://iptv.tvmalaysia.cc:80/penang188/penang188/9010
 
 #EXTINF:-1 tvg-id="ES1.US" tvg-logo="https://static.epg.best/us/ESPN.us.png" group-title="SPORTS_50fps",ESPN
 http://stream2.grandma.fit/fs2.m3u8
