@@ -739,7 +739,7 @@ http://iptv.tvmalaysia.cc:80/penang18/penang188/6710
  # #http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AstroSuperSport3HD" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png",Astro SuperSport 3 HD
-http://iptv.tvmalaysia.cc:80/penang188/penang188/67011
+http://iptv.tvmalaysia.cc:80/penang188/penang188/6711
 #http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/68.m3u8
 #http://iptv.tvmalaysia.cc:80/penang188/penang188/6711
 #http://194.233.68.128:5080/LiveApp/streams/866109907624297419597997.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
@@ -747,8 +747,8 @@ http://iptv.tvmalaysia.cc:80/penang188/penang188/67011
  # #http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AstroSuperSport4HD" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png",Astro SuperSport 4 HD
-#http://iptv.tvmalaysia.cc:80/penang188/penang188/6712
-http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/69.m3u8
+http://iptv.tvmalaysia.cc:80/penang188/penang188/6712
+#http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/69.m3u8
  #http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6710
  #http://194.233.68.128:5080/LiveApp/streams/004948684758244535020050.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
  #http://iptv.tvmalaysia.cc:80/penang173/penang173/6712
