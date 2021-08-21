@@ -12,1236 +12,6 @@
     <display-name lang="en">ESPN2 US</display-name>
     <icon src="http://static.epgguide.net/icon/espn2.us.png" />
   </channel>
-  <programme start="20210813061800 +0000" stop="20210813064800 +0000" channel="wwe.us">
-    <title lang="en">This Week in WWE</title>
-    <desc lang="en">Get caught up on all the highlights from Raw and Smackdown with This Week in WWE.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/103885.jpg" />
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210813064800 +0000" stop="20210813073100 +0000" channel="wwe.us">
-    <title lang="en">The 50 Greatest Tag Teams</title>
-    <sub-title lang="en">50 Through 36</sub-title>
-    <desc lang="en">The countdown of the 50 best tag teams begins. Hosts Breezango kick off with numbers 50 through 36, including the beloved Bushwackers and Edge and Randy Orton's unlikely pairing known as Rated-RKO.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210813073100 +0000" stop="20210813081700 +0000" channel="wwe.us">
-    <title lang="en">The 50 Greatest Tag Teams</title>
-    <sub-title lang="en">35 Through 21</sub-title>
-    <desc lang="en">The countdown of the 50 greatest tag teams in WWE history continues with numbers 36 through 21, including game-changing teams such as D-Generation X, The Street Profits and The APA.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210813081700 +0000" stop="20210813085200 +0000" channel="wwe.us">
-    <title lang="en">The 50 Greatest Tag Teams</title>
-    <sub-title lang="en">20 Through 11</sub-title>
-    <desc lang="en">The countdown of the 50 greatest tag teams in WWE history reaches numbers 20 through 11, featuring legendary teams such as The Rockers, Demolition and The Rock &amp; Sock Connection.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210813085200 +0000" stop="20210813092300 +0000" channel="wwe.us">
-    <title lang="en">The 50 Greatest Tag Teams</title>
-    <sub-title lang="en">10 Through 6</sub-title>
-    <desc lang="en">The Brothers of Destruction and other dominant pairings from the past highlight the greatest tag teams in WWE history as the countdown enters the top 10.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210813092300 +0000" stop="20210813100000 +0000" channel="wwe.us">
-    <title lang="en">The 50 Greatest Tag Teams</title>
-    <sub-title lang="en">The Top 5</sub-title>
-    <desc lang="en">Only one tag team can be crowned the greatest in WWE history. The countdown of the 50 best teams to compete inside a WWE ring concludes with the top five superstar duos.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210813100000 +0000" stop="20210813110500 +0000" channel="wwe.us">
-    <title lang="en">WWE NXT UK</title>
-    <desc lang="en">Watch the up and coming superstars step into the ring to showcase the future of the UK.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210813110500 +0000" stop="20210813114000 +0000" channel="wwe.us">
-    <title lang="en">205 Live</title>
-    <desc lang="en">Performers from WWE's new cruiserweight division showcase their abilities.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210813114000 +0000" stop="20210813124000 +0000" channel="wwe.us">
-    <title lang="en">WWE's The Bump</title>
-    <desc lang="en">Get the latest news and notes from around the WWE universe along with interviews and more.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210813124000 +0000" stop="20210813131000 +0000" channel="wwe.us">
-    <title lang="en">This Week in WWE</title>
-    <desc lang="en">Get caught up on all the highlights from Raw and Smackdown with This Week in WWE.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/103885.jpg" />
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210813131000 +0000" stop="20210813133100 +0000" channel="wwe.us">
-    <title lang="en">Goldberg at 54</title>
-    <desc lang="en">Goldberg never thought he would still be wrestling at 54 years old. Thanks to changes in his training and the drive to continue to push himself in a sport he has grown to love, the WWE Hall of Famer still competes inside the squared circle.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-  </programme>
-  <programme start="20210813133100 +0000" stop="20210813173000 +0000" channel="wwe.us">
-    <title lang="en">The Best of WWE</title>
-    <sub-title lang="en">The Best of Sasha Banks</sub-title>
-    <desc lang="en">Sasha Banks blazes a trail from NXT to WWE's main event. In this collection, Sasha collides with her greatest rival Bayley, battles Becky Lynch inside Hell in a Cell and goes to war with Charlotte Flair over the Raw Women's Championship.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210813173000 +0000" stop="20210813182000 +0000" channel="wwe.us">
-    <title lang="en">WWE Chronicle</title>
-    <sub-title lang="en">Sasha Banks</sub-title>
-    <desc lang="en">Look on as Sasha Banks prepares to return to WWE from her six month absence.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210813182000 +0000" stop="20210813190000 +0000" channel="wwe.us">
-    <title lang="en">WWE Untold</title>
-    <sub-title lang="en">Bayley and Sasha Take Over Brooklyn</sub-title>
-    <desc lang="en">Two real-life friends transform themselves into WWE superstars Bayley and Sasha Banks. These two ground-breaking competitors overcome their own self-doubt to main event NXT TakeOver: Brooklyn, changing how female superstars are perceived.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210813190000 +0000" stop="20210813203500 +0000" channel="wwe.us">
-    <title lang="en">Steve Austin's Broken Skull Sessions</title>
-    <sub-title lang="en">Sasha Banks</sub-title>
-    <desc lang="en">Sasha Banks joins Steve Austin for an in-depth conversation about The Boss' career, her most impactful matches and her experience filming 'The Mandalorian.'.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210813203500 +0000" stop="20210813210000 +0000" channel="wwe.us">
-    <title lang="en">WWE Break it Down</title>
-    <sub-title lang="en">Sasha Banks</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210813210000 +0000" stop="20210813223000 +0000" channel="wwe.us">
-    <title lang="en">WWE SmackDown</title>
-    <desc lang="en">WWE World Heavyweight Champion Seth Rollins and Kevin Owens take on Neville and Cesaro. Intercontinental Champion Ryback gets some words of inspiration from Bo Dallas. Plus, Naomi looks to score a win for Team B.A.D. when she takes on Charlotte.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/51605.jpg" />
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210813223000 +0000" stop="20210814000000 +0000" channel="wwe.us">
-    <title lang="en">WWE SmackDown</title>
-    <desc lang="en">As Roman Reigns continues to search for his attacker, 'The New' Daniel Bryan and Rowan deny their involvement. The New Day battle Randy Orton and The Revival. Plus, Kevin Owens faces repercussions for SummerSlam as he takes on Samoa Joe.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/51605.jpg" />
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210814000000 +0000" stop="20210814003000 +0000" channel="wwe.us">
-    <title lang="en">WWE Day Of</title>
-    <sub-title lang="en">Summerslam 2020</sub-title>
-    <desc lang="en">In the hours before SummerSlam 2020, Dominik Mysterio opens up about carrying the weight of the Mysterio family legacy into his WWE debut match against Seth Rollins. Sonya Deville reflects on facing Mandy Rose in a significant and personal match.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210814003000 +0000" stop="20210814012500 +0000" channel="wwe.us">
-    <title lang="en">Ruthless Aggression</title>
-    <sub-title lang="en">The Next Big Thing</sub-title>
-    <desc lang="en">In search of 'The Next Big Thing,' WWE embraces Brock Lesnar's superstar potential in the ring and his ruthless aggression behind the scenes. Relive Lesnar's rise to the top, rivalries with The Rock and Hulk Hogan and his decision to depart WWE.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20210814012500 +0000" stop="20210814020000 +0000" channel="wwe.us">
-    <title lang="en">205 Live</title>
-    <desc lang="en">Performers from WWE's new cruiserweight division showcase their abilities.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210814020000 +0000" stop="20210814023500 +0000" channel="wwe.us">
-    <title lang="en">205 Live</title>
-    <desc lang="en">Performers from WWE's new cruiserweight division showcase their abilities.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210814023500 +0000" stop="20210814053500 +0000" channel="wwe.us">
-    <title lang="en">The Best of WWE</title>
-    <sub-title lang="en">The Best of Goldberg</sub-title>
-    <desc lang="en">Watch Goldberg spear his way to sports-entertainment greatness with his most memorable matches in WCW and WWE. See the WWE Hall of Famer's epic battles against Hollywood Hogan, Sting, The Rock, Brock Lesnar and others.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210814053500 +0000" stop="20210814061000 +0000" channel="wwe.us">
-    <title lang="en">205 Live</title>
-    <desc lang="en">Performers from WWE's new cruiserweight division showcase their abilities.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210814061000 +0000" stop="20210814070500 +0000" channel="wwe.us">
-    <title lang="en">WWE Untold</title>
-    <sub-title lang="en">Two Dudes with Attitudes</sub-title>
-    <desc lang="en">Shawn Michaels and Kevin Nash truly are Two Dudes with Attitudes. These hell-raising superstars share how they forged a lifelong friendship that would not only shape their legendary careers, but also leave a lasting impact on sports-entertainment.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210814070500 +0000" stop="20210814093000 +0000" channel="wwe.us">
-    <title lang="en">NXT TakeOver</title>
-    <sub-title lang="en">Brooklyn III</sub-title>
-    <desc lang="en">The Superstars of NXT invade New York with NXT TakeOver: Brooklyn III.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210814093000 +0000" stop="20210814100000 +0000" channel="wwe.us">
-    <title lang="en">This Week in WWE</title>
-    <desc lang="en">Get caught up on all the highlights from Raw and Smackdown with This Week in WWE.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/103885.jpg" />
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210814100000 +0000" stop="20210814110000 +0000" channel="wwe.us">
-    <title lang="en">WWE's The Bump</title>
-    <desc lang="en">Get the latest news and notes from around the WWE universe along with interviews and more.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210814110000 +0000" stop="20210814120500 +0000" channel="wwe.us">
-    <title lang="en">WWE NXT UK</title>
-    <desc lang="en">Watch the up and coming superstars step into the ring to showcase the future of the UK.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210814120500 +0000" stop="20210814124000 +0000" channel="wwe.us">
-    <title lang="en">205 Live</title>
-    <desc lang="en">Performers from WWE's new cruiserweight division showcase their abilities.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210814124000 +0000" stop="20210814140000 +0000" channel="wwe.us">
-    <title lang="en">WWE Icons</title>
-    <sub-title lang="en">Beth Phoenix</sub-title>
-    <desc lang="en">From being the first female competitor on her high school wrestling team to redefining the role of women in sports-entertainment, Beth Phoenix lives by her motto, 'If you don't fit in, that's because you're not meant to.'.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210814140000 +0000" stop="20210814180000 +0000" channel="wwe.us">
-    <title lang="en">WWE: SummerSlam</title>
-    <desc lang="en">Brock Lesnar, Roman Reigns, Samoa Joe and Braun Strowman step into the ring to battle for the Universal Championship. Plus, Shinsuke Nakamura takes on Jinder Mahal and Naomi defends her title against Natalya.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210814180000 +0000" stop="20210814183000 +0000" channel="wwe.us">
-    <title lang="en">WWE Talking Smack</title>
-    <desc lang="en">Renee Young catches up with SmackDown Superstars to discuss the show.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210814183000 +0000" stop="20210814191500 +0000" channel="wwe.us">
-    <title lang="en">WWE Untold</title>
-    <sub-title lang="en">The Champ is Here</sub-title>
-    <desc lang="en">John Cena and Edge share the stories behind their combustible rivalry that led to an epic tables, ladders and chairs match at Unforgiven 2006.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210814191500 +0000" stop="20210814200000 +0000" channel="wwe.us">
-    <title lang="en">WWE Timeline</title>
-    <sub-title lang="en">The Face That Runs The Place</sub-title>
-    <desc lang="en">Relive some of the greatest rivalries and character transformations in WWE history.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210814200000 +0000" stop="20210814220000 +0000" channel="wwe.us">
-    <title lang="en">WWE Beyond the Ring</title>
-    <sub-title lang="en">John Cena's Greatest Rivalries</sub-title>
-    <desc lang="en">Relive all the classic feuds with John Cena himself as he gives insight into the rivalries that defined his WWE legacy.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210814220000 +0000" stop="20210814223000 +0000" channel="wwe.us">
-    <title lang="en">WWE Talking Smack</title>
-    <desc lang="en">Renee Young catches up with SmackDown Superstars to discuss the show.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210814223000 +0000" stop="20210815000000 +0000" channel="wwe.us">
-    <title lang="en">Steve Austin's Broken Skull Sessions</title>
-    <sub-title lang="en">The Godfather</sub-title>
-    <desc lang="en">Hop aboard the train as 'Stone Cold' Steve Austin and 'The Godfather' Charles Wright trade classic road stories, reminisce about wild times from the Attitude Era, as well as discuss the many personas portrayed during Wright's Hall of Fame career.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20210815000000 +0000" stop="20210815043500 +0000" channel="wwe.us">
-    <title lang="en">The Best of WWE</title>
-    <sub-title lang="en">Best of John Cena</sub-title>
-    <desc lang="en">John Cena shows off his hustle, demands loyalty and earns respect as he faces legendary rivals including Edge, AJ Styles, The Rock and Randy Orton in this anthology of his greatest matches.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210815043500 +0000" stop="20210815053000 +0000" channel="wwe.us">
-    <title lang="en">Ruthless Aggression</title>
-    <sub-title lang="en">Enter John Cena</sub-title>
-    <desc lang="en">An up-and-coming Superstar makes a play for the brass ring following the announcement of Ruthless Aggression.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20210815053000 +0000" stop="20210815055500 +0000" channel="wwe.us">
-    <title lang="en">WWE Day Of</title>
-    <sub-title lang="en">Summerslam 2020</sub-title>
-    <desc lang="en">In the hours before SummerSlam 2020, Dominik Mysterio opens up about carrying the weight of the Mysterio family legacy into his WWE debut match against Seth Rollins. Sonya Deville reflects on facing Mandy Rose in a significant and personal match.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210815055500 +0000" stop="20210815070000 +0000" channel="wwe.us">
-    <title lang="en">WWE NXT UK</title>
-    <desc lang="en">Watch the up and coming superstars step into the ring to showcase the future of the UK.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210815070000 +0000" stop="20210815083000 +0000" channel="wwe.us">
-    <title lang="en">Steve Austin's Broken Skull Sessions</title>
-    <sub-title lang="en">Sasha Banks</sub-title>
-    <desc lang="en">Sasha Banks joins Steve Austin for an in-depth conversation about The Boss' career, her most impactful matches and her experience filming 'The Mandalorian.'.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210815083000 +0000" stop="20210815100000 +0000" channel="wwe.us">
-    <title lang="en">WWE Icons</title>
-    <sub-title lang="en">Rob Van Dam</sub-title>
-    <desc lang="en">From his early days competing in ECW to becoming 'Mr. Monday Night' and capturing the WWE Championship, Rob Van Dam defied expectations, soaring to unparalleled heights as a one-of-a-kind superstar.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210815100000 +0000" stop="20210815112000 +0000" channel="wwe.us">
-    <title lang="en">WWE 24</title>
-    <sub-title lang="en">The Miz</sub-title>
-    <desc lang="en">The Miz explores his unbelievable ascent from reality show standout to one of the most decorated WWE superstars of all time. The A-Lister recounts his WrestleMania main event, juggling his success both in the ring and on his hit reality show, 'Miz &amp; Mrs.'.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210815112000 +0000" stop="20210815120000 +0000" channel="wwe.us">
-    <title lang="en">WWE Untold</title>
-    <sub-title lang="en">Bayley and Sasha Take Over Brooklyn</sub-title>
-    <desc lang="en">Two real-life friends transform themselves into WWE superstars Bayley and Sasha Banks. These two ground-breaking competitors overcome their own self-doubt to main event NXT TakeOver: Brooklyn, changing how female superstars are perceived.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210815120000 +0000" stop="20210815160000 +0000" channel="wwe.us">
-    <title lang="en">WWE: SummerSlam</title>
-    <sub-title lang="en">2018</sub-title>
-    <desc lang="en">Roman Reigns faces Brock Lesnar in a Universal Championship Match, Kevin Owens takes on Braun Strowman for his MITB briefcase, Alexa Bliss defends her Women's Championship against 'Rowdy' Ronda Rousey, and much more.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210815160000 +0000" stop="20210815171500 +0000" channel="wwe.us">
-    <title lang="en">Steve Austin's Broken Skull Sessions</title>
-    <sub-title lang="en">Goldberg</sub-title>
-    <desc lang="en">'Stone Cold' Steve Austin sits down with fellow WWE Hall of Famer Goldberg to reflect on his legendary career in sports entertainment.Guests: Bill Goldberg..</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20210815171500 +0000" stop="20210815190000 +0000" channel="wwe.us">
-    <title lang="en">Steve Austin's Broken Skull Sessions</title>
-    <sub-title lang="en">Randy Orton</sub-title>
-    <desc lang="en">'The Texas Rattlesnake' Steve Austin and 'The Viper' Randy Orton come face-to-face in a no holds barred interview covering the life, legacy and defining moments of Orton's legendary career thus far.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210815190000 +0000" stop="20210815203000 +0000" channel="wwe.us">
-    <title lang="en">Steve Austin's Broken Skull Sessions</title>
-    <sub-title lang="en">The Godfather</sub-title>
-    <desc lang="en">Hop aboard the train as 'Stone Cold' Steve Austin and 'The Godfather' Charles Wright trade classic road stories, reminisce about wild times from the Attitude Era, as well as discuss the many personas portrayed during Wright's Hall of Fame career.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20210815203000 +0000" stop="20210815223000 +0000" channel="wwe.us">
-    <title lang="en">Steve Austin's Broken Skull Sessions</title>
-    <sub-title lang="en">Mick Foley</sub-title>
-    <desc lang="en">Steve Austin welcomes WWE Hall of Famer Mick Foley to the Broken Skull Sessions for some good road stories, as well as a deep dive into the definitive matches and milestones of the hardcore legend's career.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210815223000 +0000" stop="20210816000000 +0000" channel="wwe.us">
-    <title lang="en">Steve Austin's Broken Skull Sessions</title>
-    <sub-title lang="en">Kevin Nash</sub-title>
-    <desc lang="en">Steve Austin and two-time WWE Hall of Famer Kevin Nash discuss everything from 'Big Daddy Cool' and The Kliq to The nWo and the Monday Night War, as well as never-before-heard road stories.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210816000000 +0000" stop="20210816014500 +0000" channel="wwe.us">
-    <title lang="en">Steve Austin's Broken Skull Sessions</title>
-    <sub-title lang="en">Bobby Lashley</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20210816014500 +0000" stop="20210816030000 +0000" channel="wwe.us">
-    <title lang="en">Steve Austin's Broken Skull Sessions</title>
-    <sub-title lang="en">Goldberg</sub-title>
-    <desc lang="en">'Stone Cold' Steve Austin sits down with fellow WWE Hall of Famer Goldberg to reflect on his legendary career in sports entertainment.Guests: Bill Goldberg..</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20210816030000 +0000" stop="20210816033000 +0000" channel="wwe.us">
-    <title lang="en">Goldberg at 54</title>
-    <desc lang="en">Goldberg never thought he would still be wrestling at 54 years old. Thanks to changes in his training and the drive to continue to push himself in a sport he has grown to love, the WWE Hall of Famer still competes inside the squared circle.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-  </programme>
-  <programme start="20210816033000 +0000" stop="20210816061500 +0000" channel="wwe.us">
-    <title lang="en">NXT TakeOver</title>
-    <sub-title lang="en">Brooklyn IV</sub-title>
-    <desc lang="en">Best-friends-turned-bitter-enemies Tommaso Ciampa and Johnny Gargano test their fortitude in a last man standing match for the NXT Championship. Plus, Kairi Sane challenges Shayna Baszler for the NXT Women's Championship and Ricochet targets Adam Cole.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210816061500 +0000" stop="20210816070000 +0000" channel="wwe.us">
-    <title lang="en">WWE Untold</title>
-    <sub-title lang="en">Bayley and Sasha Take Over Brooklyn</sub-title>
-    <desc lang="en">Two real-life friends transform themselves into WWE superstars Bayley and Sasha Banks. These two ground-breaking competitors overcome their own self-doubt to main event NXT TakeOver: Brooklyn, changing how female superstars are perceived.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210816070000 +0000" stop="20210816084500 +0000" channel="wwe.us">
-    <title lang="en">Steve Austin's Broken Skull Sessions</title>
-    <sub-title lang="en">Bobby Lashley</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20210816084500 +0000" stop="20210816100000 +0000" channel="wwe.us">
-    <title lang="en">Steve Austin's Broken Skull Sessions</title>
-    <sub-title lang="en">Goldberg</sub-title>
-    <desc lang="en">'Stone Cold' Steve Austin sits down with fellow WWE Hall of Famer Goldberg to reflect on his legendary career in sports entertainment.Guests: Bill Goldberg..</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20210816100000 +0000" stop="20210816140000 +0000" channel="wwe.us">
-    <title lang="en">The Best of WWE</title>
-    <sub-title lang="en">The Best of SummerSlam</sub-title>
-    <desc lang="en">It's the biggest matches from The Biggest Event of the Summer. Explore the epic bouts that made SummerSlam into summertime's can't-miss event, featuring classic battles with The Rock, Brock Lesnar, Bret 'Hit Man' Hart and Roman Reigns.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210816140000 +0000" stop="20210816143000 +0000" channel="wwe.us">
-    <title lang="en">WWE Marquee Matches</title>
-    <sub-title lang="en">SummerSlam 2003: Angle vs. Lesnar</sub-title>
-    <desc lang="en">Kurt Angle continues his epic rivalry with Brock Lesnar in a Wrestlemania 19 main event rematch for the WWE Championship.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210816143000 +0000" stop="20210816163000 +0000" channel="wwe.us">
-    <title lang="en">Steve Austin's Broken Skull Sessions</title>
-    <sub-title lang="en">Bobby Lashley</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20210816163000 +0000" stop="20210816173000 +0000" channel="wwe.us">
-    <title lang="en">WWE NXT UK</title>
-    <desc lang="en">Watch the up and coming superstars step into the ring to showcase the future of the UK.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210816173000 +0000" stop="20210816180500 +0000" channel="wwe.us">
-    <title lang="en">205 Live</title>
-    <desc lang="en">Performers from WWE's new cruiserweight division showcase their abilities.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210816180500 +0000" stop="20210816190000 +0000" channel="wwe.us">
-    <title lang="en">WWE Raw</title>
-    <desc lang="en">Will the 1-2-3 Kid have what it takes to upset the Million Dollar Man Ted Dibiase? Bastion Booger faces Marty Jannetty. The Headshrinkers, Bam Bam Bigelow and Men on a Mission are in action.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/6516.jpg" />
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210816190000 +0000" stop="20210816220000 +0000" channel="wwe.us">
-    <title lang="en">WWE: SummerSlam</title>
-    <sub-title lang="en">2012</sub-title>
-    <desc lang="en">The perfect storm hits as Brock Lesnar threatens to change the face of WWE forever.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20210816220000 +0000" stop="20210816222500 +0000" channel="wwe.us">
-    <title lang="en">WWE Day Of</title>
-    <sub-title lang="en">Summerslam 2020</sub-title>
-    <desc lang="en">In the hours before SummerSlam 2020, Dominik Mysterio opens up about carrying the weight of the Mysterio family legacy into his WWE debut match against Seth Rollins. Sonya Deville reflects on facing Mandy Rose in a significant and personal match.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210816222500 +0000" stop="20210817000000 +0000" channel="wwe.us">
-    <title lang="en">WWE Raw</title>
-    <desc lang="en">After suffering defeat at SummerSlam, each of The Nexus members find themselves competing in a series of singles bouts with various Raw Superstars.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/6516.jpg" />
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210817000000 +0000" stop="20210817010500 +0000" channel="wwe.us">
-    <title lang="en">WWE 24</title>
-    <sub-title lang="en">WrestleMania: The Show Must Go On</sub-title>
-    <desc lang="en">The global COVID-19 pandemic forces WWE to change course and do the unthinkable as Drew McIntyre, Braun Strowman, John Cena, Rhea Ripley, Rob Gronkowski and others prepare for an unprecedented two-night WrestleMania inside the WWE Performance Center.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210817010500 +0000" stop="20210817020000 +0000" channel="wwe.us">
-    <title lang="en">WWE Chronicle</title>
-    <sub-title lang="en">Sasha Banks</sub-title>
-    <desc lang="en">Look on as Sasha Banks prepares to return to WWE from her six month absence.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210817020000 +0000" stop="20210817030500 +0000" channel="wwe.us">
-    <title lang="en">WWE NXT UK</title>
-    <desc lang="en">Watch the up and coming superstars step into the ring to showcase the future of the UK.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210817030500 +0000" stop="20210817033500 +0000" channel="wwe.us">
-    <title lang="en">RAW Talk</title>
-    <desc lang="en">RAW Superstars share their thoughts and opinions of all the night's action.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210817033500 +0000" stop="20210817053000 +0000" channel="wwe.us">
-    <title lang="en">Steve Austin's Broken Skull Sessions</title>
-    <sub-title lang="en">Bobby Lashley</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20210817053000 +0000" stop="20210817060000 +0000" channel="wwe.us">
-    <title lang="en">WWE Marquee Matches</title>
-    <sub-title lang="en">SummerSlam 2016: Cena vs. Styles</sub-title>
-    <desc lang="en">The Phenomenal One, AJ Styles battles John Cena to prove he is the face that runs the place.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210817060000 +0000" stop="20210817063000 +0000" channel="wwe.us">
-    <title lang="en">RAW Talk</title>
-    <desc lang="en">RAW Superstars share their thoughts and opinions of all the night's action.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210817063000 +0000" stop="20210817070000 +0000" channel="wwe.us">
-    <title lang="en">This Week in WWE</title>
-    <desc lang="en">Get caught up on all the highlights from Raw and Smackdown with This Week in WWE.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/103885.jpg" />
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210817070000 +0000" stop="20210817100000 +0000" channel="wwe.us">
-    <title lang="en">WWE: SummerSlam</title>
-    <sub-title lang="en">2013</sub-title>
-    <desc lang="en">Daniel Bryan heads to Los Angeles to challenge John Cena for the WWE title. Plus, 'The Best in the World' takes on Brock Lesnar and Alberto Del Rio defends the heavyweight title against Christian.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210817100000 +0000" stop="20210817130000 +0000" channel="wwe.us">
-    <title lang="en">The Best of WWE</title>
-    <sub-title lang="en">The Best of Goldberg</sub-title>
-    <desc lang="en">Watch Goldberg spear his way to sports-entertainment greatness with his most memorable matches in WCW and WWE. See the WWE Hall of Famer's epic battles against Hollywood Hogan, Sting, The Rock, Brock Lesnar and others.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210817130000 +0000" stop="20210817164000 +0000" channel="wwe.us">
-    <title lang="en">WWE: Money in the Bank</title>
-    <sub-title lang="en">2019</sub-title>
-    <desc lang="en">Kofi Kingston defends the WWE Championship against Kevin Owens. Seth Rollins and AJ Styles compete for the Universal Championship. Superstars from Raw and SmackDown LIVE battle in two action-packed Money in the Bank Ladder Matches.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20210817164000 +0000" stop="20210817173000 +0000" channel="wwe.us">
-    <title lang="en">WWE Untold</title>
-    <sub-title lang="en">Edge vs. Foley: WrestleMania 22</sub-title>
-    <desc lang="en">Mick Foley came out of retirement in 2006 in search of that elusive WrestleMania moment. Not only does The Hardcore Legend find his WrestleMania moment, but he does so while forging a lasting friendship with his opponent Edge in a grisly matchup.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210817173000 +0000" stop="20210817182500 +0000" channel="wwe.us">
-    <title lang="en">WWE NXT UK</title>
-    <desc lang="en">Watch the up and coming superstars step into the ring to showcase the future of the UK.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210817182500 +0000" stop="20210817190000 +0000" channel="wwe.us">
-    <title lang="en">205 Live</title>
-    <desc lang="en">Performers from WWE's new cruiserweight division showcase their abilities.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210817190000 +0000" stop="20210817230000 +0000" channel="wwe.us">
-    <title lang="en">The Best of WWE</title>
-    <sub-title lang="en">The Best of Sasha Banks</sub-title>
-    <desc lang="en">Sasha Banks blazes a trail from NXT to WWE's main event. In this collection, Sasha collides with her greatest rival Bayley, battles Becky Lynch inside Hell in a Cell and goes to war with Charlotte Flair over the Raw Women's Championship.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210817230000 +0000" stop="20210818000000 +0000" channel="wwe.us">
-    <title lang="en">WWE NXT</title>
-    <desc lang="en">A unique acrobatic and theatrically aggressive presentation of wrestling.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/6535.jpg" />
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210818000000 +0000" stop="20210818020000 +0000" channel="wwe.us">
-    <title lang="en">Steve Austin's Broken Skull Sessions</title>
-    <sub-title lang="en">Bobby Lashley</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20210818020000 +0000" stop="20210818033300 +0000" channel="wwe.us">
-    <title lang="en">WWE NXT</title>
-    <desc lang="en">A unique acrobatic and theatrically aggressive presentation of wrestling.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/6535.jpg" />
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210818033300 +0000" stop="20210818035800 +0000" channel="wwe.us">
-    <title lang="en">WWE Marquee Matches</title>
-    <sub-title lang="en">SummerSlam 2003: Angle vs. Lesnar</sub-title>
-    <desc lang="en">Kurt Angle continues his epic rivalry with Brock Lesnar in a Wrestlemania 19 main event rematch for the WWE Championship.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210818035800 +0000" stop="20210818042800 +0000" channel="wwe.us">
-    <title lang="en">WWE Marquee Matches</title>
-    <sub-title lang="en">SummerSlam 2013: Cena vs. Bryan</sub-title>
-    <desc lang="en">John Cena faces underdog Daniel Bryan in a WWE Championship match that would change the course of WWE history forever.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210818042800 +0000" stop="20210818045800 +0000" channel="wwe.us">
-    <title lang="en">WWE Marquee Matches</title>
-    <sub-title lang="en">SummerSlam 2016: Cena vs. Styles</sub-title>
-    <desc lang="en">The Phenomenal One, AJ Styles battles John Cena to prove he is the face that runs the place.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210818045800 +0000" stop="20210818063000 +0000" channel="wwe.us">
-    <title lang="en">WWE NXT</title>
-    <desc lang="en">A unique acrobatic and theatrically aggressive presentation of wrestling.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/6535.jpg" />
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210818063000 +0000" stop="20210818064800 +0000" channel="wwe.us">
-    <title lang="en">WWE Day Of</title>
-    <sub-title lang="en">SummerSlam 2015</sub-title>
-    <desc lang="en">Seth Rollins balances being WWE World Heavyweight Champion while preparing to face United States Champion John Cena in a winner take all match at SummerSlam 2015.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210818064800 +0000" stop="20210818073100 +0000" channel="wwe.us">
-    <title lang="en">The 50 Greatest Tag Teams</title>
-    <sub-title lang="en">50 Through 36</sub-title>
-    <desc lang="en">The countdown of the 50 best tag teams begins. Hosts Breezango kick off with numbers 50 through 36, including the beloved Bushwackers and Edge and Randy Orton's unlikely pairing known as Rated-RKO.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210818073100 +0000" stop="20210818081700 +0000" channel="wwe.us">
-    <title lang="en">The 50 Greatest Tag Teams</title>
-    <sub-title lang="en">35 Through 21</sub-title>
-    <desc lang="en">The countdown of the 50 greatest tag teams in WWE history continues with numbers 36 through 21, including game-changing teams such as D-Generation X, The Street Profits and The APA.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210818081700 +0000" stop="20210818085200 +0000" channel="wwe.us">
-    <title lang="en">The 50 Greatest Tag Teams</title>
-    <sub-title lang="en">20 Through 11</sub-title>
-    <desc lang="en">The countdown of the 50 greatest tag teams in WWE history reaches numbers 20 through 11, featuring legendary teams such as The Rockers, Demolition and The Rock &amp; Sock Connection.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210818085200 +0000" stop="20210818092300 +0000" channel="wwe.us">
-    <title lang="en">The 50 Greatest Tag Teams</title>
-    <sub-title lang="en">10 Through 6</sub-title>
-    <desc lang="en">The Brothers of Destruction and other dominant pairings from the past highlight the greatest tag teams in WWE history as the countdown enters the top 10.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210818092300 +0000" stop="20210818100000 +0000" channel="wwe.us">
-    <title lang="en">The 50 Greatest Tag Teams</title>
-    <sub-title lang="en">The Top 5</sub-title>
-    <desc lang="en">Only one tag team can be crowned the greatest in WWE history. The countdown of the 50 best teams to compete inside a WWE ring concludes with the top five superstar duos.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210818100000 +0000" stop="20210818133500 +0000" channel="wwe.us">
-    <title lang="en">The Best of WWE</title>
-    <sub-title lang="en">Roman Reigns' Championship Matches</sub-title>
-    <desc lang="en">Roman Reigns takes his place at the head of the table and the top of WWE in this anthology of The Big Dog's championship matches. Superstars who step into Reigns' yard include Brock Lesnar, AJ Styles, Braun Strowman and Triple H.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210818133500 +0000" stop="20210818140000 +0000" channel="wwe.us">
-    <title lang="en">WWE Day Of</title>
-    <sub-title lang="en">Summerslam 2020</sub-title>
-    <desc lang="en">In the hours before SummerSlam 2020, Dominik Mysterio opens up about carrying the weight of the Mysterio family legacy into his WWE debut match against Seth Rollins. Sonya Deville reflects on facing Mandy Rose in a significant and personal match.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210818140000 +0000" stop="20210818150000 +0000" channel="wwe.us">
-    <title lang="en">WWE's The Bump</title>
-    <desc lang="en">Get the latest news and notes from around the WWE universe along with interviews and more.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210818150000 +0000" stop="20210818165500 +0000" channel="wwe.us">
-    <title lang="en">Steve Austin's Broken Skull Sessions</title>
-    <sub-title lang="en">Bobby Lashley</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20210818165500 +0000" stop="20210818190000 +0000" channel="wwe.us">
-    <title lang="en">WWE Beyond the Ring</title>
-    <sub-title lang="en">John Cena's Greatest Rivalries</sub-title>
-    <desc lang="en">Relive all the classic feuds with John Cena himself as he gives insight into the rivalries that defined his WWE legacy.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210818190000 +0000" stop="20210818200000 +0000" channel="wwe.us">
-    <title lang="en">WWE's The Bump</title>
-    <desc lang="en">Get the latest news and notes from around the WWE universe along with interviews and more.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210818200000 +0000" stop="20210818215000 +0000" channel="wwe.us">
-    <title lang="en">Steve Austin's Broken Skull Sessions</title>
-    <sub-title lang="en">Bobby Lashley</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20210818215000 +0000" stop="20210818231000 +0000" channel="wwe.us">
-    <title lang="en">WWE 24</title>
-    <sub-title lang="en">Edge: The Second Mountain</sub-title>
-    <desc lang="en">Forced into an early retirement nearly a decade earlier, WWE Hall of Famer Edge defies the odds in an emotional journey to relive his dream. What began as a documentary about life after wrestling becomes an impossible second chance.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210818231000 +0000" stop="20210819000000 +0000" channel="wwe.us">
-    <title lang="en">WWE Untold</title>
-    <sub-title lang="en">Edge vs. Foley: WrestleMania 22</sub-title>
-    <desc lang="en">Mick Foley came out of retirement in 2006 in search of that elusive WrestleMania moment. Not only does The Hardcore Legend find his WrestleMania moment, but he does so while forging a lasting friendship with his opponent Edge in a grisly matchup.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210819000000 +0000" stop="20210819010000 +0000" channel="wwe.us">
-    <title lang="en">WWE's The Bump</title>
-    <desc lang="en">Get the latest news and notes from around the WWE universe along with interviews and more.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210819010000 +0000" stop="20210819023000 +0000" channel="wwe.us">
-    <title lang="en">Steve Austin's Broken Skull Sessions</title>
-    <sub-title lang="en">Kevin Nash</sub-title>
-    <desc lang="en">Steve Austin and two-time WWE Hall of Famer Kevin Nash discuss everything from 'Big Daddy Cool' and The Kliq to The nWo and the Monday Night War, as well as never-before-heard road stories.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210819023000 +0000" stop="20210819061500 +0000" channel="wwe.us">
-    <title lang="en">WWE: SummerSlam</title>
-    <sub-title lang="en">2015</sub-title>
-    <desc lang="en">The Undertaker aims to validate a quarter century of dominance when he attempts to avenge The Streak against Brock Lesnar.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210819061500 +0000" stop="20210819071500 +0000" channel="wwe.us">
-    <title lang="en">WWE Main Event</title>
-    <desc lang="en">US Champion Sheamus takes on Curtis Axel. Big Show and Mark Henry take on Luke Harper and Erick Rowan. Triple H makes a special announcement regarding WWE World Heavyweight Champion Brock Lesnar and the man he defeated for the title, John Cena.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210819071500 +0000" stop="20210819093500 +0000" channel="wwe.us">
-    <title lang="en">NXT TakeOver</title>
-    <sub-title lang="en">Brooklyn</sub-title>
-    <desc lang="en">Superstars and divas head to Brooklyn to jump into the ring for the biggest NXT TakeOver yet. Finn Balor and Kevin Owens battle in a ladder match and Bayley challenges Sasha Banks for the NXT Divas Championship.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210819093500 +0000" stop="20210819100000 +0000" channel="wwe.us">
-    <title lang="en">WWE Marquee Matches</title>
-    <sub-title lang="en">SummerSlam 2003: Angle vs. Lesnar</sub-title>
-    <desc lang="en">Kurt Angle continues his epic rivalry with Brock Lesnar in a Wrestlemania 19 main event rematch for the WWE Championship.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210819100000 +0000" stop="20210819103500 +0000" channel="wwe.us">
-    <title lang="en">205 Live</title>
-    <desc lang="en">Performers from WWE's new cruiserweight division showcase their abilities.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210819103500 +0000" stop="20210819114000 +0000" channel="wwe.us">
-    <title lang="en">WWE NXT UK</title>
-    <desc lang="en">Watch the up and coming superstars step into the ring to showcase the future of the UK.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210819114000 +0000" stop="20210819125500 +0000" channel="wwe.us">
-    <title lang="en">Steve Austin's Broken Skull Sessions</title>
-    <sub-title lang="en">Goldberg</sub-title>
-    <desc lang="en">'Stone Cold' Steve Austin sits down with fellow WWE Hall of Famer Goldberg to reflect on his legendary career in sports entertainment.Guests: Bill Goldberg..</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20210819125500 +0000" stop="20210819135500 +0000" channel="wwe.us">
-    <title lang="en">WWE 24</title>
-    <sub-title lang="en">Goldberg</sub-title>
-    <desc lang="en">Look at the remarkable highs and lows of Goldberg's career and return to WWE in 2016.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210819135500 +0000" stop="20210819180000 +0000" channel="wwe.us">
-    <title lang="en">WWE: SummerSlam</title>
-    <sub-title lang="en">2016</sub-title>
-    <desc lang="en">The WWE's biggest summer party takes over the Barclays Center in Brooklyn, New York.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210819180000 +0000" stop="20210819190000 +0000" channel="wwe.us">
-    <title lang="en">WWE NXT UK</title>
-    <desc lang="en">Watch the up and coming superstars step into the ring to showcase the future of the UK.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210819190000 +0000" stop="20210819200500 +0000" channel="wwe.us">
-    <title lang="en">WWE NXT UK</title>
-    <desc lang="en">Watch the up and coming superstars step into the ring to showcase the future of the UK.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210819200500 +0000" stop="20210819224000 +0000" channel="wwe.us">
-    <title lang="en">NXT TakeOver</title>
-    <sub-title lang="en">Brooklyn II</sub-title>
-    <desc lang="en">Samoa Joe defends the NXT Championship against Shinsuke Nakamura. The NXT Women's Championship is also on the line when Asuka defends against Bayley. Can Johnny Gargano and Tommaso Ciampa realize their dream of becoming the NXT tag team champions.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210819224000 +0000" stop="20210819230000 +0000" channel="wwe.us">
-    <title lang="en">WWE Day Of</title>
-    <sub-title lang="en">SummerSlam 2015</sub-title>
-    <desc lang="en">Seth Rollins balances being WWE World Heavyweight Champion while preparing to face United States Champion John Cena in a winner take all match at SummerSlam 2015.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210819230000 +0000" stop="20210819233000 +0000" channel="wwe.us">
-    <title lang="en">This Week in WWE</title>
-    <desc lang="en">Get caught up on all the highlights from Raw and Smackdown with This Week in WWE.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/103885.jpg" />
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210819233000 +0000" stop="20210820003500 +0000" channel="wwe.us">
-    <title lang="en">WWE NXT UK</title>
-    <desc lang="en">Watch the up and coming superstars step into the ring to showcase the future of the UK.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210820003500 +0000" stop="20210820013000 +0000" channel="wwe.us">
-    <title lang="en">WWE Untold</title>
-    <sub-title lang="en">Goldberg's Streak</sub-title>
-    <desc lang="en">The backstage drama, real-life rivalries and untold stories behind Goldberg's unprecedented 173-match undefeated streak are finally revealed. Hear first-hand accounts from Goldberg himself and other influential superstars.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210820013000 +0000" stop="20210820020000 +0000" channel="wwe.us">
-    <title lang="en">Goldberg at 54</title>
-    <desc lang="en">Goldberg never thought he would still be wrestling at 54 years old. Thanks to changes in his training and the drive to continue to push himself in a sport he has grown to love, the WWE Hall of Famer still competes inside the squared circle.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-  </programme>
-  <programme start="20210820020000 +0000" stop="20210820023000 +0000" channel="wwe.us">
-    <title lang="en">This Week in WWE</title>
-    <desc lang="en">Get caught up on all the highlights from Raw and Smackdown with This Week in WWE.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/103885.jpg" />
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20210820023000 +0000" stop="20210820041500 +0000" channel="wwe.us">
-    <title lang="en">Steve Austin's Broken Skull Sessions</title>
-    <sub-title lang="en">Bobby Lashley</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20210820041500 +0000" stop="20210820053000 +0000" channel="wwe.us">
-    <title lang="en">Steve Austin's Broken Skull Sessions</title>
-    <sub-title lang="en">Goldberg</sub-title>
-    <desc lang="en">'Stone Cold' Steve Austin sits down with fellow WWE Hall of Famer Goldberg to reflect on his legendary career in sports entertainment.Guests: Bill Goldberg..</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20210820053000 +0000" stop="20210820063000 +0000" channel="wwe.us">
-    <title lang="en">WWE 24</title>
-    <sub-title lang="en">Big E</sub-title>
-    <desc lang="en">Big E explores the injuries that prematurely ended his football career, his incredible success with The New Day, the Black Lives Matter movement and how he strives to inspire the youth of today. For the first time, the Intercontinental Champion opens up.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
   <programme start="20210820063000 +0000" stop="20210820070000 +0000" channel="wwe.us">
     <title lang="en">This Week in WWE</title>
     <desc lang="en">Get caught up on all the highlights from Raw and Smackdown with This Week in WWE.</desc>
@@ -1380,6 +150,1301 @@
     <category lang="en">Wrestling</category>
     <rating system="US">
       <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210821063500 +0000" stop="20210821070000 +0000" channel="wwe.us">
+    <title lang="en">WWE Day Of</title>
+    <sub-title lang="en">Summerslam 2020</sub-title>
+    <desc lang="en">In the hours before SummerSlam 2020, Dominik Mysterio opens up about carrying the weight of the Mysterio family legacy into his WWE debut match against Seth Rollins. Sonya Deville reflects on facing Mandy Rose in a significant and personal match.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210821070000 +0000" stop="20210821094000 +0000" channel="wwe.us">
+    <title lang="en">WWE NXT</title>
+    <sub-title lang="en">TakeOver: Brooklyn IV</sub-title>
+    <desc lang="en">A unique acrobatic and theatrically aggressive presentation of wrestling.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/6535.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210821094000 +0000" stop="20210821100000 +0000" channel="wwe.us">
+    <title lang="en">WWE Day Of</title>
+    <sub-title lang="en">SummerSlam 2015</sub-title>
+    <desc lang="en">Seth Rollins balances being WWE World Heavyweight Champion while preparing to face United States Champion John Cena in a winner take all match at SummerSlam 2015.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210821100000 +0000" stop="20210821110000 +0000" channel="wwe.us">
+    <title lang="en">WWE's The Bump</title>
+    <desc lang="en">Get the latest news and notes from around the WWE universe along with interviews and more.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210821110000 +0000" stop="20210821113000 +0000" channel="wwe.us">
+    <title lang="en">WWE Marquee Matches</title>
+    <sub-title lang="en">SummerSlam 2003: Angle vs. Lesnar</sub-title>
+    <desc lang="en">Kurt Angle continues his epic rivalry with Brock Lesnar in a Wrestlemania 19 main event rematch for the WWE Championship.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210821113000 +0000" stop="20210821150000 +0000" channel="wwe.us">
+    <title lang="en">WWE: SummerSlam</title>
+    <sub-title lang="en">2019</sub-title>
+    <desc lang="en">Brock Lesnar faces Seth Rollins in a Universal Championship Match, Becky Lynch takes on Natalya for the Raw Women's Championship, Bayley defends her SmackDown Women's Championship against Ember Moon, and much more.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210821150000 +0000" stop="20210821180000 +0000" channel="wwe.us">
+    <title lang="en">WWE: SummerSlam</title>
+    <sub-title lang="en">2020</sub-title>
+    <desc lang="en">Randy Orton challenges Drew McIntyre for the WWE Championship. Plus, Braun Strowman and Bray Wyatt do battle, and Dominik Mysterio looks for revenge against Seth Rollins.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210821180000 +0000" stop="20210821183000 +0000" channel="wwe.us">
+    <title lang="en">WWE Talking Smack</title>
+    <desc lang="en">Renee Young catches up with SmackDown Superstars to discuss the show.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210821183000 +0000" stop="20210821190000 +0000" channel="wwe.us">
+    <title lang="en">WWE Marquee Matches</title>
+    <sub-title lang="en">SummerSlam 2013: Cena vs. Bryan</sub-title>
+    <desc lang="en">John Cena faces underdog Daniel Bryan in a WWE Championship match that would change the course of WWE history forever.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210821190000 +0000" stop="20210821200000 +0000" channel="wwe.us">
+    <title lang="en">WWE's The Bump</title>
+    <desc lang="en">Get the latest news and notes from around the WWE universe along with interviews and more.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210821200000 +0000" stop="20210821210000 +0000" channel="wwe.us">
+    <title lang="en">La Previa</title>
+    <sub-title lang="en">SummerSlam 2021</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210821210000 +0000" stop="20210821220000 +0000" channel="wwe.us">
+    <title lang="en">WWE's The Ultimate Show</title>
+    <sub-title lang="en">Ultimate SummerSlam</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210821220000 +0000" stop="20210821223000 +0000" channel="wwe.us">
+    <title lang="en">WWE Talking Smack</title>
+    <desc lang="en">Renee Young catches up with SmackDown Superstars to discuss the show.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210821223000 +0000" stop="20210821230000 +0000" channel="wwe.us">
+    <title lang="en">WWE Marquee Matches</title>
+    <sub-title lang="en">SummerSlam 2016: Cena vs. Styles</sub-title>
+    <desc lang="en">The Phenomenal One, AJ Styles battles John Cena to prove he is the face that runs the place.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210821230000 +0000" stop="20210822000000 +0000" channel="wwe.us">
+    <title lang="en">WWE: SummerSlam</title>
+    <sub-title lang="en">2021 Kickoff</sub-title>
+    <desc lang="en">A panel of WWE experts preview the action to come at SummerSlam.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210822000000 +0000" stop="20210822033000 +0000" channel="wwe.us">
+    <title lang="en">WWE: SummerSlam</title>
+    <sub-title lang="en">2021</sub-title>
+    <desc lang="en">WWE's best Superstars battle it out, including an epic showdown for the ages between Universal Champion Roman Reigns and John Cena.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210822033000 +0000" stop="20210822043000 +0000" channel="wwe.us">
+    <title lang="en">WWE 24</title>
+    <sub-title lang="en">WrestleMania 37 Night 1</sub-title>
+    <desc lang="en">WrestleMania welcomes the WWE Universe back with open arms as they hold the first WWE show in front of a live audience in over a year. Bianca Belair and Sasha Banks make history as the two collide in the main event.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210822043000 +0000" stop="20210822063000 +0000" channel="wwe.us">
+    <title lang="en">Steve Austin's Broken Skull Sessions</title>
+    <sub-title lang="en">Bobby Lashley</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20210822063000 +0000" stop="20210822073000 +0000" channel="wwe.us">
+    <title lang="en">WWE Untold</title>
+    <sub-title lang="en">Two Dudes with Attitudes</sub-title>
+    <desc lang="en">Shawn Michaels and Kevin Nash truly are Two Dudes with Attitudes. These hell-raising superstars share how they forged a lifelong friendship that would not only shape their legendary careers, but also leave a lasting impact on sports-entertainment.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210822073000 +0000" stop="20210822083000 +0000" channel="wwe.us">
+    <title lang="en">Ruthless Aggression</title>
+    <sub-title lang="en">Enter John Cena</sub-title>
+    <desc lang="en">An up-and-coming Superstar makes a play for the brass ring following the announcement of Ruthless Aggression.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20210822083000 +0000" stop="20210822100000 +0000" channel="wwe.us">
+    <title lang="en">Steve Austin's Broken Skull Sessions</title>
+    <sub-title lang="en">Kevin Nash</sub-title>
+    <desc lang="en">Steve Austin and two-time WWE Hall of Famer Kevin Nash discuss everything from 'Big Daddy Cool' and The Kliq to The nWo and the Monday Night War, as well as never-before-heard road stories.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210822100000 +0000" stop="20210822133000 +0000" channel="wwe.us">
+    <title lang="en">WWE: SummerSlam</title>
+    <sub-title lang="en">2021</sub-title>
+    <desc lang="en">WWE's best Superstars battle it out, including an epic showdown for the ages between Universal Champion Roman Reigns and John Cena.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210822133000 +0000" stop="20210822143000 +0000" channel="wwe.us">
+    <title lang="en">WWE 24</title>
+    <sub-title lang="en">WrestleMania 37 Night 1</sub-title>
+    <desc lang="en">WrestleMania welcomes the WWE Universe back with open arms as they hold the first WWE show in front of a live audience in over a year. Bianca Belair and Sasha Banks make history as the two collide in the main event.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210822143000 +0000" stop="20210822160000 +0000" channel="wwe.us">
+    <title lang="en">Steve Austin's Broken Skull Sessions</title>
+    <sub-title lang="en">Bobby Lashley</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20210822160000 +0000" stop="20210822163000 +0000" channel="wwe.us">
+    <title lang="en">WWE Day Of</title>
+    <sub-title lang="en">Summerslam 2020</sub-title>
+    <desc lang="en">In the hours before SummerSlam 2020, Dominik Mysterio opens up about carrying the weight of the Mysterio family legacy into his WWE debut match against Seth Rollins. Sonya Deville reflects on facing Mandy Rose in a significant and personal match.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210822163000 +0000" stop="20210822190000 +0000" channel="wwe.us">
+    <title lang="en">WWE NXT</title>
+    <sub-title lang="en">TakeOver: Brooklyn III</sub-title>
+    <desc lang="en">A unique acrobatic and theatrically aggressive presentation of wrestling.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/6535.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210822190000 +0000" stop="20210822214000 +0000" channel="wwe.us">
+    <title lang="en">WWE NXT</title>
+    <sub-title lang="en">TakeOver: Brooklyn IV</sub-title>
+    <desc lang="en">A unique acrobatic and theatrically aggressive presentation of wrestling.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/6535.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210822214000 +0000" stop="20210822233000 +0000" channel="wwe.us">
+    <title lang="en">Steve Austin's Broken Skull Sessions</title>
+    <sub-title lang="en">Bobby Lashley</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20210822233000 +0000" stop="20210823000000 +0000" channel="wwe.us">
+    <title lang="en">WWE NXT</title>
+    <sub-title lang="en">TakeOver: 36 Pre-Show</sub-title>
+    <desc lang="en">A panel of renowned experts analyzes, previews and predicts the action to come at NXT TakeOver 36.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/6535.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210823000000 +0000" stop="20210823030000 +0000" channel="wwe.us">
+    <title lang="en">NXT TakeOver</title>
+    <sub-title lang="en">36</sub-title>
+    <desc lang="en">Samoa Joe returns to the ring to challenge Karrion Kross for the NXT Championship. WALTER looks to continue his legendary NXT UK Title reign in a jaw-dropping rematch against Ilja Dragunov.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210823030000 +0000" stop="20210823040000 +0000" channel="wwe.us">
+    <title lang="en">WWE 24</title>
+    <sub-title lang="en">WrestleMania 37 Night 2</sub-title>
+    <desc lang="en">As WrestleMania rolls on, Edge reflects on his return to the main event 10 years to the day after retiring. Rhea Ripley, Sheamus, Natalya and Tamina set their eyes on becoming champions in front of the WWE Universe.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210823040000 +0000" stop="20210823050000 +0000" channel="wwe.us">
+    <title lang="en">WWE 24</title>
+    <sub-title lang="en">WrestleMania 37 Night 1</sub-title>
+    <desc lang="en">WrestleMania welcomes the WWE Universe back with open arms as they hold the first WWE show in front of a live audience in over a year. Bianca Belair and Sasha Banks make history as the two collide in the main event.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210823050000 +0000" stop="20210823070000 +0000" channel="wwe.us">
+    <title lang="en">Steve Austin's Broken Skull Sessions</title>
+    <sub-title lang="en">Bobby Lashley</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20210823070000 +0000" stop="20210823080000 +0000" channel="wwe.us">
+    <title lang="en">WWE Untold</title>
+    <sub-title lang="en">Two Dudes with Attitudes</sub-title>
+    <desc lang="en">Shawn Michaels and Kevin Nash truly are Two Dudes with Attitudes. These hell-raising superstars share how they forged a lifelong friendship that would not only shape their legendary careers, but also leave a lasting impact on sports-entertainment.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210823080000 +0000" stop="20210823090500 +0000" channel="wwe.us">
+    <title lang="en">WWE NXT UK</title>
+    <desc lang="en">Watch the up and coming superstars step into the ring to showcase the future of the UK.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210823090500 +0000" stop="20210823093000 +0000" channel="wwe.us">
+    <title lang="en">WWE Day Of</title>
+    <sub-title lang="en">SummerSlam 2015</sub-title>
+    <desc lang="en">Seth Rollins balances being WWE World Heavyweight Champion while preparing to face United States Champion John Cena in a winner take all match at SummerSlam 2015.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210823093000 +0000" stop="20210823100000 +0000" channel="wwe.us">
+    <title lang="en">WWE Day Of</title>
+    <sub-title lang="en">Summerslam 2020</sub-title>
+    <desc lang="en">In the hours before SummerSlam 2020, Dominik Mysterio opens up about carrying the weight of the Mysterio family legacy into his WWE debut match against Seth Rollins. Sonya Deville reflects on facing Mandy Rose in a significant and personal match.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210823100000 +0000" stop="20210823130000 +0000" channel="wwe.us">
+    <title lang="en">WWE: SummerSlam</title>
+    <sub-title lang="en">2021</sub-title>
+    <desc lang="en">WWE's best Superstars battle it out, including an epic showdown for the ages between Universal Champion Roman Reigns and John Cena.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210823130000 +0000" stop="20210823140000 +0000" channel="wwe.us">
+    <title lang="en">WWE 24</title>
+    <sub-title lang="en">WrestleMania 37 Night 1</sub-title>
+    <desc lang="en">WrestleMania welcomes the WWE Universe back with open arms as they hold the first WWE show in front of a live audience in over a year. Bianca Belair and Sasha Banks make history as the two collide in the main event.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210823140000 +0000" stop="20210823145500 +0000" channel="wwe.us">
+    <title lang="en">WWE 24</title>
+    <sub-title lang="en">WrestleMania 37 Night 2</sub-title>
+    <desc lang="en">As WrestleMania rolls on, Edge reflects on his return to the main event 10 years to the day after retiring. Rhea Ripley, Sheamus, Natalya and Tamina set their eyes on becoming champions in front of the WWE Universe.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210823145500 +0000" stop="20210823161000 +0000" channel="wwe.us">
+    <title lang="en">WWE NXT UK</title>
+    <desc lang="en">Watch the up and coming superstars step into the ring to showcase the future of the UK.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210823161000 +0000" stop="20210823164500 +0000" channel="wwe.us">
+    <title lang="en">205 Live</title>
+    <desc lang="en">Performers from WWE's new cruiserweight division showcase their abilities.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210823164500 +0000" stop="20210823173000 +0000" channel="wwe.us">
+    <title lang="en">WWE Untold</title>
+    <sub-title lang="en">Edge vs. Foley: WrestleMania 22</sub-title>
+    <desc lang="en">Mick Foley came out of retirement in 2006 in search of that elusive WrestleMania moment. Not only does The Hardcore Legend find his WrestleMania moment, but he does so while forging a lasting friendship with his opponent Edge in a grisly matchup.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210823173000 +0000" stop="20210823180000 +0000" channel="wwe.us">
+    <title lang="en">This Week in WWE</title>
+    <desc lang="en">Get caught up on all the highlights from Raw and Smackdown with This Week in WWE.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/103885.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210823180000 +0000" stop="20210823190000 +0000" channel="wwe.us">
+    <title lang="en">WWE Raw</title>
+    <desc lang="en">The World Tag Team Championship is on the line as the Quebecers meet The Steiner Brothers in a Quebec province rules. Find out which team uses these stipulations to their advantage.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/6516.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210823190000 +0000" stop="20210823220000 +0000" channel="wwe.us">
+    <title lang="en">WWE: SummerSlam</title>
+    <sub-title lang="en">2021</sub-title>
+    <desc lang="en">WWE's best Superstars battle it out, including an epic showdown for the ages between Universal Champion Roman Reigns and John Cena.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210823220000 +0000" stop="20210823223000 +0000" channel="wwe.us">
+    <title lang="en">WWE Break it Down</title>
+    <sub-title lang="en">Undertaker</sub-title>
+    <desc lang="en">The Undertaker conjures memories of bouts against his most storied opponents, including his infamous Boiler Room Brawl with Mankind.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210823223000 +0000" stop="20210824000000 +0000" channel="wwe.us">
+    <title lang="en">WWE Raw</title>
+    <desc lang="en">The anonymous Raw general manager gives Sheamus an opportunity to choose an opponent for the WWE Championship at Night of Champions. The Celtic Warrior sits on his throne to witness the next potential challengers for his title in action.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/6516.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210824000000 +0000" stop="20210824023000 +0000" channel="wwe.us">
+    <title lang="en">NXT TakeOver</title>
+    <sub-title lang="en">36</sub-title>
+    <desc lang="en">Samoa Joe returns to the ring to challenge Karrion Kross for the NXT Championship. WALTER looks to continue his legendary NXT UK Title reign in a jaw-dropping rematch against Ilja Dragunov.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210824023000 +0000" stop="20210824030500 +0000" channel="wwe.us">
+    <title lang="en">205 Live</title>
+    <desc lang="en">Performers from WWE's new cruiserweight division showcase their abilities.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210824030500 +0000" stop="20210824033500 +0000" channel="wwe.us">
+    <title lang="en">RAW Talk</title>
+    <desc lang="en">RAW Superstars share their thoughts and opinions of all the night's action.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210824033500 +0000" stop="20210824043500 +0000" channel="wwe.us">
+    <title lang="en">WWE 24</title>
+    <sub-title lang="en">WrestleMania 37 Night 1</sub-title>
+    <desc lang="en">WrestleMania welcomes the WWE Universe back with open arms as they hold the first WWE show in front of a live audience in over a year. Bianca Belair and Sasha Banks make history as the two collide in the main event.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210824043500 +0000" stop="20210824053000 +0000" channel="wwe.us">
+    <title lang="en">WWE 24</title>
+    <sub-title lang="en">WrestleMania 37 Night 2</sub-title>
+    <desc lang="en">As WrestleMania rolls on, Edge reflects on his return to the main event 10 years to the day after retiring. Rhea Ripley, Sheamus, Natalya and Tamina set their eyes on becoming champions in front of the WWE Universe.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210824053000 +0000" stop="20210824060000 +0000" channel="wwe.us">
+    <title lang="en">Heaven</title>
+    <desc lang="en">Watching her older brothers wrestle, Heaven Fitch fell in love with the sport. This is the story of the 16-year-old North Carolina girl whose hard work and determination would break barriers and make history.</desc>
+    <credits>
+      <actor>Beth Phoenix</actor>
+    </credits>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+  </programme>
+  <programme start="20210824060000 +0000" stop="20210824063000 +0000" channel="wwe.us">
+    <title lang="en">RAW Talk</title>
+    <desc lang="en">RAW Superstars share their thoughts and opinions of all the night's action.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210824063000 +0000" stop="20210824093000 +0000" channel="wwe.us">
+    <title lang="en">WWE: SummerSlam</title>
+    <sub-title lang="en">2021</sub-title>
+    <desc lang="en">WWE's best Superstars battle it out, including an epic showdown for the ages between Universal Champion Roman Reigns and John Cena.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210824093000 +0000" stop="20210824100000 +0000" channel="wwe.us">
+    <title lang="en">WWE Break it Down</title>
+    <sub-title lang="en">Asuka</sub-title>
+    <desc lang="en">The Empress of Tomorrow looks back on the most important matches of her WWE career and shows why no one is ready for Asuka. Matches include challenging Bayley for the NXT Women's Championship at NXT TakeOver: Dallas, teaming with Kairi Sane.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210824100000 +0000" stop="20210824130000 +0000" channel="wwe.us">
+    <title lang="en">The Best of WWE</title>
+    <sub-title lang="en">The Best of WWE Extreme Rules</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210824130000 +0000" stop="20210824140000 +0000" channel="wwe.us">
+    <title lang="en">My Way: The Life and Legacy of Pat Patterson</title>
+    <desc lang="en">Pat Patterson and those who knew him best look back at his unlikely path to the top of sports-entertainment. From growing up a poor kid in Montreal, to finding fame in San Francisco and New York City and working side-by-side with Vince McMahon.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+  </programme>
+  <programme start="20210824140000 +0000" stop="20210824143000 +0000" channel="wwe.us">
+    <title lang="en">RAW Talk</title>
+    <desc lang="en">RAW Superstars share their thoughts and opinions of all the night's action.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210824143000 +0000" stop="20210824160500 +0000" channel="wwe.us">
+    <title lang="en">Steve Austin's Broken Skull Sessions</title>
+    <sub-title lang="en">Bobby Lashley</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20210824160500 +0000" stop="20210824165500 +0000" channel="wwe.us">
+    <title lang="en">WWE Untold</title>
+    <sub-title lang="en">Goldberg's Streak</sub-title>
+    <desc lang="en">The backstage drama, real-life rivalries and untold stories behind Goldberg's unprecedented 173-match undefeated streak are finally revealed. Hear first-hand accounts from Goldberg himself and other influential superstars.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210824165500 +0000" stop="20210824181000 +0000" channel="wwe.us">
+    <title lang="en">WWE NXT UK</title>
+    <desc lang="en">Watch the up and coming superstars step into the ring to showcase the future of the UK.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210824181000 +0000" stop="20210824184500 +0000" channel="wwe.us">
+    <title lang="en">205 Live</title>
+    <desc lang="en">Performers from WWE's new cruiserweight division showcase their abilities.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210824184500 +0000" stop="20210824190000 +0000" channel="wwe.us">
+    <title lang="en">WWE Break it Down</title>
+    <sub-title lang="en">Sasha Banks</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210824190000 +0000" stop="20210824230000 +0000" channel="wwe.us">
+    <title lang="en">The Best of WWE</title>
+    <sub-title lang="en">The Best of Sasha Banks</sub-title>
+    <desc lang="en">Sasha Banks blazes a trail from NXT to WWE's main event. In this collection, Sasha collides with her greatest rival Bayley, battles Becky Lynch inside Hell in a Cell and goes to war with Charlotte Flair over the Raw Women's Championship.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210824230000 +0000" stop="20210825000000 +0000" channel="wwe.us">
+    <title lang="en">WWE NXT</title>
+    <desc lang="en">After the historic takeover of Barclays Center, NXT emanates once again from Brooklyn, N.Y., with the hottest in-ring action in sports-entertainment today. Also, take a special look back at the matches, moments and unforgettable experience of TakeOver.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/6535.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210825000000 +0000" stop="20210825010000 +0000" channel="wwe.us">
+    <title lang="en">WWE 24</title>
+    <sub-title lang="en">WrestleMania 37 Night 1</sub-title>
+    <desc lang="en">WrestleMania welcomes the WWE Universe back with open arms as they hold the first WWE show in front of a live audience in over a year. Bianca Belair and Sasha Banks make history as the two collide in the main event.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210825010000 +0000" stop="20210825020000 +0000" channel="wwe.us">
+    <title lang="en">WWE 24</title>
+    <sub-title lang="en">WrestleMania 37 Night 2</sub-title>
+    <desc lang="en">As WrestleMania rolls on, Edge reflects on his return to the main event 10 years to the day after retiring. Rhea Ripley, Sheamus, Natalya and Tamina set their eyes on becoming champions in front of the WWE Universe.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210825020000 +0000" stop="20210825033000 +0000" channel="wwe.us">
+    <title lang="en">WWE NXT</title>
+    <desc lang="en">NXT champion Karrion Kross and Samoa Joe meet face-to-face ahead of their title clash at NXT TakeOver 36. MSK and Imperium battle for the NXT tag team titles.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/6535.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210825033000 +0000" stop="20210825050500 +0000" channel="wwe.us">
+    <title lang="en">Steve Austin's Broken Skull Sessions</title>
+    <sub-title lang="en">Bobby Lashley</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20210825050500 +0000" stop="20210825063500 +0000" channel="wwe.us">
+    <title lang="en">WWE NXT</title>
+    <desc lang="en">NXT champion Karrion Kross and Samoa Joe meet face-to-face ahead of their title clash at NXT TakeOver 36. MSK and Imperium battle for the NXT tag team titles.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/6535.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210825063500 +0000" stop="20210825070000 +0000" channel="wwe.us">
+    <title lang="en">WWE Break it Down</title>
+    <sub-title lang="en">R-Truth</sub-title>
+    <desc lang="en">R-Truth analyzes some of the most important, talked-about matches of his career.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210825070000 +0000" stop="20210825093000 +0000" channel="wwe.us">
+    <title lang="en">NXT TakeOver</title>
+    <sub-title lang="en">36</sub-title>
+    <desc lang="en">Samoa Joe returns to the ring to challenge Karrion Kross for the NXT Championship. WALTER looks to continue his legendary NXT UK Title reign in a jaw-dropping rematch against Ilja Dragunov.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210825093000 +0000" stop="20210825100000 +0000" channel="wwe.us">
+    <title lang="en">Table for 3</title>
+    <sub-title lang="en">Independent Spirit</sub-title>
+    <desc lang="en">Ricochet, Adam Cole and Johnny Gargano get together to talk about their rise to the top through NXT, WWE and beyond.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210825100000 +0000" stop="20210825111500 +0000" channel="wwe.us">
+    <title lang="en">WWE NXT UK</title>
+    <desc lang="en">Watch the up and coming superstars step into the ring to showcase the future of the UK.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210825111500 +0000" stop="20210825115000 +0000" channel="wwe.us">
+    <title lang="en">205 Live</title>
+    <desc lang="en">Performers from WWE's new cruiserweight division showcase their abilities.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210825115000 +0000" stop="20210825122500 +0000" channel="wwe.us">
+    <title lang="en">WWE Untold</title>
+    <sub-title lang="en">The APA</sub-title>
+    <desc lang="en">APA are more than just a tag team; they are brothers. Ron Simmons and John 'Bradshaw' Layfield discuss their friendship, how they became a tag team and their exploits in the locker room, between the ropes and on the road.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210825122500 +0000" stop="20210825140000 +0000" channel="wwe.us">
+    <title lang="en">Steve Austin's Broken Skull Sessions</title>
+    <sub-title lang="en">Bobby Lashley</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20210825140000 +0000" stop="20210825150000 +0000" channel="wwe.us">
+    <title lang="en">WWE's The Bump</title>
+    <desc lang="en">Get the latest news and notes from around the WWE universe along with exclusive interviews and analysis.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210825150000 +0000" stop="20210825160000 +0000" channel="wwe.us">
+    <title lang="en">WWE 24</title>
+    <sub-title lang="en">WrestleMania 37 Night 1</sub-title>
+    <desc lang="en">WrestleMania welcomes the WWE Universe back with open arms as they hold the first WWE show in front of a live audience in over a year. Bianca Belair and Sasha Banks make history as the two collide in the main event.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210825160000 +0000" stop="20210825170000 +0000" channel="wwe.us">
+    <title lang="en">WWE 24</title>
+    <sub-title lang="en">WrestleMania 37 Night 2</sub-title>
+    <desc lang="en">As WrestleMania rolls on, Edge reflects on his return to the main event 10 years to the day after retiring. Rhea Ripley, Sheamus, Natalya and Tamina set their eyes on becoming champions in front of the WWE Universe.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210825170000 +0000" stop="20210825190000 +0000" channel="wwe.us">
+    <title lang="en">Steve Austin's Broken Skull Sessions</title>
+    <sub-title lang="en">Mick Foley</sub-title>
+    <desc lang="en">Steve Austin welcomes WWE Hall of Famer Mick Foley to the Broken Skull Sessions for some good road stories, as well as a deep dive into the definitive matches and milestones of the hardcore legend's career.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210825190000 +0000" stop="20210825200000 +0000" channel="wwe.us">
+    <title lang="en">WWE's The Bump</title>
+    <desc lang="en">Get the latest news and notes from around the WWE universe along with exclusive interviews and analysis.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210825200000 +0000" stop="20210825223000 +0000" channel="wwe.us">
+    <title lang="en">NXT TakeOver</title>
+    <sub-title lang="en">36</sub-title>
+    <desc lang="en">Samoa Joe returns to the ring to challenge Karrion Kross for the NXT Championship. WALTER looks to continue his legendary NXT UK Title reign in a jaw-dropping rematch against Ilja Dragunov.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210825223000 +0000" stop="20210826000000 +0000" channel="wwe.us">
+    <title lang="en">WWE 24</title>
+    <sub-title lang="en">Edge: The Second Mountain</sub-title>
+    <desc lang="en">Forced into an early retirement nearly a decade earlier, WWE Hall of Famer Edge defies the odds in an emotional journey to relive his dream. What began as a documentary about life after wrestling becomes an impossible second chance.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210826000000 +0000" stop="20210826010000 +0000" channel="wwe.us">
+    <title lang="en">WWE's The Bump</title>
+    <desc lang="en">Get the latest news and notes from around the WWE universe along with exclusive interviews and analysis.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210826010000 +0000" stop="20210826040000 +0000" channel="wwe.us">
+    <title lang="en">The Best of WWE</title>
+    <sub-title lang="en">The Best of WWE Extreme Rules</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210826040000 +0000" stop="20210826050000 +0000" channel="wwe.us">
+    <title lang="en">WWE 24</title>
+    <sub-title lang="en">WrestleMania 37 Night 1</sub-title>
+    <desc lang="en">WrestleMania welcomes the WWE Universe back with open arms as they hold the first WWE show in front of a live audience in over a year. Bianca Belair and Sasha Banks make history as the two collide in the main event.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210826050000 +0000" stop="20210826060000 +0000" channel="wwe.us">
+    <title lang="en">WWE 24</title>
+    <sub-title lang="en">WrestleMania 37 Night 2</sub-title>
+    <desc lang="en">As WrestleMania rolls on, Edge reflects on his return to the main event 10 years to the day after retiring. Rhea Ripley, Sheamus, Natalya and Tamina set their eyes on becoming champions in front of the WWE Universe.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210826060000 +0000" stop="20210826070000 +0000" channel="wwe.us">
+    <title lang="en">WWE Main Event</title>
+    <desc lang="en">Mr. Money in the Bank Seth Rollins faces off against former Money in the Bank ladder match winner and former WWE champion Rob Van Dam. Plus, Adam Rose takes on Curtis Axel and Gold and Stardust are in action against Los Matadores.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210826070000 +0000" stop="20210826100000 +0000" channel="wwe.us">
+    <title lang="en">WWE: Extreme Rules</title>
+    <desc lang="en">John Cena defends the WWE Championship against Batista in a Last Man Standing Match. Jack Swagger vs. Randy Orton in an Extreme Rules Match for the World Heavyweight Championship.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20210826100000 +0000" stop="20210826130000 +0000" channel="wwe.us">
+    <title lang="en">WWE: SummerSlam</title>
+    <sub-title lang="en">2021</sub-title>
+    <desc lang="en">WWE's best Superstars battle it out, including an epic showdown for the ages between Universal Champion Roman Reigns and John Cena.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210826130000 +0000" stop="20210826135000 +0000" channel="wwe.us">
+    <title lang="en">WWE Untold</title>
+    <sub-title lang="en">Goldberg's Streak</sub-title>
+    <desc lang="en">The backstage drama, real-life rivalries and untold stories behind Goldberg's unprecedented 173-match undefeated streak are finally revealed. Hear first-hand accounts from Goldberg himself and other influential superstars.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210826135000 +0000" stop="20210826152500 +0000" channel="wwe.us">
+    <title lang="en">Steve Austin's Broken Skull Sessions</title>
+    <sub-title lang="en">Bobby Lashley</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20210826152500 +0000" stop="20210826162000 +0000" channel="wwe.us">
+    <title lang="en">WWE Untold</title>
+    <sub-title lang="en">Two Dudes with Attitudes</sub-title>
+    <desc lang="en">Shawn Michaels and Kevin Nash truly are Two Dudes with Attitudes. These hell-raising superstars share how they forged a lifelong friendship that would not only shape their legendary careers, but also leave a lasting impact on sports-entertainment.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210826162000 +0000" stop="20210826174500 +0000" channel="wwe.us">
+    <title lang="en">Steve Austin's Broken Skull Sessions</title>
+    <sub-title lang="en">Kevin Nash</sub-title>
+    <desc lang="en">Steve Austin and two-time WWE Hall of Famer Kevin Nash discuss everything from 'Big Daddy Cool' and The Kliq to The nWo and the Monday Night War, as well as never-before-heard road stories.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210826174500 +0000" stop="20210826190000 +0000" channel="wwe.us">
+    <title lang="en">WWE NXT UK</title>
+    <desc lang="en">Watch the up and coming superstars step into the ring to showcase the future of the UK.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210826190000 +0000" stop="20210826200500 +0000" channel="wwe.us">
+    <title lang="en">WWE NXT UK</title>
+    <desc lang="en">Watch the up and coming superstars step into the ring to showcase the future of the UK.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210826200500 +0000" stop="20210826210500 +0000" channel="wwe.us">
+    <title lang="en">WWE 24</title>
+    <sub-title lang="en">WrestleMania 37 Night 1</sub-title>
+    <desc lang="en">WrestleMania welcomes the WWE Universe back with open arms as they hold the first WWE show in front of a live audience in over a year. Bianca Belair and Sasha Banks make history as the two collide in the main event.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210826210500 +0000" stop="20210826220500 +0000" channel="wwe.us">
+    <title lang="en">WWE 24</title>
+    <sub-title lang="en">WrestleMania 37 Night 2</sub-title>
+    <desc lang="en">As WrestleMania rolls on, Edge reflects on his return to the main event 10 years to the day after retiring. Rhea Ripley, Sheamus, Natalya and Tamina set their eyes on becoming champions in front of the WWE Universe.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210826220500 +0000" stop="20210826230000 +0000" channel="wwe.us">
+    <title lang="en">Ruthless Aggression</title>
+    <sub-title lang="en">Civil War: Raw vs. SmackDown</sub-title>
+    <desc lang="en">WWE's first-ever brand extension divides its roster and sparks civil war between Raw and SmackDown. As competition heats up between brands, Eddie Guerrero, JBL, Edge and others showcase ruthless aggression as they capitalize on their newfound opportunity.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20210826230000 +0000" stop="20210826233000 +0000" channel="wwe.us">
+    <title lang="en">This Week in WWE</title>
+    <desc lang="en">Get caught up on all the highlights from Raw and Smackdown with This Week in WWE.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/103885.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210826233000 +0000" stop="20210827003500 +0000" channel="wwe.us">
+    <title lang="en">WWE NXT UK</title>
+    <desc lang="en">Watch the up and coming superstars step into the ring to showcase the future of the UK.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210827003500 +0000" stop="20210827013500 +0000" channel="wwe.us">
+    <title lang="en">WWE's The Bump</title>
+    <desc lang="en">Get the latest news and notes from around the WWE universe along with interviews and more.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210827013500 +0000" stop="20210827021000 +0000" channel="wwe.us">
+    <title lang="en">205 Live</title>
+    <desc lang="en">Performers from WWE's new cruiserweight division showcase their abilities.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210827021000 +0000" stop="20210827030000 +0000" channel="wwe.us">
+    <title lang="en">WWE Untold</title>
+    <sub-title lang="en">Edge vs. Foley: WrestleMania 22</sub-title>
+    <desc lang="en">Mick Foley came out of retirement in 2006 in search of that elusive WrestleMania moment. Not only does The Hardcore Legend find his WrestleMania moment, but he does so while forging a lasting friendship with his opponent Edge in a grisly matchup.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210827030000 +0000" stop="20210827033000 +0000" channel="wwe.us">
+    <title lang="en">This Week in WWE</title>
+    <desc lang="en">Get caught up on all the highlights from Raw and Smackdown with This Week in WWE.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/103885.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210827033000 +0000" stop="20210827041400 +0000" channel="wwe.us">
+    <title lang="en">The 50 Greatest Tag Teams</title>
+    <sub-title lang="en">50 Through 36</sub-title>
+    <desc lang="en">The countdown of the 50 best tag teams begins. Hosts Breezango kick off with numbers 50 through 36, including the beloved Bushwackers and Edge and Randy Orton's unlikely pairing known as Rated-RKO.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210827041400 +0000" stop="20210827050100 +0000" channel="wwe.us">
+    <title lang="en">The 50 Greatest Tag Teams</title>
+    <sub-title lang="en">35 Through 21</sub-title>
+    <desc lang="en">The countdown of the 50 greatest tag teams in WWE history continues with numbers 36 through 21, including game-changing teams such as D-Generation X, The Street Profits and The APA.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210827050100 +0000" stop="20210827053700 +0000" channel="wwe.us">
+    <title lang="en">The 50 Greatest Tag Teams</title>
+    <sub-title lang="en">20 Through 11</sub-title>
+    <desc lang="en">The countdown of the 50 greatest tag teams in WWE history reaches numbers 20 through 11, featuring legendary teams such as The Rockers, Demolition and The Rock &amp; Sock Connection.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210827053700 +0000" stop="20210827060800 +0000" channel="wwe.us">
+    <title lang="en">The 50 Greatest Tag Teams</title>
+    <sub-title lang="en">10 Through 6</sub-title>
+    <desc lang="en">The Brothers of Destruction and other dominant pairings from the past highlight the greatest tag teams in WWE history as the countdown enters the top 10.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210827060800 +0000" stop="20210827064500 +0000" channel="wwe.us">
+    <title lang="en">The 50 Greatest Tag Teams</title>
+    <sub-title lang="en">The Top 5</sub-title>
+    <desc lang="en">Only one tag team can be crowned the greatest in WWE history. The countdown of the 50 best teams to compete inside a WWE ring concludes with the top five superstar duos.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210827064500 +0000" stop="20210827070000 +0000" channel="wwe.us">
+    <title lang="en">WWE Day Of</title>
+    <sub-title lang="en">The Horror Show at WWE Extreme Rules</sub-title>
+    <desc lang="en">Sasha Banks prepares to challenge Asuka for the Raw women's title at The Horror Show at WWE Extreme Rules.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210827070000 +0000" stop="20210827093000 +0000" channel="wwe.us">
+    <title lang="en">NXT TakeOver</title>
+    <sub-title lang="en">36</sub-title>
+    <desc lang="en">Samoa Joe returns to the ring to challenge Karrion Kross for the NXT Championship. WALTER looks to continue his legendary NXT UK Title reign in a jaw-dropping rematch against Ilja Dragunov.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210827093000 +0000" stop="20210827100000 +0000" channel="wwe.us">
+    <title lang="en">This Week in WWE</title>
+    <desc lang="en">Get caught up on all the highlights from Raw and Smackdown with This Week in WWE.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/103885.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210827100000 +0000" stop="20210827130000 +0000" channel="wwe.us">
+    <title lang="en">The Best of WWE</title>
+    <sub-title lang="en">The Best of WWE Extreme Rules</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210827130000 +0000" stop="20210827140000 +0000" channel="wwe.us">
+    <title lang="en">WWE 24</title>
+    <sub-title lang="en">Finn Bálor</sub-title>
+    <desc lang="en">On the night he became the first ever WWE Universal Champion, Finn Bálor suffered a serious shoulder injury. At this moment, he realized he would have to give up his title.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210827140000 +0000" stop="20210827150000 +0000" channel="wwe.us">
+    <title lang="en">The 50 Greatest Women</title>
+    <sub-title lang="en">50 Through 36</sub-title>
+    <desc lang="en">The countdown of the top 50 women superstars of WWE's modern era. WWE’s Sarah Schreiber reveals the superstars, including some rising young phenoms, coming in at numbers 50 through 36.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210827150000 +0000" stop="20210827160000 +0000" channel="wwe.us">
+    <title lang="en">The 50 Greatest Women</title>
+    <sub-title lang="en">35 Through 21</sub-title>
+    <desc lang="en">The countdown of WWE's 50 greatest women superstars picks up with numbers 35 through 21, including some of the toughest competitors to ever step foot inside the squared circle.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210827160000 +0000" stop="20210827170000 +0000" channel="wwe.us">
+    <title lang="en">The 50 Greatest Women</title>
+    <sub-title lang="en">20 Through 11</sub-title>
+    <desc lang="en">The countdown of WWE's 50 greatest women superstars continues into the top 20 with superstars who can talk the talk and walk the walk.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210827170000 +0000" stop="20210827180000 +0000" channel="wwe.us">
+    <title lang="en">The 50 Greatest Women</title>
+    <sub-title lang="en">The Top 10 Begins</sub-title>
+    <desc lang="en">It's WWE's top ten greatest female superstars of the modern era. These women are trailblazers, gamechangers and some of the best to ever step foot inside the squared circle.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210827180000 +0000" stop="20210827190000 +0000" channel="wwe.us">
+    <title lang="en">The 50 Greatest Women</title>
+    <sub-title lang="en">The Top 5</sub-title>
+    <desc lang="en">WWE's greatest female Superstar of the modern era is crowned. WWE's Sarah Schreiber discloses the top five women to grace the squared circle, including past and current female icons.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210827190000 +0000" stop="20210827192500 +0000" channel="wwe.us">
+    <title lang="en">Heaven</title>
+    <desc lang="en">Watching her older brothers wrestle, Heaven Fitch fell in love with the sport. This is the story of the 16-year-old North Carolina girl whose hard work and determination would break barriers and make history.</desc>
+    <credits>
+      <actor>Beth Phoenix</actor>
+    </credits>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+  </programme>
+  <programme start="20210827192500 +0000" stop="20210827210000 +0000" channel="wwe.us">
+    <title lang="en">Steve Austin's Broken Skull Sessions</title>
+    <sub-title lang="en">Bobby Lashley</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20210827210000 +0000" stop="20210827223000 +0000" channel="wwe.us">
+    <title lang="en">WWE SmackDown</title>
+    <desc lang="en">Dean Ambrose goes one-on-one with Sheamus. For the first time over a decade, The Dudley Boyz return to action as they look to welcome The Ascension to Dudleyville. Plus, Seth Rollins responds to Sting's surprise appearance on Raw and more.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/51605.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210827223000 +0000" stop="20210828000000 +0000" channel="wwe.us">
+    <title lang="en">WWE SmackDown</title>
+    <desc lang="en">Roman Reigns reveals the identity of his attacker. Randy Orton again targets WWE champion Kofi Kingston's family. Bayley battles Lacey Evans while Charlotte Flair looks on from ringside. Plus, Buddy Murphy faces Ali and more.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/51605.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210828000000 +0000" stop="20210828012500 +0000" channel="wwe.us">
+    <title lang="en">WWE 24</title>
+    <sub-title lang="en">The Miz</sub-title>
+    <desc lang="en">The Miz explores his unbelievable ascent from reality show standout to one of the most decorated WWE superstars of all time. The A-Lister recounts his WrestleMania main event, juggling his success both in the ring and on his hit reality show, 'Miz &amp; Mrs.'.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210828012500 +0000" stop="20210828020000 +0000" channel="wwe.us">
+    <title lang="en">205 Live</title>
+    <desc lang="en">Performers from WWE's new cruiserweight division showcase their abilities.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210828020000 +0000" stop="20210828023500 +0000" channel="wwe.us">
+    <title lang="en">205 Live</title>
+    <desc lang="en">Performers from WWE's new cruiserweight division showcase their abilities.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210828023500 +0000" stop="20210828033500 +0000" channel="wwe.us">
+    <title lang="en">WWE 24</title>
+    <sub-title lang="en">WrestleMania 37 Night 1</sub-title>
+    <desc lang="en">WrestleMania welcomes the WWE Universe back with open arms as they hold the first WWE show in front of a live audience in over a year. Bianca Belair and Sasha Banks make history as the two collide in the main event.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210828033500 +0000" stop="20210828043000 +0000" channel="wwe.us">
+    <title lang="en">WWE 24</title>
+    <sub-title lang="en">WrestleMania 37 Night 2</sub-title>
+    <desc lang="en">As WrestleMania rolls on, Edge reflects on his return to the main event 10 years to the day after retiring. Rhea Ripley, Sheamus, Natalya and Tamina set their eyes on becoming champions in front of the WWE Universe.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210828043000 +0000" stop="20210828052500 +0000" channel="wwe.us">
+    <title lang="en">WWE 24</title>
+    <sub-title lang="en">Keith Lee</sub-title>
+    <desc lang="en">As Keith Lee prepares to make his Raw debut, he reflects on his incredible 15 year journey, including three failed WWE tryouts, the origin of 'Bask in his Glory,' and becoming NXT's first double champion.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20210828052500 +0000" stop="20210828070000 +0000" channel="wwe.us">
+    <title lang="en">Steve Austin's Broken Skull Sessions</title>
+    <sub-title lang="en">Bobby Lashley</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <rating system="US">
+      <value>TV14</value>
     </rating>
   </programme>
 </tv>
