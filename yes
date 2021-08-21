@@ -779,5 +779,5 @@ http://stream2.grandma.fit/fs2.m3u8
 #EXTINF:-1 tvg-id="ES2.US" tvg-logo="https://static.epg.best/us/ESPN2.us.png" group-title="SPORTS_50fps",ESPN 2
 http://stream2.grandma.fit/espn2.m3u8
 
-#EXTINF:-1 tvg-id="LALIGA1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/LaLiga_Santander_%282%29.svg" group-title="SPORTS_50fps",LaLiga 1
-https://dnynmpull.caiwunj.com/live/sd-1-3570548.m3u8?n=3570548&t=1622794534&i=47.56.99.175&s=7ef256ee905d5231743a073942061d52
+#EXTINF:-1 tvg-id="premierleague" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/LaLiga_Santander_%282%29.svg" group-title="SPORTS_50fps",prmierleague
+https://dnynmpull.caiwunj.com/live/sd-1-3559607.m3u8?n=3559607&t=1622794534&i=47.56.99.175&s=7ef256ee905d5231743a073942061d52
