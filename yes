@@ -638,6 +638,14 @@ https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 #EXTINF:-1 tvg-id="TVSUKAN" group-title="SPORTS" tvg-logo="https://mediahomes.github.io/logos/sukan.png",Sukan RTM
 https://github.com/196-25-717-6196/Test/raw/main/S%3Cu%3Ekan-multi.m3u8|Referer=https://rtmklik.rtm.gov.my
 
+#EXTINF:-1 tvg-id="espn.us" tvg-logo="https://static.epg.best/us/ESPN.us.png" group-title="SPORTS_50fps",ESPN
+http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/3136
+#http://stream2.grandma.fit/fs2.m3u8
+
+#EXTINF:-1 tvg-id="espn2.us" tvg-logo="https://static.epg.best/us/ESPN2.us.png" group-title="SPORTS_50fps",ESPN 2
+http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/3137
+#http://stream2.grandma.fit/espn2.m3u8
+
 #EXTINF:-1 tvg-id="beINSports1.MACAN" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",beIN Sports 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
@@ -792,14 +800,6 @@ http://meu02.cularu.com:8880/yw12m2n466/UYWyCspA67/59218
 
 #EXTINF:-1 tvg-id="AstroSuperSport4HD" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png",Astro SuperSport 4 HD backup
 http://meu02.cularu.com:8880/yw12m2n466/UYWyCspA67/59217
-
-#EXTINF:-1 tvg-id="espn.us" tvg-logo="https://static.epg.best/us/ESPN.us.png" group-title="SPORTS_50fps",ESPN
-http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/3136
-#http://stream2.grandma.fit/fs2.m3u8
-
-#EXTINF:-1 tvg-id="espn2.us" tvg-logo="https://static.epg.best/us/ESPN2.us.png" group-title="SPORTS_50fps",ESPN 2
-http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/3137
-#http://stream2.grandma.fit/espn2.m3u8
 
 #EXTINF:-1 tvg-id="premierleague" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/LaLiga_Santander_%282%29.svg" group-title="SPORTS_50fps",prmierleague
 https://dnynmpull.caiwunj.com/live/sd-1-3559607.m3u8?n=3559607&t=1622794534&i=47.56.99.175&s=7ef256ee905d5231743a073942061d52
