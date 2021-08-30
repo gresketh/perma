@@ -763,7 +763,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 ##https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 ## #https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 
-#EXTINF:-1 tvg-id="811" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png",Astro SuperSport HD
+#EXTINF:-1 tvg-id="AstroSupersportHD" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png",Astro SuperSport HD
 http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/59220 
 #http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/66.m3u8
  #http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6708
@@ -771,7 +771,7 @@ http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/59220
  #http://iptv.tvmalaysia.cc:80/penang173/penang173/6708
  # #http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
 
-#EXTINF:-1 tvg-id="812" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png",Astro SuperSport 2 HD
+#EXTINF:-1 tvg-id="AstroSupersport2HD" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png",Astro SuperSport 2 HD
 http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/59219
 #http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/67.m3u8
  #http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6710
@@ -779,7 +779,7 @@ http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/59219
  #http://iptv.tvmalaysia.cc:80/penang173/penang173/6710
  # #http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
 
-#EXTINF:-1 tvg-id="813" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png",Astro SuperSport 3 HD
+#EXTINF:-1 tvg-id="AstroSupersport3HD" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png",Astro SuperSport 3 HD
 http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/59218
 #http://iptv.tvmalaysia.cc:80/penang188/penang188/6711
 #http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/68.m3u8
@@ -788,7 +788,7 @@ http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/59218
  #http://iptv.tvmalaysia.cc:80/penang173/penang173/6711
  # #http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
 
-#EXTINF:-1 tvg-id="814" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png",Astro SuperSport 4 HD
+#EXTINF:-1 tvg-id="AstroSupersport4HD" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png",Astro SuperSport 4 HD
 http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/59217
 #http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/69.m3u8
  #http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6710
@@ -814,16 +814,16 @@ http://iptv.tvmalaysia.cc:80/penang188/penang188/6707
 #EXTINF:-1 tvg-id="AstroArenaHD" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",Astro Arena HD (backup2)
 http://iptv.tvmalaysia.cc:80/penang188/penang188/9010
 
-#EXTINF:-1 tvg-id="AstroSuperSportHD" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png",Astro SuperSport HD backup
+#EXTINF:-1 tvg-id="811" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png",Astro SuperSport HD backup
 http://iptv-line.com:8080/live/yahemu20001/Nepalibabu/110252.ts
 
-#EXTINF:-1 tvg-id="AstroSuperSport2HD" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png",Astro SuperSport 2 HD backup
+#EXTINF:-1 tvg-id="812" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png",Astro SuperSport 2 HD backup
 http://iptv-line.com:8080/live/yahemu20001/Nepalibabu/110253.ts
 
-#EXTINF:-1 tvg-id="AstroSuperSport3HD" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png",Astro SuperSport 3 HD backup
+#EXTINF:-1 tvg-id="813" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png",Astro SuperSport 3 HD backup
 http://iptv-line.com:8080/live/yahemu20001/Nepalibabu/110254.ts
 
-#EXTINF:-1 tvg-id="AstroSuperSport4HD" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png",Astro SuperSport 4 HD backup
+#EXTINF:-1 tvg-id="814" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png",Astro SuperSport 4 HD backup
 http://iptv-line.com:8080/live/yahemu20001/Nepalibabu/110255.ts
 
 #EXTINF:-1 tvg-id="premierleague" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/LaLiga_Santander_%282%29.svg" group-title="SPORTS_50fps",prmierleague
