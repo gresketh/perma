@@ -59,17 +59,26 @@ http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/1705
 # #http://iptv.tvmalaysia.cc:80/321456/321456/6730
 # #http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
 
+#EXTINF:-1 tvg-id="104" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",Astro Ria BACKUP
+http://iptv-line.com:8080/live/yahemu20001/Nepalibabu/110155.ts
+
 #EXTINF:-1 tvg-id="AstroPrimaHD" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",Astro Prima HD
 http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/71020
 # #https://nonton.site:8443/Ainamanja/RPLf79Gusm/37333
 # #http://iptv.tvmalaysia.cc:80/321456/321456/6727
 # #http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 
+#EXTINF:-1 tvg-id="105" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",Astro Prima BACKUP
+http://iptv-line.com:8080/live/yahemu20001/Nepalibabu/110156.ts
+
 #EXTINF:-1 tvg-id="AstroOasisHD" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png",Astro Oasis HD
 http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/1701
 # #https://nonton.site:8443/Ainamanja/RPLf79Gusm/37334
 # #http://iptv.tvmalaysia.cc:80/321456/321456/6725
 # #http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
+
+#EXTINF:-1 tvg-id="106" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png",Astro Oasis BACKUP
+http://iptv-line.com:8080/live/yahemu20001/Nepalibabu/110157.ts
 
 #EXTINF:-1 tvg-id="AstroWarnaHD" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png",Astro Warna HD
 http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/1706
@@ -78,9 +87,15 @@ http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/1706
 # #http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
 # #https://nonton.site:8443/Ainamanja/RPLf79Gusm/37335
 
+#EXTINF:-1 tvg-id="107" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png",Astro Warna BACKUP
+http://iptv-line.com:8080/live/yahemu20001/Nepalibabu/110158.ts
+
 #EXTINF:-1 tvg-id="AstroCitraHD" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png",Astro Citra HD
 http://iptv.tvmalaysia.cc:80/321456/321456/7267
 # #http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+
+#EXTINF:-1 tvg-id="108" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png",Astro Citra HD
+http://iptv-line.com:8080/live/yahemu20001/Nepalibabu/110270.ts
 
 #EXTINF:-1 tvg-id="AstroRaniaHD" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png",Astro Rania HD
 http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/71144
@@ -103,6 +118,9 @@ http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/71023
 # #https://nonton.site:8443/Ainamanja/RPLf79Gusm/37336
 # #http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
 # https://agsplayback01.astro.com.my/CH2/master_NAURAGOSHOP4_03.m3u8
+
+#EXTINF:-1 tvg-id="109" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/299_144.png",Naura BACKUP
+http://iptv-line.com:8080/live/yahemu20001/Nepalibabu/110159.ts
 
 #EXTINF:-1 tvg-id="HelloHD" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/110.png",Hello HD
 http://iptv.tvmalaysia.cc:80/321456/321456/6721
@@ -619,7 +637,8 @@ https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u
 https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
 
 #EXTINF:-1 tvg-id="France24English" group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/FRANCE_24_logo.svg/240px-FRANCE_24_logo.svg.png",France 24
-https://mediahomes.github.io/assets/yt/france24.m3u8|Referer=https://www.youtube.com
+http://iptv-line.com:8080/live/yahemu20001/Nepalibabu/110269.ts
+##https://mediahomes.github.io/assets/yt/france24.m3u8|Referer=https://www.youtube.com
 
 #EXTINF:-1 tvg-id="BloombergHD" group-title="NEWS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png",Bloomberg TV HD
 https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
@@ -685,7 +704,7 @@ http://89.187.185.100/WWE/index.m3u8
 # #http://185.180.221.194:8278/streams/d/Wwe/playlist.m3u8
 
 #EXTINF:-1 tvg-id="wwe.us" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/194_144.png",WWE Network (backup)
-http://iptv.tvmalaysia.cc:80/932633/932633/6849
+http://iptv-line.com:8080/live/yahemu20001/Nepalibabu/46800.ts
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="1824" tvg-chno="824" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png",Astro Cricket HD
 http://iptv.tvmalaysia.cc:80/932633/932633/6717
@@ -742,7 +761,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 ##https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 ## #https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 
-#EXTINF:-1 tvg-id="AstroSuperSportHD" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png",Astro SuperSport HD
+#EXTINF:-1 tvg-id="811" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png",Astro SuperSport HD
 http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/59220 
 #http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/66.m3u8
  #http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6708
@@ -750,7 +769,7 @@ http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/59220
  #http://iptv.tvmalaysia.cc:80/penang173/penang173/6708
  # #http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AstroSuperSport2HD" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png",Astro SuperSport 2 HD
+#EXTINF:-1 tvg-id="812" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png",Astro SuperSport 2 HD
 http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/59219
 #http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/67.m3u8
  #http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6710
@@ -758,7 +777,7 @@ http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/59219
  #http://iptv.tvmalaysia.cc:80/penang173/penang173/6710
  # #http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AstroSuperSport3HD" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png",Astro SuperSport 3 HD
+#EXTINF:-1 tvg-id="813" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png",Astro SuperSport 3 HD
 http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/59218
 #http://iptv.tvmalaysia.cc:80/penang188/penang188/6711
 #http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/68.m3u8
@@ -767,7 +786,7 @@ http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/59218
  #http://iptv.tvmalaysia.cc:80/penang173/penang173/6711
  # #http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AstroSuperSport4HD" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png",Astro SuperSport 4 HD
+#EXTINF:-1 tvg-id="814" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png",Astro SuperSport 4 HD
 http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/59217
 #http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/69.m3u8
  #http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6710
@@ -785,7 +804,7 @@ http://194.233.68.128:5080/LiveApp/streams/092138205532815210907549.m3u8?token=u
 http://iptv.tvmalaysia.cc/932633/932633/7079
 
 #EXTINF:-1 tvg-id="AstroArenaHD" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",Astro Arena HD
-http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
+http://iptv-line.com:8080/live/yahemu20001/Nepalibabu/110251.ts
 
 #EXTINF:-1 tvg-id="AstroArenaHD" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",Astro Arena HD (backup)
 http://iptv.tvmalaysia.cc:80/penang188/penang188/6707
@@ -794,16 +813,16 @@ http://iptv.tvmalaysia.cc:80/penang188/penang188/6707
 http://iptv.tvmalaysia.cc:80/penang188/penang188/9010
 
 #EXTINF:-1 tvg-id="AstroSuperSportHD" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png",Astro SuperSport HD backup
-http://meu02.cularu.com:8880/yw12m2n466/UYWyCspA67/59220
+http://iptv-line.com:8080/live/yahemu20001/Nepalibabu/110252.ts
 
 #EXTINF:-1 tvg-id="AstroSuperSport2HD" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png",Astro SuperSport 2 HD backup
-http://meu02.cularu.com:8880/yw12m2n466/UYWyCspA67/59219
+http://iptv-line.com:8080/live/yahemu20001/Nepalibabu/110253.ts
 
 #EXTINF:-1 tvg-id="AstroSuperSport3HD" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png",Astro SuperSport 3 HD backup
-http://meu02.cularu.com:8880/yw12m2n466/UYWyCspA67/59218
+http://iptv-line.com:8080/live/yahemu20001/Nepalibabu/110254.ts
 
 #EXTINF:-1 tvg-id="AstroSuperSport4HD" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png",Astro SuperSport 4 HD backup
-http://meu02.cularu.com:8880/yw12m2n466/UYWyCspA67/59217
+http://iptv-line.com:8080/live/yahemu20001/Nepalibabu/110255.ts
 
 #EXTINF:-1 tvg-id="premierleague" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/LaLiga_Santander_%282%29.svg" group-title="SPORTS_50fps",prmierleague
 https://e1.cdnfoxtv.com/ingest09/25557.m3u8?sf=NTdwczEwU2JE&token=6JDkQkGp5egezeAFHXemkQ&expires=1630248039&rnd=
