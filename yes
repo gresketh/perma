@@ -53,7 +53,8 @@ http://iptv.tvmalaysia.cc:80/penang188/penang188/9016
 ##http://tvms.me:8080/norazah/norazah/366
 
 #EXTINF:-1 tvg-id="AstroRiaHD" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",Astro Ria HD
-http://ottboxnet.com:8000/Fernando/Fernando/37572
+http://185.180.221.194:8278/streams/d/Ria_pye/playlist.m3u8
+##http://ottboxnet.com:8000/Fernando/Fernando/37572
 #http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/1705
 # #http://194.233.68.128:5080/LiveApp/streams/925038668543768458713319.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
 # #https://nonton.site:8443/Ainamanja/RPLf79Gusm/37332
@@ -61,10 +62,12 @@ http://ottboxnet.com:8000/Fernando/Fernando/37572
 # #http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
 
 #EXTINF:-1 tvg-id="104" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",Astro Ria BACKUP
-http://iptv-line.com:8080/live/yahemu20001/Nepalibabu/110155.ts
+http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
+##http://iptv-line.com:8080/live/yahemu20001/Nepalibabu/110155.ts
 
 #EXTINF:-1 tvg-id="AstroPrimaHD" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",Astro Prima HD
-http://ottboxnet.com:8000/Fernando/Fernando/37569
+http://50.7.161.82:8278/streams/d/prima_pye/playlist.m3u8
+##http://ottboxnet.com:8000/Fernando/Fernando/37569
 #http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/71020
 # #https://nonton.site:8443/Ainamanja/RPLf79Gusm/37333
 # #http://iptv.tvmalaysia.cc:80/321456/321456/6727
@@ -74,7 +77,8 @@ http://ottboxnet.com:8000/Fernando/Fernando/37569
 http://iptv-line.com:8080/live/yahemu20001/Nepalibabu/110156.ts
 
 #EXTINF:-1 tvg-id="AstroOasisHD" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png",Astro Oasis HD
-http://ottboxnet.com:8000/Fernando/Fernando/37601
+http://iptv.tvmalaysia.cc:80/penang199/penang199/6725
+##http://ottboxnet.com:8000/Fernando/Fernando/37601
 #http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/1701
 # #https://nonton.site:8443/Ainamanja/RPLf79Gusm/37334
 # #http://iptv.tvmalaysia.cc:80/321456/321456/6725
@@ -84,7 +88,8 @@ http://ottboxnet.com:8000/Fernando/Fernando/37601
 http://iptv-line.com:8080/live/yahemu20001/Nepalibabu/110157.ts
 
 #EXTINF:-1 tvg-id="AstroWarnaHD" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png",Astro Warna HD
-http://ottboxnet.com:8000/Fernando/Fernando/37595
+http://iptv.tvmalaysia.cc:80/penang199/penang199/6740
+##http://ottboxnet.com:8000/Fernando/Fernando/37595
 #http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/1706
 # #http://194.233.68.128:5080/LiveApp/streams/892210953627862087279159.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
 # #http://iptv.tvmalaysia.cc:80/321456/321456/6740
@@ -95,7 +100,7 @@ http://ottboxnet.com:8000/Fernando/Fernando/37595
 http://iptv-line.com:8080/live/yahemu20001/Nepalibabu/110158.ts
 
 #EXTINF:-1 tvg-id="AstroCitraHD" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png",Astro Citra HD
-http://iptv.tvmalaysia.cc:80/321456/321456/7267
+http://iptv.tvmalaysia.cc:80/penang199/penang199/7267
 # #http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 
 #EXTINF:-1 tvg-id="108" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png",Astro Citra HD
@@ -570,13 +575,19 @@ http://1.9.62.158/PLTV/88888888/224/3221227534/3221227534.mpd
 https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
 
 #EXTINF:-1 tvg-id="DisneyChannel.MACAN" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/Disney-Channel-logo.png" group-title="FAMILY_KIDS",Disney Channel
-http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/60449
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mpd
+##http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/60449
 
 #EXTINF:-1 tvg-id="DisneyJunior.MACAN" tvg-logo="https://assets.digicorus.corusdigitaldev.com/wp-content/uploads/sites/12/2018/05/29143450/DisneyJr_NavLogo_202x72.png" group-title="FAMILY_KIDS",Disney Junior
-http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/60482
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+https://liveanevia.mncnow.id/live/eds/DisneyJunior-HD/sa_dash_vmx/DisneyJunior-HD.mpd
+##http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/60482
 
-#EXTINF:-1 tvg-id="DisneyXD.MACAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png" group-title="FAMILY_KIDS",Disney XD
-http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/60448
+###EXTINF:-1 tvg-id="DisneyXD.MACAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png" group-title="FAMILY_KIDS",Disney XD
+###http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/60448
 
 #EXTINF:-1 tvg-id="AstroAwaniHD" group-title="NEWS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/436_144.png",Astro Awani 
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
@@ -711,12 +722,15 @@ http://210.210.155.35:80/uq2663/h/h22/01.m3u8
 # #http://210.210.155.35:80/uq2663/h/h22/01.m3u8
 # #http://210.210.155.35:80/uq2663/h/h22/01.m3u8
 
-#EXTINF:-1 tvg-id="wwe.us" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/194_144.png",WWE Network
+#EXTINF:-1 tvg-id="821" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/194_144.png",WWE Network HD
+http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
+
+##EXTINF:-1 tvg-id="wwe.us" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/194_144.png",WWE Network
 http://89.187.185.100/WWE/index.m3u8
 # ##https://nonton.site:8443/Ainamanja/RPLf79Gusm/37435
 # #http://185.180.221.194:8278/streams/d/Wwe/playlist.m3u8
 
-#EXTINF:-1 tvg-id="wwe.us" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/194_144.png",WWE Network (backup)
+##EXTINF:-1 tvg-id="wwe.us" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/194_144.png",WWE Network (backup)
 http://iptv-line.com:8080/live/yahemu20001/Nepalibabu/46800.ts
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="1824" tvg-chno="824" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png",Astro Cricket HD
