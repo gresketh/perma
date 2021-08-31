@@ -102,14 +102,15 @@ http://iptv.tvmalaysia.cc:80/321456/321456/7267
 http://iptv-line.com:8080/live/yahemu20001/Nepalibabu/110270.ts
 
 #EXTINF:-1 tvg-id="AstroRaniaHD" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png",Astro Rania HD
-http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/71144
+http://iptv.tvmalaysia.cc:80/penang199/penang199/6729
+#http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/71144
 # #http://194.233.68.128:5080/LiveApp/streams/514803051254911543469456.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
 # #http://iptv.tvmalaysia.cc:80/321456/321456/6729
 # #https://nonton.site:8443/Ainamanja/RPLf79Gusm/37467
 
-
 #EXTINF:-1 tvg-id="AstroAuraHD" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png",Astro Aura HD
-http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/71145
+http://iptv.tvmalaysia.cc:80/penang199/penang199/6713
+#http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/71145
 ##http://194.233.68.128:5080/LiveApp/streams/418700544789576229675633.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
 ##http://iptv.tvmalaysia.cc:80/321456/321456/6713
 ###https://nonton.site:8443/Ainamanja/RPLf79Gusm/37468
@@ -127,7 +128,7 @@ http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/71023
 http://iptv-line.com:8080/live/yahemu20001/Nepalibabu/110159.ts
 
 #EXTINF:-1 tvg-id="HelloHD" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/110.png",Hello HD
-http://iptv.tvmalaysia.cc:80/321456/321456/6721
+http://iptv.tvmalaysia.cc:80/penang199/penang199/6721
 # #https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6.m3u8
 
 #EXTINF:-1 tvg-id="TVS" group-title="ENTERTAINMENT" tvg-logo="https://tvstv.my/wp-content/uploads/2020/09/cropped-TVS-Logo-Square2.jpg",TVS
@@ -690,7 +691,8 @@ http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/60284
  ## https://liveanevia.mncnow.id/live/eds/BeIN2/sa_dash_vmx/BeIN2.mpd
 
 #EXTINF:-1 tvg-id="BeINSPORTSMAX" group-title="SPORTS" tvg-logo="https://i.postimg.cc/QxTnfTBd/bein-sports-max.png",beIN Sports MAX HD
-http://ottboxnet.com:8000/Fernando/Fernando/37617
+#http://iptv.tvmalaysia.cc:80/penang199/penang199/6748
+#http://ottboxnet.com:8000/Fernando/Fernando/37617
 #http://iptv.tvmalaysia.cc:80/321456/321456/6748
 # #http://iptv.tvmalaysia.cc:80/penang172/penang172/6748
 
@@ -772,7 +774,8 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 ## #https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 
 #EXTINF:-1 tvg-id="AstroSupersportHD" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png",Astro SuperSport HD
-http://ottboxnet.com:8000/Fernando/Fernando/37633
+http://iptv.tvmalaysia.cc:80/penang199/penang199/6708
+#http://ottboxnet.com:8000/Fernando/Fernando/37633
 #http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/59220 
 #http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/66.m3u8
  #http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6708
@@ -781,7 +784,8 @@ http://ottboxnet.com:8000/Fernando/Fernando/37633
  # #http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AstroSupersport2HD" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png",Astro SuperSport 2 HD
-http://ottboxnet.com:8000/Fernando/Fernando/37583
+http://iptv.tvmalaysia.cc:80/penang199/penang199/6710
+#http://ottboxnet.com:8000/Fernando/Fernando/37583
 #http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/59219
 #http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/67.m3u8
  #http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6710
@@ -790,7 +794,8 @@ http://ottboxnet.com:8000/Fernando/Fernando/37583
  # #http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AstroSupersport3HD" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png",Astro SuperSport 3 HD
-http://ottboxnet.com:8000/Fernando/Fernando/37614
+http://iptv.tvmalaysia.cc:80/penang199/penang199/6711
+#http://ottboxnet.com:8000/Fernando/Fernando/37614
 #http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/59218
 #http://iptv.tvmalaysia.cc:80/penang188/penang188/6711
 #http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/68.m3u8
@@ -800,7 +805,8 @@ http://ottboxnet.com:8000/Fernando/Fernando/37614
  # #http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AstroSupersport4HD" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png",Astro SuperSport 4 HD
-http://ottboxnet.com:8000/Fernando/Fernando/37602
+http://iptv.tvmalaysia.cc:80/penang199/penang199/6710
+#http://ottboxnet.com:8000/Fernando/Fernando/37602
 #http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/59217
 #http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/69.m3u8
  #http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6710
@@ -839,4 +845,4 @@ http://iptv-line.com:8080/live/yahemu20001/Nepalibabu/110254.ts
 http://iptv-line.com:8080/live/yahemu20001/Nepalibabu/110255.ts
 
 #EXTINF:-1 tvg-id="premierleague" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/LaLiga_Santander_%282%29.svg" group-title="SPORTS_50fps",prmierleague
-https://e1.cdnfoxtv.com/ingest09/25557.m3u8?sf=NTdwczEwU2JE&token=6JDkQkGp5egezeAFHXemkQ&expires=1630248039&rnd=
+http://iptv.tvmalaysia.cc:80/penang199/penang199/9020
