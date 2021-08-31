@@ -53,7 +53,8 @@ http://iptv.tvmalaysia.cc:80/penang188/penang188/9016
 ##http://tvms.me:8080/norazah/norazah/366
 
 #EXTINF:-1 tvg-id="AstroRiaHD" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",Astro Ria HD
-http://185.180.221.194:8278/streams/d/Ria_pye/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/penang199/penang199/6730
+##http://185.180.221.194:8278/streams/d/Ria_pye/playlist.m3u8
 ##http://ottboxnet.com:8000/Fernando/Fernando/37572
 #http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/1705
 # #http://194.233.68.128:5080/LiveApp/streams/925038668543768458713319.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
@@ -134,7 +135,8 @@ http://iptv.tvmalaysia.cc:80/penang199/penang199/6724
 http://iptv-line.com:8080/live/yahemu20001/Nepalibabu/110159.ts
 
 #EXTINF:-1 tvg-id="HelloHD" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/110.png",Hello HD
-http://iptv.tvmalaysia.cc:80/penang199/penang199/6721
+https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6.m3u8
+##http://iptv.tvmalaysia.cc:80/penang199/penang199/6721
 # #https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6.m3u8
 
 #EXTINF:-1 tvg-id="TVS" group-title="ENTERTAINMENT" tvg-logo="https://tvstv.my/wp-content/uploads/2020/09/cropped-TVS-Logo-Square2.jpg",TVS
@@ -379,7 +381,9 @@ http://1.9.62.158/PLTV/88888888/224/3221227620/3221227620.mpd
 http://1.9.62.158/PLTV/88888888/224/3221227578/3221227578.mpd
 
 #EXTINF:-1 tvg-id="FOX" group-title="ENTERTAINMENT" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716073643920hhv.png",FOX (indo sub)
-http://iptv.tvmalaysia.cc:80/penang188/penang188/7227
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_dash_vmx/FoxChannel.mpd
 
 #EXTINF:-1 tvg-id="DMAX" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/367_144.png",DMAX HD
 https://nonton.site:8443/Ainamanja/RPLf79Gusm/37417
@@ -400,7 +404,9 @@ https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_dash_vmx/FoxCrime.mpd
 http://1.9.62.158/PLTV/88888888/224/3221227525/3221227525.mpd
 
 #EXTINF:-1 tvg-id="FOXLife" group-title="ENTERTAINMENT" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716073811029jld.png",FOX Life (indo sub)
-http://iptv.tvmalaysia.cc:80/penang188/penang188/7228
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+https://liveanevia.mncnow.id/live/eds/STARWorld/sa_dash_vmx/STARWorld.mpd
 
 #EXTINF:-1 tvg-id="BlueAntEntertainment" group-title="ENTERTAINMENT" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160638240897f5.png",Blue Ant Entertainment
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -489,7 +495,9 @@ http://1.9.62.158/PLTV/88888888/224/3221227672/3221227672.mpd
 http://1.9.62.158/PLTV/88888888/224/3221227567/3221227567.mpd
 
 #EXTINF:-1 tvg-id="NationalGeographicindo" group-title="EDUCATION" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716065651397ki2.png",National Geographic (INDOSUB)
-http://iptv.tvmalaysia.cc:80/321456/321456/7075
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 
 #EXTINF:-1 tvg-id="NatGeoWild" group-title="ANIMAL_WILDLIFE" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202009/20200907/20200907034018802dtj.PNG",Nat Geo Wild
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -500,6 +508,11 @@ http://1.9.62.158/PLTV/88888888/224/3221227628/3221227628.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDAwMjFkZWMtOWE4Zi0zMDZiLTlhOTUtY2M4MzAyMTEzNTJi
 http://1.9.62.158/PLTV/88888888/224/3221227590/3221227590.mpd
+
+#EXTINF:-1 tvg-id="NatGeoPeopleID" group-title="LIFE_STYLE" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716065806236c1s.png",Nat Geo People HD (indo sub)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_dash_vmx/NatGeoPeople.mpd
 
 #EXTINF:-1 tvg-id="BBCLifestyleHD" group-title="LIFE_STYLE" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716064944437peu.png",BBC Lifestyle HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -655,7 +668,10 @@ https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u
 https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
 
 #EXTINF:-1 tvg-id="France24English" group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/FRANCE_24_logo.svg/240px-FRANCE_24_logo.svg.png",France 24
-http://iptv-line.com:8080/live/yahemu20001/Nepalibabu/110269.ts
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+https://liveanevia.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd
+####http://iptv-line.com:8080/live/yahemu20001/Nepalibabu/110269.ts
 ##https://mediahomes.github.io/assets/yt/france24.m3u8|Referer=https://www.youtube.com
 
 #EXTINF:-1 tvg-id="BloombergHD" group-title="NEWS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png",Bloomberg TV HD
@@ -674,6 +690,9 @@ https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="AlJazeeraEnglishHD" group-title="NEWS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/533.png",Al Jazeera English HD
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+
+#EXTINF:-1 tvg-id="CNA" group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/CNA_new_logo.svg",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
 #EXTINF:-1 tvg-id="TVSUKAN" group-title="SPORTS" tvg-logo="https://mediahomes.github.io/logos/sukan.png",Sukan RTM
 https://github.com/196-25-717-6196/Test/raw/main/S%3Cu%3Ekan-multi.m3u8|Referer=https://rtmklik.rtm.gov.my
