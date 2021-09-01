@@ -715,7 +715,8 @@ http://iptv-line.com:8080/live/yahemu20001/Nepalibabu/110065.ts
 #http://stream2.grandma.fit/fs2.m3u8
 
 #EXTINF:-1 tvg-id="espn2.us" tvg-logo="https://static.epg.best/us/ESPN2.us.png" group-title="SPORTS",ESPN 2
-http://iptv-line.com:8080/live/yahemu20001/Nepalibabu/8580.ts
+https://e10.cdnfoxtv.me/ingestnb4s/espn2_usa/f.m3u8
+##http://iptv-line.com:8080/live/yahemu20001/Nepalibabu/8580.ts
 #http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/3137
 #http://stream2.grandma.fit/espn2.m3u8
 
