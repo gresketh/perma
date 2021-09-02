@@ -815,7 +815,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227705/3221227705.mpd
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 tvg-id="TennisChannel.us" group-title="SPORTS" tvg-logo="https://tch.spott2.sportradar.com/assets/img/Tennischannel/TC-logo-green.png",Tennis Channel
-http://212.102.60.76:80/b1/mono.m3u8 
+http://212.102.60.76:80/b1/mono.m3u8
 ##https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 ## #https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 
