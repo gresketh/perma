@@ -56,7 +56,7 @@ https://stream-01.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0icwXX8mWar-mcabzN
 https://github.com/196-25-717-6196/Test/raw/main/Ok%3Ce%3Ey-multi.m3u8|Referer=https://rtmklik.rtm.gov.my
 
 #EXTINF:-1 tvg-id="AwesomeTV" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/123.png",Awesome TV
-http://iptv.tvmalaysia.cc:80/penang188/penang188/9016
+http://iptv.tvmalaysia.cc:80/penang056/penang056/9016
 ##http://tvms.me:8080/norazah/norazah/366
 
 #EXTINF:-1 tvg-id="AstroRiaHD" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",Astro Ria HD
@@ -716,7 +716,7 @@ http://212.102.60.76:80/e2/mono.m3u8
 http://212.102.60.76:80/a/mono.m3u8
 #####http://stream2.grandma.fit/espn2.m3u8
 
-#EXTINF:-1 tvg-id="beINSports1.my" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",beIN Sports HD
+#EXTINF:-1 tvg-id="beINSports1.my" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png",beIN Sports HD
 http://iptv.tvmalaysia.cc:80/penang039/penang039/6749
 ##http://ottboxnet.com:8000/Fernando/Fernando/37624
 
