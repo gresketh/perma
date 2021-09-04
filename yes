@@ -861,7 +861,8 @@ http://iptv.tvmalaysia.cc:80/penang199/penang199/6712
  # #http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AstroCeriaHD" group-title="FAMILY_KIDS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png",Astro Ceria HD
-http://194.233.68.128:5080/LiveApp/streams/092138205532815210907549.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
+http://iptv.tvmalaysia.cc:80/penang199/penang199/6715
+##http://194.233.68.128:5080/LiveApp/streams/092138205532815210907549.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
 # #https://nonton.site:8443/Ainamanja/RPLf79Gusm/37399
 # http://iptv.tvmalaysia.cc:80/321456/321456/6715
 # #http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
