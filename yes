@@ -875,7 +875,7 @@ http://iptv.tvmalaysia.cc/932633/932633/7079
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AstroArenaHD" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",Astro Arena HD (backup)
-http://iptv.tvmalaysia.cc:80/penang039/penang039/6707
+http://iptv.tvmalaysia.cc:80/penang039/penang039/8926
 
 #EXTINF:-1 tvg-id="AstroArenaHD" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",Astro Arena HD (backup2)
 http://iptv.tvmalaysia.cc:80/penang039/penang039/9010
@@ -917,15 +917,24 @@ http://iptv.tvmalaysia.cc:80/penang039/penang039/7236
 #EXTINF:-1 tvg-id="lvc" tvg-name="LFC TV" tvg-logo="http://tvmalaysia.cc:80/images/8e5e2fa700bc778be1119e3eab7ee709.png" group-title="FOOTBALL CLUB",LFC TV
 http://iptv.tvmalaysia.cc:80/penang039/penang039/7237
 
-#EXTINF:-1 tvg-id="" tvg-name="TSN 1" tvg-logo="" group-title="TSN SPORTS",TSN 1
+#EXTINF:-1 tvg-id="" tvg-name="TSN1.us" tvg-logo="" group-title="TSN SPORTS",TSN 1
 http://iptv.tvmalaysia.cc:80/penang039/penang039/8923
 
-#EXTINF:-1 tvg-id="" tvg-name="TSN 2" tvg-logo="" group-title="TSN SPORTS",TSN 2
+#EXTINF:-1 tvg-id="" tvg-name="TSN2.us" tvg-logo="" group-title="TSN SPORTS",TSN 2
 http://iptv.tvmalaysia.cc:80/penang039/penang039/8924
 
-#EXTINF:-1 tvg-id="" tvg-name="TSN 4" tvg-logo="" group-title="TSN SPORTS",TSN 3
+#EXTINF:-1 tvg-id="" tvg-name="TSN3.us" tvg-logo="" group-title="TSN SPORTS",TSN 3
 http://iptv.tvmalaysia.cc:80/penang039/penang039/8925
 
-#EXTINF:-1 tvg-id="" tvg-name="TSN 3" tvg-logo="" group-title="TSN SPORTS",TSN 4
-http://iptv.tvmalaysia.cc:80/penang039/penang039/8926
+#EXTINF:-1 tvg-id="" tvg-name="btsport.uk" tvg-logo="" group-title="TSN SPORTS",BT SPORT 1
+http://iptv.tvmalaysia.cc:80/penang037/penang037/6610
+
+#EXTINF:-1 tvg-id="" tvg-name="btsport.uk" tvg-logo="" group-title="TSN SPORTS",BT SPORT 2
+http://iptv.tvmalaysia.cc:80/penang037/penang037/6611
+
+#EXTINF:-1 tvg-id="" tvg-name="btsport.uk" tvg-logo="" group-title="TSN SPORTS",BT SPORT 3
+http://iptv.tvmalaysia.cc:80/penang037/penang037/6612
+
+###EXTINF:-1 tvg-id="" tvg-name="TSN4.us" tvg-logo="" group-title="TSN SPORTS",TSN 4
+##http://iptv.tvmalaysia.cc:80/penang039/penang039/8926
 
