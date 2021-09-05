@@ -916,3 +916,16 @@ http://iptv.tvmalaysia.cc:80/penang039/penang039/7236
 
 #EXTINF:-1 tvg-id="lvc" tvg-name="LFC TV" tvg-logo="http://tvmalaysia.cc:80/images/8e5e2fa700bc778be1119e3eab7ee709.png" group-title="FOOTBALL CLUB",LFC TV
 http://iptv.tvmalaysia.cc:80/penang039/penang039/7237
+
+#EXTINF:-1 tvg-id="" tvg-name="TSN 1" tvg-logo="" group-title="TSN SPORTS",TSN 1
+http://iptv.tvmalaysia.cc:80/penang039/penang039/8923
+
+#EXTINF:-1 tvg-id="" tvg-name="TSN 2" tvg-logo="" group-title="TSN SPORTS",TSN 2
+http://iptv.tvmalaysia.cc:80/penang039/penang039/8924
+
+#EXTINF:-1 tvg-id="" tvg-name="TSN 4" tvg-logo="" group-title="TSN SPORTS",TSN 3
+http://iptv.tvmalaysia.cc:80/penang039/penang039/8925
+
+#EXTINF:-1 tvg-id="" tvg-name="TSN 3" tvg-logo="" group-title="TSN SPORTS",TSN 4
+http://iptv.tvmalaysia.cc:80/penang039/penang039/8926
+
