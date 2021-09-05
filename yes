@@ -908,7 +908,7 @@ http://iptv.tvmalaysia.cc:80/penang061/penang061/6712
 https://linear02-playback.sooka.my/CH1/masterCH1.mpd
 ###http://iptv-line.com:8080/live/yahemu20001/Nepalibabu/110255.ts
 
-#EXTINF:-1 tvg-id="premierleague" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/LaLiga_Santander_%282%29.svg" group-title="SPORTS_50fps",PREMIER LEAGUE
+#EXTINF:-1 tvg-id="premierleague" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/Premier_League_Logo.svg" group-title="SPORTS_50fps",PREMIER LEAGUE
 http://iptv.tvmalaysia.cc:80/penang039/penang039/9020
 
 #EXTINF:-1 tvg-id="mu" tvg-name="MUTV" tvg-logo="http://tvmalaysia.cc:80/images/00df33989b0bbd6c33616c9c6e22d63b.png" group-title="FOOTBALL CLUB",MUTV
@@ -917,24 +917,24 @@ http://iptv.tvmalaysia.cc:80/penang039/penang039/7236
 #EXTINF:-1 tvg-id="lvc" tvg-name="LFC TV" tvg-logo="http://tvmalaysia.cc:80/images/8e5e2fa700bc778be1119e3eab7ee709.png" group-title="FOOTBALL CLUB",LFC TV
 http://iptv.tvmalaysia.cc:80/penang039/penang039/7237
 
-#EXTINF:-1 tvg-id="" tvg-name="TSN1.us" tvg-logo="" group-title="TSN SPORTS",TSN 1
+#EXTINF:-1 tvg-id="" tvg-name="TSN1.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Tsn1hd.png/revision/latest/scale-to-width-down/150?cb=20150709183637" group-title="TSN SPORTS",TSN 1
 http://iptv.tvmalaysia.cc:80/penang039/penang039/8923
 
-#EXTINF:-1 tvg-id="" tvg-name="TSN2.us" tvg-logo="" group-title="TSN SPORTS",TSN 2
+#EXTINF:-1 tvg-id="" tvg-name="TSN2.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Tsn-2hd.png/revision/latest/scale-to-width-down/150?cb=20150709184658" group-title="TSN SPORTS",TSN 2
 http://iptv.tvmalaysia.cc:80/penang039/penang039/8924
 
-#EXTINF:-1 tvg-id="" tvg-name="TSN3.us" tvg-logo="" group-title="TSN SPORTS",TSN 3
+#EXTINF:-1 tvg-id="" tvg-name="TSN3.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Tsn3hd.png/revision/latest/scale-to-width-down/150?cb=20150709184218" group-title="TSN SPORTS",TSN 3
 http://iptv.tvmalaysia.cc:80/penang039/penang039/8925
 
-#EXTINF:-1 tvg-id="" tvg-name="btsport.uk" tvg-logo="" group-title="TSN SPORTS",BT SPORT 1
+#EXTINF:-1 tvg-id="" tvg-name="btsport.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2e/BT_Sport_1_HD.svg/revision/latest/scale-to-width-down/200?cb=20191227182531" group-title="BT SPORTS",BT SPORT 1
 http://iptv.tvmalaysia.cc:80/penang037/penang037/6610
 
-#EXTINF:-1 tvg-id="" tvg-name="btsport.uk" tvg-logo="" group-title="TSN SPORTS",BT SPORT 2
+#EXTINF:-1 tvg-id="" tvg-name="btsport.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/BT_Sport_2_HD.svg/revision/latest/scale-to-width-down/199?cb=20191227182617" group-title="BT SPORTS",BT SPORT 2
 http://iptv.tvmalaysia.cc:80/penang037/penang037/6611
 
-#EXTINF:-1 tvg-id="" tvg-name="btsport.uk" tvg-logo="" group-title="TSN SPORTS",BT SPORT 3
+#EXTINF:-1 tvg-id="" tvg-name="btsport.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/BT_Sport_3_HD.svg/revision/latest/scale-to-width-down/199?cb=20191227182633" group-title="BT SPORTS",BT SPORT 3
 http://iptv.tvmalaysia.cc:80/penang037/penang037/6612
 
-###EXTINF:-1 tvg-id="" tvg-name="TSN4.us" tvg-logo="" group-title="TSN SPORTS",TSN 4
+###EXTINF:-1 tvg-id="" tvg-name="TSN4.us" tvg-logo="" group-title="BT SPORTS",TSN 4
 ##http://iptv.tvmalaysia.cc:80/penang039/penang039/8926
 
