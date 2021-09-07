@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="TV1HD" group-title="ENTERTAINMENT" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032126911a3z.png",TV1 HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZjIyOWRjMjQtYTQ2Yi0zNWNhLWFkOWItNGYwYTE4Y2I4NmZi
+#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
+https://web.hypp.tv:443/PLTV/88888888/224/3221227769/3221227769.mpd
