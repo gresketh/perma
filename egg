@@ -92,7 +92,7 @@ http://iptv.tvmalaysia.cc:80/penang039/penang039/6725
 # #http://iptv.tvmalaysia.cc:80/321456/321456/6725
 # #http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 
-#EXTINF:-1 tvg-id="astroprima" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png",Astro Oasis BACKUP
+#EXTINF:-1 tvg-id="astrooasis" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png",Astro Oasis BACKUP
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AstroWarna" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png",Astro Warna HD
@@ -105,14 +105,14 @@ http://iptv.tvmalaysia.cc:80/penang039/penang039/6740
 # #https://nonton.site:8443/Ainamanja/RPLf79Gusm/37335
 
 #EXTINF:-1 tvg-id="astrowarna" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png",Astro Warna BACKUP
-http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/penang061/penang039/6740
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png",Astro Citra HD
 http://iptv.tvmalaysia.cc:80/penang039/penang039/7267
 # #http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 
 #EXTINF:-1 tvg-id="astrocitra" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png",Astro Citra HD
-http://iptv-line.com:8080/live/yahemu20001/Nepalibabu/110270.ts
+http://iptv.tvmalaysia.cc:80/penang061/penang061/7267
 
 #EXTINF:-1 tvg-id="AstroRaniaHD" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png",Astro Rania HD
 http://iptv.tvmalaysia.cc:80/penang039/penang039/6729
@@ -129,7 +129,7 @@ http://iptv.tvmalaysia.cc:80/penang039/penang039/6713
 ###https://nonton.site:8443/Ainamanja/RPLf79Gusm/37468
 
 #EXTINF:-1 tvg-id="BOO" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png",BOO HD
-http://iptv.tvmalaysia.cc:80/321456/321456/8872
+http://iptv.tvmalaysia.cc:80/penang039/penang039/8872
 
 #EXTINF:-1 tvg-id="Naura" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/299_144.png",Naura HD
 http://iptv.tvmalaysia.cc:80/penang039/penang039/6724
