@@ -216,7 +216,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227615/3221227615.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZjIyOWRjMjQtYTQ2Yi0zNWNhLWFkOWItNGYwYTE4Y2I4NmZi
 http://1.9.62.158/PLTV/88888888/224/3221227560/3221227560.mpd
 
-#EXTINF:-1 tvg-id="tvNMovies" group-title="MOVIES" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190723/20190723084311221wnu.png",tvN Movies HD
+#EXTINF:-1 tvg-id="TVNMovies.MACAN" group-title="MOVIES" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190723/20190723084311221wnu.png",tvN Movies HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZjIyOWRjMjQtYTQ2Yi0zNWNhLWFkOWItNGYwYTE4Y2I4NmZi
 http://1.9.62.158/PLTV/88888888/224/3221227553/3221227553.mpd
@@ -372,7 +372,7 @@ http://iptv.tvmalaysia.cc:80/321456/321456/8872
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
-#EXTINF:-1 tvg-id="Thrill.id" group-title="MOVIES" tvg-logo="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png",Thrill ID
+#EXTINF:-1 tvg-id="Thrill.MACAN" group-title="MOVIES" tvg-logo="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png",Thrill ID
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
@@ -405,7 +405,7 @@ https://nonton.site:8443/Ainamanja/RPLf79Gusm/37417
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZjIyOWRjMjQtYTQ2Yi0zNWNhLWFkOWItNGYwYTE4Y2I4NmZi
 http://1.9.62.158/PLTV/88888888/224/3221227571/3221227571.mpd
 
-#EXTINF:-1 tvg-id="foxcrime.id" group-title="ENTERTAINMENT" tvg-logo="https://poster.starhubgo.com/Linear_channels2/503_1920x1080_HTV.png",FOX Crime 
+#EXTINF:-1 tvg-id="foxcrime.id" group-title="ENTERTAINMENT" tvg-logo="https://poster.starhubgo.com/Linear_channels2/503_1920x1080_HTV.png",FOX Crime ID 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_dash_vmx/FoxCrime.mpd
@@ -505,7 +505,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227672/3221227672.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZjIyOWRjMjQtYTQ2Yi0zNWNhLWFkOWItNGYwYTE4Y2I4NmZi
 http://1.9.62.158/PLTV/88888888/224/3221227567/3221227567.mpd
 
-#EXTINF:-1 tvg-id="NationalGeographicindo" group-title="EDUCATION" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716065651397ki2.png",National Geographic (INDOSUB)
+#EXTINF:-1 tvg-id="NationalGeographic" group-title="EDUCATION" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716065651397ki2.png",National Geographic (INDOSUB)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
@@ -635,7 +635,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227619/3221227619.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZjIyOWRjMjQtYTQ2Yi0zNWNhLWFkOWItNGYwYTE4Y2I4NmZi
 http://1.9.62.158/PLTV/88888888/224/3221227586/3221227586.mpd
 
-#EXTINF:-1 tvg-id="ChannelNewsAsia" group-title="NEWS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",Channel NewsAsia
+#EXTINF:-1 tvg-id="CNA" group-title="NEWS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",CNA HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZjIyOWRjMjQtYTQ2Yi0zNWNhLWFkOWItNGYwYTE4Y2I4NmZi
 http://1.9.62.158/PLTV/88888888/224/3221227543/3221227543.mpd
@@ -702,7 +702,7 @@ https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraEnglish" group-title="NEWS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/533.png",Al Jazeera English HD
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 
-#EXTINF:-1 tvg-id="CNA" group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/CNA_new_logo.svg",CNA
+#EXTINF:-1 tvg-id="CNA." group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/CNA_new_logo.svg",CNA backup
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
 #EXTINF:-1 tvg-id="TVSUKAN" group-title="SPORTS" tvg-logo="https://mediahomes.github.io/logos/sukan.png",Sukan RTM
@@ -869,7 +869,7 @@ http://iptv.tvmalaysia.cc:80/penang039/penang039/6715
 # #http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 
 #EXTINF:-1 tvg-id="history" group-title="EDUCATION" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/144_144.png",History FHD
-http://iptv.tvmalaysia.cc/932633/932633/7079
+http://iptv.tvmalaysia.cc/penang039/penang039/7079
 
 #EXTINF:-1 tvg-id="AstroArena" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",Astro Arena HD
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
