@@ -21,11 +21,11 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227779/3221227779.mpd
 #EXTINF:-1 tvg-id="TV6" group-title="ENTERTAINMENT" tvg-logo="https://mediahomes.github.io/logos/tv6.png",TV6
 https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b4064000.m3u8|Referer=https://rtmklik.rtm.gov.my
 
-#EXTINF:-1 tvg-id="GOSHOP" group-title="SHOPPING" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/403_144.png",Go Shop 111
+#EXTINF:-1 tvg-id="GoShopRUUMA" group-title="SHOPPING" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/403_144.png",Go Shop 118
 https://agsplayback01.astro.com.my/CH1/master_GOSHOP_04.m3u8
 ##http://ottboxnet.com:8000/Fernando/Fernando/37629
 
-#EXTINF:-1 tvg-id="GOSHOP2" group-title="SHOPPING" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/403_144.png",Go Shop 120
+#EXTINF:-1 tvg-id="GoShopGAAYA" group-title="SHOPPING" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/403_144.png",Go Shop GAAYA
 https://agsplayback01.astro.com.my/CH3/master_GOSHOP3_04.m3u8
 
 #EXTINF:-1 tvg-id="GOSHOP3" group-title="SHOPPING" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/403_144.png",Go Shop
@@ -69,7 +69,7 @@ http://iptv.tvmalaysia.cc:80/penang039/penang039/6730
 # #http://iptv.tvmalaysia.cc:80/321456/321456/6730
 # #http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Astroria" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",Astro Ria BACKUP
+#EXTINF:-1 tvg-id="Astroriabackup" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",Astro Ria HD
 http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
 ##http://iptv-line.com:8080/live/yahemu20001/Nepalibabu/110155.ts
 
@@ -81,7 +81,7 @@ http://50.7.161.82:8278/streams/d/prima_pye/playlist.m3u8
 # #http://iptv.tvmalaysia.cc:80/321456/321456/6727
 # #http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 
-#EXTINF:-1 tvg-id="astroprima" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",Astro Prima BACKUP
+#EXTINF:-1 tvg-id="astroprimabackup" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",Astro Prima HD
 http://50.7.161.82:8278/streams/d/prima_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AstroOasis" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png",Astro Oasis HD
@@ -92,7 +92,7 @@ http://iptv.tvmalaysia.cc:80/penang039/penang039/6725
 # #http://iptv.tvmalaysia.cc:80/321456/321456/6725
 # #http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 
-#EXTINF:-1 tvg-id="astrooasis" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png",Astro Oasis BACKUP
+#EXTINF:-1 tvg-id="astrooasisbackup" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png",Astro Oasis HD
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AstroWarna" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png",Astro Warna HD
@@ -104,14 +104,14 @@ http://iptv.tvmalaysia.cc:80/penang039/penang039/6740
 # #http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
 # #https://nonton.site:8443/Ainamanja/RPLf79Gusm/37335
 
-#EXTINF:-1 tvg-id="astrowarna" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png",Astro Warna BACKUP
+#EXTINF:-1 tvg-id="astrowarnabackup" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png",Astro Warna HD
 http://iptv.tvmalaysia.cc:80/penang061/penang061/6740
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png",Astro Citra HD
 http://iptv.tvmalaysia.cc:80/penang039/penang039/7267
 # #http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 
-#EXTINF:-1 tvg-id="astrocitra" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png",Astro Citra HD (backup)
+#EXTINF:-1 tvg-id="astrocitrabackup" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png",Astro Citra HD
 http://iptv.tvmalaysia.cc:80/penang061/penang061/7267
 
 #EXTINF:-1 tvg-id="AstroRaniaHD" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png",Astro Rania HD
@@ -138,7 +138,7 @@ http://iptv.tvmalaysia.cc:80/penang039/penang039/6724
 # #http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
 # https://agsplayback01.astro.com.my/CH2/master_NAURAGOSHOP4_03.m3u8
 
-#EXTINF:-1 tvg-id="109" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/299_144.png",Naura BACKUP
+#EXTINF:-1 tvg-id="Naurabackup" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/299_144.png",Naura HD
 http://50.7.161.82:8278/streams/d/naura_pye/playlist.m3u8
 ##http://iptv-line.com:8080/live/yahemu20001/Nepalibabu/110159.ts
 
@@ -147,7 +147,7 @@ https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6.m3u8
 ##http://iptv.tvmalaysia.cc:80/penang039/penang039/6721
 # #https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6.m3u8
 
-#EXTINF:-1 tvg-id="HelloHD" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/110.png",Hello (BACKUP)
+#EXTINF:-1 tvg-id="HelloHD" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/110.png",Hello HD
 http://50.7.161.82:8278/streams/d/hello_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVS" group-title="ENTERTAINMENT" tvg-logo="https://tvstv.my/wp-content/uploads/2020/09/cropped-TVS-Logo-Square2.jpg",TVS
@@ -420,12 +420,12 @@ http://1.9.62.158/PLTV/88888888/224/3221227525/3221227525.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 https://liveanevia.mncnow.id/live/eds/STARWorld/sa_dash_vmx/STARWorld.mpd
 
-#EXTINF:-1 tvg-id="473" group-title="ENTERTAINMENT" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160638240897f5.png",Blue Ant Entertainment
+#EXTINF:-1 tvg-id="473" group-title="ENTERTAINMENT" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202109/20210902/20210902163927011u1k.png",Rock Entertainment
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZjIyOWRjMjQtYTQ2Yi0zNWNhLWFkOWItNGYwYTE4Y2I4NmZi
 http://1.9.62.158/PLTV/88888888/224/3221227637/3221227637.mpd
 
-#EXTINF:-1 tvg-id="474" group-title="ENTERTAINMENT" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716073944056u4a.png",Blue Ant Extreme
+#EXTINF:-1 tvg-id="474" group-title="ENTERTAINMENT" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202109/20210902/20210902163736941716.png",Rock Extreme
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZjIyOWRjMjQtYTQ2Yi0zNWNhLWFkOWItNGYwYTE4Y2I4NmZi
 http://1.9.62.158/PLTV/88888888/224/3221227656/3221227656.mpd
