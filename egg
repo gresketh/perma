@@ -912,6 +912,27 @@ http://iptv.tvmalaysia.cc:80/penang061/penang061/6712
 https://linear02-playback.sooka.my/CH1/masterCH1.mpd
 ###http://iptv-line.com:8080/live/yahemu20001/Nepalibabu/110255.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports News" tvg-logo="http://tvmalaysia.cc:80/images/5e99aed2ec2d9b812674d012bb467ad8.jpg" group-title="Sky Sports",UK: Sky Sports News
+http://iptv.tvmalaysia.cc:80/penang199/penang199/6614
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Arena" tvg-logo="http://tvmalaysia.cc:80/images/62a88170b4d23cef2f5dcab8c83c882a.jpg" group-title="Sky Sports",UK: Sky Sports Arena
+http://iptv.tvmalaysia.cc:80/penang199/penang199/6615
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK: Sky Sports F1" tvg-logo="http://tvmalaysia.cc:80/images/2f4e8a56c74335dad8c11c742243ea8e.jpg" group-title="Sky Sports",UK: Sky Sports F1
+http://iptv.tvmalaysia.cc:80/penang199/penang199/6617
+#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="UK: Sky Sports Golf" tvg-logo="http://tvmalaysia.cc:80/images/48edb52948eec885dc7fcb3aa0115781.png" group-title="Sky Sports",UK: Sky Sports Golf
+http://iptv.tvmalaysia.cc:80/penang199/penang199/6618
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="UK: Sky Sports Football" tvg-logo="http://tvmalaysia.cc:80/images/5018ec7514f120bfba08d989ccbc9b65.jpg" group-title="Sky Sports",UK: Sky Sports Football
+http://iptv.tvmalaysia.cc:80/penang199/penang199/6620
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Premier League" tvg-logo="https://i.postimg.cc/kGr6Yktn/IMG-20210105-105040.jpg" group-title="Sky Sports",UK: Sky Sports Premier League
+http://iptv.tvmalaysia.cc:80/penang199/penang199/6621
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="UK: Sky Sports Cricket" tvg-logo="http://tvmalaysia.cc:80/images/c80ade5bf94d0648997febfd77daad04.png" group-title="Sky Sports",UK: Sky Sports Cricket
+http://iptv.tvmalaysia.cc:80/penang199/penang199/6619
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Racing" tvg-logo="https://i.postimg.cc/CKyND6cV/IMG-20210105-104354.jpg" group-title="Sky Sports",UK: Sky Sports Racing
+http://iptv.tvmalaysia.cc:80/penang199/penang199/7114
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Main Event" tvg-logo="https://i.postimg.cc/mZF73SFL/IMG-20210105-104902.jpg" group-title="Sky Sports",UK: Sky Sports Main Event
+http://iptv.tvmalaysia.cc:80/penang199/penang199/7115
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Mix" tvg-logo="https://i.postimg.cc/bJxFsjPM/IMG-20210105-104056.jpg" group-title="Sky Sports",UK: Sky Sports Mix
+
+
 #EXTINF:-1 tvg-id="premierleague" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/Premier_League_Logo.svg" group-title="SPORTS_50fps",PREMIER LEAGUE
 http://iptv.tvmalaysia.cc:80/penang039/penang039/9020
 
