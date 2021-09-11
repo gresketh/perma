@@ -317,6 +317,8 @@ http://1.9.62.158/PLTV/88888888/224/3221227565/3221227565.mpd
 http://1.9.62.158/PLTV/88888888/224/3221227568/3221227568.mpd
 
 #EXTINF:-1 tvg-id="FOXModddddddddvies" group-title="MOVIES" tvg-logo="https://www.foxmoviesasia.com/images/fm.png",FOX Movies HD
+http://iptv.tvmalaysia.cc:80/penang062/penang062/8838
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZjIyOWRjMjQtYTQ2Yi0zNWNhLWFkOWItNGYwYTE4Y2I4NmZi
 http://1.9.62.158/PLTV/88888888/224/3221227572/3221227572.mpd|User-Agent=DmpPlayer/20.0.25.15 (Android 7.1.2; 828d5831-f00b-4332-9080-d0db5238ae57; SM-G955F)
@@ -327,6 +329,8 @@ http://1.9.62.158/PLTV/88888888/224/3221227572/3221227572.mpd|User-Agent=DmpPlay
 http://1.9.62.158/PLTV/88888888/224/3221227644/3221227644.mpd
 
 #EXTINF:-1 tvg-id="FOXAddddddddddddddddddddddctionMovies" group-title="MOVIES" tvg-logo="https://foxactionmovies.foxmoviesasia.com/images/fam.png",FOX Action Movies HD
+http://iptv.tvmalaysia.cc:80/penang062/penang062/8839
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZjIyOWRjMjQtYTQ2Yi0zNWNhLWFkOWItNGYwYTE4Y2I4NmZi
 http://1.9.62.158/PLTV/88888888/224/3221227638/3221227638.mpd
@@ -769,7 +773,7 @@ http://89.187.185.100/WWE/index.m3u8
 http://iptv-line.com:8080/live/yahemu20001/Nepalibabu/46800.ts
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="AstrsdasdsoCricket" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png",Astro Cricket HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6717
+http://iptv.tvmalaysia.cc:80/penang062/penang062/6717
 # http://fastrunner.live:8080/SPYKeWkZUT/sBrlqIiJC1/62525
 # http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/319604
 
@@ -777,16 +781,22 @@ http://iptv.tvmalaysia.cc:80/932633/932633/6717
 https://nonton.site:8443/Ainamanja/RPLf79Gusm/37437
 
 #EXTINF:-1 tvg-id="FoxSpsadsadaorts" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/141_144.png",FOX Sports HD
+http://iptv.tvmalaysia.cc:80/penang062/penang062/6793
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZjIyOWRjMjQtYTQ2Yi0zNWNhLWFkOWItNGYwYTE4Y2I4NmZi
 http://1.9.62.158/PLTV/88888888/224/3221227608/3221227608.mpd
 
 #EXTINF:-1 tvg-id="FOXSpodsadsarts2" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/290_144.png",FOX Sports 2 HD
+http://iptv.tvmalaysia.cc:80/penang062/penang062/6791
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZjIyOWRjMjQtYTQ2Yi0zNWNhLWFkOWItNGYwYTE4Y2I4NmZi
 http://1.9.62.158/PLTV/88888888/224/3221227726/3221227726.mpd
 
 #EXTINF:-1 tvg-id="FsadsadOXSports3" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/291_144.png",FOX Sports 3 HD
+http://iptv.tvmalaysia.cc:80/penang062/penang062/6792
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZjIyOWRjMjQtYTQ2Yi0zNWNhLWFkOWItNGYwYTE4Y2I4NmZi
 http://1.9.62.158/PLTV/88888888/224/3221227634/3221227634.mpd
