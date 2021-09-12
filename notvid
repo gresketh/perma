@@ -854,7 +854,7 @@ http://iptv.tvmalaysia.cc:80/penang062/penang062/6712
 #EXTINF:-1 tvg-id="epl1" group-title="SPORTS" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2020/08/epl-premierleague-logo.png",EPL 1
 http://iptv.tvmalaysia.cc:80/penang062/penang062/9022
  
-#EXTINF:-1 tvg-id="epl1" group-title="SPORTS" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2020/08/epl-premierleague-logo.png",EPL 2
+#EXTINF:-1 tvg-id="epl2" group-title="SPORTS" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2020/08/epl-premierleague-logo.png",EPL 2
 http://iptv.tvmalaysia.cc:80/penang062/penang062/9023
 
 #EXTINF:-1 tvg-id="AstrsadsadoCeria" group-title="FAMILY_KIDS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png",Astro Ceria HD
