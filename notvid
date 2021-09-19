@@ -333,7 +333,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227638/3221227638.mpd
 ###http://iptv.tvmalaysia.cc:80/penang062/penang062/8839
 
 #EXTINF:-1 tvg-id="HBdO" group-title="MOVIES" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png",HBO HD
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/1
 ##http://iptv.tvmalaysia.cc:80/penang062/penang062/7067
 ##KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 ##KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
