@@ -768,7 +768,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227726/3221227726.mpd
 http://1.9.62.158/PLTV/88888888/224/3221227634/3221227634.mpd
 ####http://iptv.tvmalaysia.cc:80/penang062/penang062/6792
 
-#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Sky_Sport_F1_-_Logo_2020.svg" group-title="SPORTS",Sky Sports F1
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Sky_Sports_F1_2020.svg/revision/latest?cb=20200924152412" group-title="SPORTS",Sky Sports F1
 http://iptv.tvmalaysia.cc:80/penang062/penang062/6617
 
 #EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://static.epg.best/us/ESPN.us.png" group-title="SPORTS",ESPN
