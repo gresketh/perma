@@ -711,14 +711,6 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Sukanrtm.m3u8|Referer=https://rtmklik.rtm.gov.my
 
-#EXTINF:-1 tvg-id="espsadsadn.us" tvg-logo="https://static.epg.best/us/ESPN.us.png" group-title="SPORTS_50fps",ESPN
-http://212.102.60.76:80/e2/mono.m3u8
-#####http://stream2.grandma.fit/fs2.m3u8
-
-#EXTINF:-1 tvg-id="esdsadaspn2.us" tvg-logo="https://static.epg.best/us/ESPN2.us.png" group-title="SPORTS_50fps",ESPN 2
-http://212.102.60.76:80/a/mono.m3u8
-#####http://stream2.grandma.fit/espn2.m3u8
-
 #EXTINF:-1 tvg-id="beINsadsadSports" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png",beIN Sports HD
 http://iptv.tvmalaysia.cc:80/penang062/penang062/6749
 ##http://ottboxnet.com:8000/Fernando/Fernando/37624
@@ -770,12 +762,22 @@ http://1.9.62.158/PLTV/88888888/224/3221227608/3221227608.mpd
 http://1.9.62.158/PLTV/88888888/224/3221227726/3221227726.mpd
 ###http://iptv.tvmalaysia.cc:80/penang062/penang062/6791
 
-
 #EXTINF:-1 tvg-id="FsadsadOXSports3" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/291_144.png",FOX Sports 3 HD
 #KODIPROP:inputstream.adaptive.license_type=com.microsoft.playready
 #KODIPROP:inputstream.adaptive.license_key=http://ottweb.hypp.tv/PlayReady/rightsmanager.asmx?deviceId=YmI0ZGNlYmUtYWJjZS0zNWYyLWEwOWQtNWFmNzQ5MTQ4Y2Fj
 http://1.9.62.158/PLTV/88888888/224/3221227634/3221227634.mpd
 ####http://iptv.tvmalaysia.cc:80/penang062/penang062/6792
+
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Sky_Sport_F1_-_Logo_2020.svg" group-title="SPORTS",Sky Sports F1
+http://iptv.tvmalaysia.cc:80/penang062/penang062/6617
+
+#EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://static.epg.best/us/ESPN.us.png" group-title="SPORTS",ESPN
+http://212.102.60.76:80/e2/mono.m3u8
+#####http://stream2.grandma.fit/fs2.m3u8
+
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-logo="https://static.epg.best/us/ESPN2.us.png" group-title="SPORTS",ESPN 2
+http://212.102.60.76:80/a/mono.m3u8
+#####http://stream2.grandma.fit/espn2.m3u8
 
 #EXTINF:-1 tvg-id="7asdsad01" group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Unifi-Sports_1.png/revision/latest?cb=20210712111848",unifi Sports 1
 #KODIPROP:inputstream.adaptive.license_type=com.microsoft.playready
