@@ -60,79 +60,50 @@ http://iptv.tvmalaysia.cc:80/penang056/penang056/9016
 
 #EXTINF:-1 tvg-id="AstroRida" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",Astro Ria HD
 http://iptv.tvmalaysia.cc:80/penang062/penang062/6730
-##http://185.180.221.194:8278/streams/d/Ria_pye/playlist.m3u8
-##http://ottboxnet.com:8000/Fernando/Fernando/37572
-#http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/1705
-# #http://194.233.68.128:5080/LiveApp/streams/925038668543768458713319.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
-# #https://nonton.site:8443/Ainamanja/RPLf79Gusm/37332
-# #http://iptv.tvmalaysia.cc:80/321456/321456/6730
-# #http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Astroridabackup" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",Astro Ria HD
-http://iptv.tvmalaysia.cc:80/penang061/penang061/6730
+http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/1105
 ##http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
-##http://iptv-line.com:8080/live/yahemu20001/Nepalibabu/110155.ts
 
 #EXTINF:-1 tvg-id="AstroPrdima" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",Astro Prima HD
 http://iptv.tvmalaysia.cc:80/penang062/penang062/6727
-#http://50.7.161.82:8278/streams/d/prima_pye/playlist.m3u8
-##http://ottboxnet.com:8000/Fernando/Fernando/37569
-#http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/71020
-# #https://nonton.site:8443/Ainamanja/RPLf79Gusm/37333
-# #http://iptv.tvmalaysia.cc:80/321456/321456/6727
-# #http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 
 #EXTINF:-1 tvg-id="astropridmabackup" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",Astro Prima HD
-http://iptv.tvmalaysia.cc:80/penang061/penang061/6727
+http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/5013
 #http://50.7.161.82:8278/streams/d/prima_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AstroOadsis" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png",Astro Oasis HD
 http://iptv.tvmalaysia.cc:80/penang062/penang062/6725
-##http://ottboxnet.com:8000/Fernando/Fernando/37601
-#http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/1701
-# #https://nonton.site:8443/Ainamanja/RPLf79Gusm/37334
-# #http://iptv.tvmalaysia.cc:80/321456/321456/6725
-# #http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 
 #EXTINF:-1 tvg-id="astroodasisbackup" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png",Astro Oasis HD
-http://iptv.tvmalaysia.cc:80/penang061/penang061/6725
+http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/4998
 #http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AstrodWarna" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png",Astro Warna HD
 http://iptv.tvmalaysia.cc:80/penang062/penang062/6740
-##http://ottboxnet.com:8000/Fernando/Fernando/37595
-#http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/1706
-# #http://194.233.68.128:5080/LiveApp/streams/892210953627862087279159.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
-# #http://iptv.tvmalaysia.cc:80/321456/321456/6740
-# #http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
-# #https://nonton.site:8443/Ainamanja/RPLf79Gusm/37335
 
 #EXTINF:-1 tvg-id="astrowadrnabackup" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png",Astro Warna HD
-http://iptv.tvmalaysia.cc:80/penang061/penang061/6740
+http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/2555
 
 #EXTINF:-1 tvg-id="AstroCditra" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png",Astro Citra HD
 http://iptv.tvmalaysia.cc:80/penang062/penang062/7267
 # #http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 
 #EXTINF:-1 tvg-id="astrocidtrabackup" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png",Astro Citra HD
-http://iptv.tvmalaysia.cc:80/penang061/penang061/7267
+http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/195
 
 #EXTINF:-1 tvg-id="AstrdoRaniaHD" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png",Astro Rania HD
 http://iptv.tvmalaysia.cc:80/penang062/penang062/6729
-#http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/71144
-# #http://194.233.68.128:5080/LiveApp/streams/514803051254911543469456.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
-# #http://iptv.tvmalaysia.cc:80/321456/321456/6729
-# #https://nonton.site:8443/Ainamanja/RPLf79Gusm/37467
+
 
 #EXTINF:-1 tvg-id="AstddddddroAuraHD" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png",Astro Aura HD
-http://iptv.tvmalaysia.cc:80/penang062/penang062/6713
-#http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/71145
-##http://194.233.68.128:5080/LiveApp/streams/418700544789576229675633.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
-##http://iptv.tvmalaysia.cc:80/321456/321456/6713
-###https://nonton.site:8443/Ainamanja/RPLf79Gusm/37468
+http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/5011
 
 #EXTINF:-1 tvg-id="BOdddddddO" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png",BOO HD
 http://iptv.tvmalaysia.cc:80/penang062/penang062/8872
+
+#EXTINF:-1 tvg-id="BOddddddddO" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png",BOO HD
+http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/5313
 
 #EXTINF:-1 tvg-id="Nauraddd" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/299_144.png",Naura HD
 http://iptv.tvmalaysia.cc:80/penang062/penang062/6724
@@ -142,11 +113,12 @@ http://iptv.tvmalaysia.cc:80/penang062/penang062/6724
 # https://agsplayback01.astro.com.my/CH2/master_NAURAGOSHOP4_03.m3u8
 
 #EXTINF:-1 tvg-id="Nauradddddddddddddddbackup" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/299_144.png",Naura HD
-http://50.7.161.82:8278/streams/d/naura_pye/playlist.m3u8
-##http://iptv-line.com:8080/live/yahemu20001/Nepalibabu/110159.ts
+http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/6572
+#http://50.7.161.82:8278/streams/d/naura_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Heddddddllo" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/110.png",Hello HD
-https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6.m3u8
+http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/5000
+#https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6.m3u8
 ##http://iptv.tvmalaysia.cc:80/penang062/penang062/6721
 # #https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6.m3u8
 
