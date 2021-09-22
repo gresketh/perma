@@ -338,8 +338,11 @@ https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mp
 https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 # https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
-#EXTINF:-1 tvg-id="BddddddddddOO" group-title="MOVIES" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png",BOO HD
-http://iptv.tvmalaysia.cc:80/321456/321456/8872
+#EXTINF:-1 tvg-id="CINEMAX.MACAN" group-title="MOVIES" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png",CineMax HD ID
+https://s.id/iduntv-cinemax1
+
+#EXTINF:-1 tvg-id="BddddddddddOtO" group-title="MOVIES" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png",BOO HD
+http://iptv.tvmalaysia.cc:80/penang062/penang062/8872
 
 #EXTINF:-1 tvg-id="HITSMovies.MACAN" group-title="MOVIES" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png",Hits Movies ID 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
