@@ -1,37 +1,4 @@
 
-Skip to content
-Pull requests
-Issues
-Marketplace
-Explore
-@gresketh
-gresketh /
-permanent-
-Public
-
-1
-0
-
-    0
-
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-
-    Settings
-
-permanent-/yes
-@gresketh
-gresketh Update yes
-Latest commit 6f78ef0 16 days ago
-History
-1 contributor
-939 lines (746 sloc) 82.2 KB
 #EXTM3U
 
 #EXTINF:-1 tvg-id="TV1HD" group-title="ENTERTAINMENT" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032126911a3z.png",TV1 HD
@@ -755,7 +722,7 @@ http://iptv.tvmalaysia.cc:80/penang039/penang039/6749
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd
 
-##EXTINF:-1 tvg-id="beINSports2.MACAN" group-title="SPORTS" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_2.png",beIN Sports 2
+#EXTINF:-1 tvg-id="beINSports2.MACAN" group-title="SPORTS" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_2.png",beIN Sports 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://liveanevia.mncnow.id/live/eds/BeIN2/sa_dash_vmx/BeIN2.mpd
