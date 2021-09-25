@@ -164,17 +164,17 @@ https://liveanevia.mncnow.id/live/eds/STARWorld/sa_dash_vmx/STARWorld.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_dash_vmx/FoxCrime.mpd
 
-#EXTINF:-1 tvg-id="FOXMoviesHD" group-title="Movie" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/Fox_Movies_%28Asia%29.svg/revision/latest?cb=20170610113934",FOX Movies HD
+#EXTINF:-1 tvg-id="FOXMoviesPremiumHD.MACAN" group-title="Movie" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/151_144.png",FOX Movies
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://liveanevia.mncnow.id/live/eds/FOXMoviesPremium/sa_dash_vmx/FOXMoviesPremium.mpd
 
-#EXTINF:-1 tvg-id="FOXFamilyMoviesHD" group-title="Movie" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/FOXFamilyMovies.svg/revision/latest?cb=20201207005823",FOX Family Movies HD
+#EXTINF:-1 tvg-id="FOXFamilyMoviesHD" group-title="Movie" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/170_144.png",FOX Family Movies HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://liveanevia.mncnow.id/live/eds/FoxFamilyMovies/sa_dash_vmx/FoxFamilyMovies.mpd
 
-#EXTINF:-1 tvg-id="FOXActionMoviesHD" group-title="Movie" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/FOX_Action_Movies.svg/revision/latest?cb=20201205153156",FOX Action Movies HD
+#EXTINF:-1 tvg-id="FOXActionMoviesHD.MACAN" group-title="Movie" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/184_144.png",FOX Action Movies
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://liveanevia.mncnow.id/live/eds/FoxActionMovies/sa_dash_vmx/FoxActionMovies.mpd
@@ -237,7 +237,7 @@ https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 
-#EXTINF:-1 tvg-id="CelestialMovies.MACAN" group-title="Movie" tvg-logo="https://poster.starhubgo.com/Linear_channels2/868_1920x1080_HTV.png",Celestial Movies 
+#EXTINF:-1 tvg-id="CelestialMovies.MACAN" group-title="Movie" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png",Celestial Movies 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
@@ -381,46 +381,46 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/4985
 #http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AstroAsadsadrenaHD" group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",Astro Arena HD - B
+#EXTINF:-1 tvg-id="801" group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",Astro Arena HD - B
 http://iptv.tvmalaysia.cc:80/penang062/penang062/8926
 
-#EXTINF:-1 tvg-id="AstrosadsadArenaHD" group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",Astro Arena HD - C
+#EXTINF:-1 tvg-id="801" group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",Astro Arena HD - C
 http://iptv.tvmalaysia.cc:80/penang062/penang062/9010
 
 #EXTINF:-1 tvg-id="AstrsadsdsaoSupersport" group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png",Astro SuperSport HD
 http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/4989
 
-#EXTINF:-1 tvg-id="ASSP1.my" group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png",ASSP HD - B
+#EXTINF:-1 tvg-id="811" group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png",ASSP HD - B
 http://iptv.tvmalaysia.cc:80/penang062/penang062/6708
 
-#EXTINF:-1 tvg-id="ASSP1.my" group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png",ASSP HD - C
+#EXTINF:-1 tvg-id="811" group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png",ASSP HD - C
 http://iptv.tvmalaysia.cc:80/penang062/penang062/9024
 
 #EXTINF:-1 tvg-id="AstrsadsadsaoSupersport2" group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png",Astro SuperSport 2 HD
 http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/4990
 
-#EXTINF:-1 tvg-id="ASSP2.my" group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png",ASSP2 HD - B
+#EXTINF:-1 tvg-id="812" group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png",ASSP2 HD - B
 http://iptv.tvmalaysia.cc:80/penang062/penang062/6710
 
-#EXTINF:-1 tvg-id="ASSP2.my" group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png",ASSP2 HD - C
+#EXTINF:-1 tvg-id="812" group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png",ASSP2 HD - C
 http://iptv.tvmalaysia.cc:80/penang062/penang062/9025
 
 #EXTINF:-1 tvg-id="AstsadsadsadroSupersport3" group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png",Astro SuperSport 3 HD
 http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/4991
 
-#EXTINF:-1 tvg-id="ASSP3.my" group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png",ASSP3 HD - B
+#EXTINF:-1 tvg-id="813" group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png",ASSP3 HD - B
 http://iptv.tvmalaysia.cc:80/penang062/penang062/6711
 
-#EXTINF:-1 tvg-id="ASSP3.my" group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png",ASSP3 HD - c
+#EXTINF:-1 tvg-id="813" group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png",ASSP3 HD - c
 http://iptv.tvmalaysia.cc:80/penang062/penang062/9020
 
 #EXTINF:-1 tvg-id="AstroSsadsadupersport4" group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png",Astro SuperSport 4 HD
 http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/4992
 
-#EXTINF:-1 tvg-id="ASSP4.my" group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png",ASSP4 HD - B
+#EXTINF:-1 tvg-id="814" group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png",ASSP4 HD - B
 http://iptv.tvmalaysia.cc:80/penang062/penang062/6712
 
-#EXTINF:-1 tvg-id="ASSP4.my" group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png",ASSP4 HD - C
+#EXTINF:-1 tvg-id="814" group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png",ASSP4 HD - C
 http://iptv.tvmalaysia.cc:80/penang062/penang062/9026
 
 #EXTINF:-1 tvg-id="epl1" group-title="Sport" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2020/08/epl-premierleague-logo.png",EPL 1
@@ -518,6 +518,9 @@ https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
+
+#EXTINF:-1 tvg-id="WAKUWAKUJAPAN.MACAN" group-title="ENTERTAINMENT" tvg-logo="https://poster.starhubgo.com/Linear_channels2/813_1920x1080_HTV.png",WAKUWAKU JAPAN ID 
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=wakuwaku
 
 
 
