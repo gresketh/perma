@@ -147,40 +147,11 @@ https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 
 ---movies---
 
-
-
-#EXTINF:-1 tvg-id="FOX" group-title="Movie" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716073643920hhv.png",FOX HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_dash_vmx/FoxChannel.mpd
-
-#EXTINF:-1 tvg-id="FOXLife" group-title="Movie" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716073811029jld.png",FOXlife HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://liveanevia.mncnow.id/live/eds/STARWorld/sa_dash_vmx/STARWorld.mpd
-
-#EXTINF:-1 tvg-id="FOXCrime.MACAN" group-title="Movie" tvg-logo="https://poster.starhubgo.com/Linear_channels2/503_1920x1080_HTV.png",FOX Crime 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_dash_vmx/FoxCrime.mpd
-
-#EXTINF:-1 tvg-id="FOXMoviesPremiumHD.MACAN" group-title="Movie" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/151_144.png",FOX Movies
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://liveanevia.mncnow.id/live/eds/FOXMoviesPremium/sa_dash_vmx/FOXMoviesPremium.mpd
-
-#EXTINF:-1 tvg-id="FOXFamilyMoviesHD" group-title="Movie" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/170_144.png",FOX Family Movies HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://liveanevia.mncnow.id/live/eds/FoxFamilyMovies/sa_dash_vmx/FoxFamilyMovies.mpd
-
-#EXTINF:-1 tvg-id="FOXActionMoviesHD.MACAN" group-title="Movie" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/184_144.png",FOX Action Movies
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://liveanevia.mncnow.id/live/eds/FoxActionMovies/sa_dash_vmx/FoxActionMovies.mpd
-
 #EXTINF:-1 tvg-id="HBdO" group-title="Movie" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png",HBO HD
-http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/1
+https://raw.githubusercontent.com/firojshahriyarmasud/IPTV/main/Channels/HBO.m3u8
+
+#EXTINF:-1 tvg-id="HBddO" group-title="Movie" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png",HBO HD
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HBOHitsHD.MACAN" group-title="Movie" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_170_122",HBO Hits ID
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -245,18 +216,13 @@ https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.
 #EXTINF:-1 tvg-id="CCM.MACAN" group-title="Movie" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_22.png",Celestial Classic Movies 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
+https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_dash_vmx/SCMlegend.mpd
 
 
 #EXTINF:-1 tvg-id="SCM.MACAN" group-title="Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f0/Star_chinese_movies_2012.png",STAR Chinese Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
-
-#EXTINF:-1 tvg-id="SCMLegend.MACAN" group-title="Movie" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Star_chinese_movies_legend.png/revision/latest?cb=20130801133119",STAR Chinese Legend
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_dash_vmx/SCMlegend.mpd
 
 #EXTINF:-1 tvg-id="TVNMovies.MACAN" group-title="Movie" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190723/20190723084311221wnu.png",tvN Movies HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -305,11 +271,6 @@ https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mp
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
-#EXTINF:-1 tvg-id="NatGeoPeopleHD" group-title="Knowledge" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716065806236c1s.png",Nat Geo People HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_dash_vmx/NatGeoPeople.mpd
-
 #EXTINF:-1 tvg-id="Crime&InvestigationHD" group-title="Knowledge" tvg-logo="https://poster.starhubgo.com/Linear_channels2/403_1920x1080_HTV.png",Crime and Investigation HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
@@ -350,20 +311,15 @@ http://iptv.tvmalaysia.cc:80/penang062/penang062/6717
 #EXTINF:-1 tvg-id="RugbyasdsadPassTV" group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/393_144.png",RugbyPass TV HD
 http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/4653
 
-#EXTINF:-1 tvg-id="FoxSpsadsaddaorts" group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/141_144.png",FOX Sports HD
-http://iptv.tvmalaysia.cc:80/penang062/penang062/6793
+#EXTINF:-1 tvg-id="SPOTV" group-title="Sport" tvg-logo="https://www.spotv.net/images/intro/intro_logo.png",SPOTV
+http://iptv.tvmalaysia.cc:80/penang062/penang062/6791
 
-#EXTINF:-1 tvg-id="FOXSpodsdadsadrts2" group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/290_144.png",FOX Sports 2 HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://liveanevia.mncnow.id/live/eds/FoxSportss2s/sa_dash_vmx/FoxSportss2s.mpd
-
-#EXTINF:-1 tvg-id="FsadsadOXSports3" group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/291_144.png",FOX Sports 3 HD
+###EXTINF:-1 tvg-id="FsadsadOXSports3" group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/291_144.png",FOX Sports 3 HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_dash_vmx/FoxSports3.mpd
 
-#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="http://tvmalaysia.cc:80/images/2f4e8a56c74335dad8c11c742243ea8e.jpg" group-title="Sport",Sky Sports F1
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Sky_Sports_F1_2020.svg/revision/latest?cb=20200924152412" group-title="Sport",Sky Sports F1
 http://iptv.tvmalaysia.cc:80/penang062/penang062/6617
 
 #EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://static.epg.best/us/ESPN.us.png" group-title="Sport",ESPN
@@ -378,50 +334,39 @@ http://212.102.60.76:80/a/mono.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 tvg-id="AstrsadsadsaoArena" group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",Astro Arena HD
-http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/4985
+http://iptv.tvmalaysia.cc:80/penang062/penang062/8926
+#http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/4985
 #http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 
-#EXTINF:-1 tvg-id="801" group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",Astro Arena HD - B
-http://iptv.tvmalaysia.cc:80/penang062/penang062/8926
-
-#EXTINF:-1 tvg-id="801" group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",Astro Arena HD - C
+#EXTINF:-1 tvg-id="801" group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",Astro Arena HD - A
 http://iptv.tvmalaysia.cc:80/penang062/penang062/9010
 
 #EXTINF:-1 tvg-id="AstrsadsdsaoSupersport" group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png",Astro SuperSport HD
-http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/4989
-
-#EXTINF:-1 tvg-id="811" group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png",ASSP HD - B
 http://iptv.tvmalaysia.cc:80/penang062/penang062/6708
 
-#EXTINF:-1 tvg-id="811" group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png",ASSP HD - C
+#EXTINF:-1 tvg-id="811" group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png",ASSP HD - A
 http://iptv.tvmalaysia.cc:80/penang062/penang062/9024
 
 #EXTINF:-1 tvg-id="AstrsadsadsaoSupersport2" group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png",Astro SuperSport 2 HD
-http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/4990
-
-#EXTINF:-1 tvg-id="812" group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png",ASSP2 HD - B
 http://iptv.tvmalaysia.cc:80/penang062/penang062/6710
 
-#EXTINF:-1 tvg-id="812" group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png",ASSP2 HD - C
+#EXTINF:-1 tvg-id="812" group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png",ASSP2 HD - A
 http://iptv.tvmalaysia.cc:80/penang062/penang062/9025
 
 #EXTINF:-1 tvg-id="AstsadsadsadroSupersport3" group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png",Astro SuperSport 3 HD
-http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/4991
-
-#EXTINF:-1 tvg-id="813" group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png",ASSP3 HD - B
 http://iptv.tvmalaysia.cc:80/penang062/penang062/6711
 
-#EXTINF:-1 tvg-id="813" group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png",ASSP3 HD - c
+#EXTINF:-1 tvg-id="813" group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png",ASSP3 HD - A
 http://iptv.tvmalaysia.cc:80/penang062/penang062/9020
 
 #EXTINF:-1 tvg-id="AstroSsadsadupersport4" group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png",Astro SuperSport 4 HD
-http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/4992
-
-#EXTINF:-1 tvg-id="814" group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png",ASSP4 HD - B
 http://iptv.tvmalaysia.cc:80/penang062/penang062/6712
 
-#EXTINF:-1 tvg-id="814" group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png",ASSP4 HD - C
+#EXTINF:-1 tvg-id="814" group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png",ASSP4 HD - A
 http://iptv.tvmalaysia.cc:80/penang062/penang062/9026
+
+#EXTINF:-1 tvg-id="FoxSpsadsaddaorts" group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png",Astro SuperSport 5 HD
+http://iptv.tvmalaysia.cc:80/penang062/penang062/6793
 
 #EXTINF:-1 tvg-id="epl1" group-title="Sport" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2020/08/epl-premierleague-logo.png",EPL 1
 http://iptv.tvmalaysia.cc:80/penang062/penang062/9022
@@ -485,18 +430,6 @@ https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 
-#EXTINF:-1 tvg-id="DisneyChannel.MACAN" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/Disney-Channel-logo.png" group-title="Kid",Disney Channel
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mpd
-##http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/60449
-
-#EXTINF:-1 tvg-id="DisneyJunior.MACAN" tvg-logo="https://assets.digicorus.corusdigitaldev.com/wp-content/uploads/sites/12/2018/05/29143450/DisneyJr_NavLogo_202x72.png" group-title="Kid",Disney Junior
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-https://liveanevia.mncnow.id/live/eds/DisneyJunior-HD/sa_dash_vmx/DisneyJunior-HD.mpd
-##http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/60482
-
 #EXTINF:-1 tvg-id="AstrsadsadoCeria" group-title="Kid" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png",Astro Ceria HD
 http://iptv.tvmalaysia.cc:80/penang062/penang062/6715
 
@@ -523,7 +456,7 @@ https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 
-#EXTINF:-1 tvg-id="WAKUWAKUJAPAN.MACAN" group-title="ENTERTAINMENT" tvg-logo="https://poster.starhubgo.com/Linear_channels2/813_1920x1080_HTV.png",WAKUWAKU JAPAN ID 
+#EXTINF:-1 tvg-id="WAKUWAKUJAPAN.MACAN" group-title="Lifestyle" tvg-logo="https://poster.starhubgo.com/Linear_channels2/813_1920x1080_HTV.png",WAKUWAKU JAPAN ID 
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=wakuwaku
 
 
