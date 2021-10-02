@@ -1,0 +1,2282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="tv">
+  <channel id="btsport1.uk">
+    <display-name lang="en">BT Sport 1 UK</display-name>
+    <icon src="http://static.epgguide.net/icon/btsport1.uk.png" />
+  </channel>
+  <channel id="btsport2.uk">
+    <display-name lang="en">BT Sport 2 UK</display-name>
+    <icon src="http://static.epgguide.net/icon/btsport2.uk.png" />
+  </channel>
+  <channel id="btsport3.uk">
+    <display-name lang="en">BT Sport 3 UK</display-name>
+    <icon src="http://static.epgguide.net/icon/btsport3.uk.png" />
+  </channel>
+    <programme start="20211001020000 +0000" stop="20211001023000 +0000" channel="btsport1.uk">
+    <title lang="en">Ligue 1 Show</title>
+    <desc lang="en">A look ahead to the upcoming football in the top flight of France, including Rennes v PSG, Lille v Marseille and Monaco v Bordeaux.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/83b7aec3-2fdb-4de7-87a5-eef440bca0aa/16-9/1024" />
+  </programme>
+  <programme start="20211001023000 +0000" stop="20211001024500 +0000" channel="btsport1.uk">
+    <title lang="en">BT Sport Reload</title>
+    <desc lang="en">The best bits from BT Sport over the last week, including exclusive interviews, the best action and so much more.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/cdfdd4d3-f77a-498f-bf47-3fd2b541754f/16-9/1024" />
+  </programme>
+  <programme start="20211001024500 +0000" stop="20211001031500 +0000" channel="btsport1.uk">
+    <title lang="en">Premier League Match Pack</title>
+    <desc lang="en">A preview of this weekend's top flight action, featuring key stats and insight into Manchester United v Everton, Chelsea v Southampton and Liverpool v Man City.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/7149464e-2180-48b5-b429-6e44d7a2dabb/16-9/1024" />
+  </programme>
+  <programme start="20211001031500 +0000" stop="20211001034500 +0000" channel="btsport1.uk">
+    <title lang="en">Women's Cricket: Aus v India</title>
+    <desc lang="en">Women's cricket action from day one of the 1st test between Australia and India.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/6b656431-530f-4219-9d7e-3a0e2e7f10dc/16-9/1024" />
+  </programme>
+  <programme start="20211001034500 +0000" stop="20211001123000 +0000" channel="btsport1.uk">
+    <title lang="en">Live Women's Cricket: Aus v India</title>
+    <desc lang="en">Women's cricket action from day two of the 1st test between Australia and India.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/6b656431-530f-4219-9d7e-3a0e2e7f10dc/16-9/1024" />
+  </programme>
+  <programme start="20211001123000 +0000" stop="20211001130000 +0000" channel="btsport1.uk">
+    <title lang="en">Sparta Prague v Rangers</title>
+    <desc lang="en">Action from the UEFA Europa League as Steven Gerrard's Rangers side travel to Czech Republic to face Sparta Prague.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/463597df-5538-4bf3-9c06-ab41f2136dc9/16-9/1024" />
+  </programme>
+  <programme start="20211001130000 +0000" stop="20211001133000 +0000" channel="btsport1.uk">
+    <title lang="en">Celtic v Bayer Leverkusen</title>
+    <desc lang="en">UEFA Europa League action as Celtic host German side Bayer Leverkusen at Celtic Park.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/0fad8038-fdcc-4ebb-b746-8fa3c3b81b05/16-9/1024" />
+  </programme>
+  <programme start="20211001133000 +0000" stop="20211001140000 +0000" channel="btsport1.uk">
+    <title lang="en">West Ham v Rapid Vienna</title>
+    <desc lang="en">Action from the UEFA Europa League as West Ham host Austrian side Rapid Vienna at London Stadium.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/47fdf78a-9b91-4ff0-8849-bf4518a8c6e6/16-9/1024" />
+  </programme>
+  <programme start="20211001140000 +0000" stop="20211001143000 +0000" channel="btsport1.uk">
+    <title lang="en">Inside Serie A</title>
+    <desc lang="en">A round up of all the latest news from Serie A.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/72a4d6ec-b40b-4e86-84b6-92c6f850bfb4/16-9/1024" />
+  </programme>
+  <programme start="20211001143000 +0000" stop="20211001150000 +0000" channel="btsport1.uk">
+    <title lang="en">Premier League Match Pack</title>
+    <desc lang="en">A preview of this weekend's top flight action, featuring key stats and insight into Manchester United v Everton, Chelsea v Southampton and Liverpool v Man City.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/7149464e-2180-48b5-b429-6e44d7a2dabb/16-9/1024" />
+  </programme>
+  <programme start="20211001150000 +0000" stop="20211001170000 +0000" channel="btsport1.uk">
+    <title lang="en">Live European Cricket Championship</title>
+    <desc lang="en">Action from the European Cricket Championship as 15 nations battle it out in a T10 format tournament in Malaga, Spain.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/967d5c38-888e-41d2-9729-c3d4e1869813/16-9/1024" />
+  </programme>
+  <programme start="20211001170000 +0000" stop="20211001173000 +0000" channel="btsport1.uk">
+    <title lang="en">Inside Serie A</title>
+    <desc lang="en">A round up of all the latest news from Serie A.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/72a4d6ec-b40b-4e86-84b6-92c6f850bfb4/16-9/1024" />
+  </programme>
+  <programme start="20211001173000 +0000" stop="20211001180000 +0000" channel="btsport1.uk">
+    <title lang="en">Scottish Football Extra</title>
+    <desc lang="en">A look at all the key issues and talking points in Scottish football.</desc>
+  </programme>
+  <programme start="20211001180000 +0000" stop="20211001210000 +0000" channel="btsport1.uk">
+    <title lang="en">Live: Bristol Bears v Bath</title>
+    <desc lang="en">Action from the Gallagher Premiership as Bristol Bears and Bath face-off at Ashton Gate.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/f105c4ec-e498-4530-94fd-6a5a52b0eec2/16-9/1024" />
+  </programme>
+  <programme start="20211001210000 +0000" stop="20211001220000 +0000" channel="btsport1.uk">
+    <title lang="en">WWE NXT UK</title>
+    <desc lang="en">All the action from WWE NXT UK as the next generation of Superstars showcase their talents.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/3bead2dd-984d-4b0a-a3db-79065fedb6c8/16-9/1024" />
+  </programme>
+  <programme start="20211001220000 +0000" stop="20211001230000 +0000" channel="btsport1.uk">
+    <title lang="en">WWE NXT Highlights</title>
+    <desc lang="en">Highlights from the latest episode of WWE NXT.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/bee71ea3-2431-4f17-9de6-d257c34a744b/16-9/1024" />
+  </programme>
+  <programme start="20211001230000 +0000" stop="20211002000000 +0000" channel="btsport1.uk">
+    <title lang="en">WWE SmackDown Highlights</title>
+    <desc lang="en">All the best highlights from the latest episode of WWE Friday Night SmackDown.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/f8087615-f92c-4427-9baf-210f939d50e3/16-9/1024" />
+  </programme>
+  <programme start="20211002000000 +0000" stop="20211002020000 +0000" channel="btsport1.uk">
+    <title lang="en">Live: WWE Friday Night SmackDown</title>
+    <desc lang="en">See all your favourite WWE SmackDown Superstars deliver edge-of-your-seat action, including Roman Reigns, Sasha Banks, Seth Rollins and Bianca Belair.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/6d74758f-54ec-4e36-be09-d2d0d621963d/16-9/1024" />
+  </programme>
+  <programme start="20211002020000 +0000" stop="20211002021500 +0000" channel="btsport1.uk">
+    <title lang="en">MotoGP: ICYMI</title>
+    <desc lang="en">MotoGP action from the Grand Prix of The Americas.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/ad450ecf-aaf3-4e92-a653-bc709c85b459/16-9/1024" />
+  </programme>
+  <programme start="20211002021500 +0000" stop="20211002031500 +0000" channel="btsport1.uk">
+    <title lang="en">Cagliari v Venezia</title>
+    <desc lang="en">Action from Serie A as Cagliari face Venezia at Unipol Domus. These two sides will face each other for the first time since February 2000.</desc>
+  </programme>
+  <programme start="20211002031500 +0000" stop="20211002034500 +0000" channel="btsport1.uk">
+    <title lang="en">Premier League Preview</title>
+    <desc lang="en">A look ahead to all the upcoming action in the Premier League, including Manchester United v Everton, Chelsea v Southampton and Liverpool v Man City.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/be768044-8f6e-4d51-8eb8-760c4dcdfb77/16-9/1024" />
+  </programme>
+  <programme start="20211002034500 +0000" stop="20211002041500 +0000" channel="btsport1.uk">
+    <title lang="en">SC: UFC Fight Camp</title>
+    <desc lang="en">Exclusive access, interviews and features with fighters, analysis from experts and the best from the world of UFC.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/bbeb0171-a802-4651-a12d-2f25837642ab/16-9/1024" />
+  </programme>
+  <programme start="20211002041500 +0000" stop="20211002044500 +0000" channel="btsport1.uk">
+    <title lang="en">WRC Highlights: Rally Finland</title>
+    <desc lang="en">All the highlights from day one of the WRC Rally Finland, part of the World Rally Championship season.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/fe51ee8e-92de-4f20-827f-fd5e67394101/16-9/1024" />
+  </programme>
+  <programme start="20211002044500 +0000" stop="20211002050000 +0000" channel="btsport1.uk">
+    <title lang="en">MotoGP: ICYMI</title>
+    <desc lang="en">MotoGP action from the Grand Prix of The Americas.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/ad450ecf-aaf3-4e92-a653-bc709c85b459/16-9/1024" />
+  </programme>
+  <programme start="20211002050000 +0000" stop="20211002053000 +0000" channel="btsport1.uk">
+    <title lang="en">Premier League Preview</title>
+    <desc lang="en">A look ahead to all the upcoming action in the Premier League, including Manchester United v Everton, Chelsea v Southampton and Liverpool v Man City.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/be768044-8f6e-4d51-8eb8-760c4dcdfb77/16-9/1024" />
+  </programme>
+  <programme start="20211002053000 +0000" stop="20211002060000 +0000" channel="btsport1.uk">
+    <title lang="en">Scottish Football Extra</title>
+    <desc lang="en">A look at all the key issues and talking points in Scottish football.</desc>
+  </programme>
+  <programme start="20211002060000 +0000" stop="20211002063000 +0000" channel="btsport1.uk">
+    <title lang="en">DIY Pundit</title>
+    <desc lang="en">Ugo Monye is joined by Ian Stone, Mark Simmons, Danny Ward, Hal Cruttenden, Laura Lexx, Jess Fostekew and Jason Jared to give an alternative commentary on this week's action.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/e299bb9e-7fff-4658-980b-fc3abdb2af55/16-9/1024" />
+  </programme>
+  <programme start="20211002063000 +0000" stop="20211002070000 +0000" channel="btsport1.uk">
+    <title lang="en">UEFA Champions League Magazine</title>
+    <desc lang="en">The latest news and updates from the UEFA Champions League.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/92f7d72e-1d0c-4222-805c-56cf5e1ad33b/16-9/1024" />
+  </programme>
+  <programme start="20211002070000 +0000" stop="20211002080000 +0000" channel="btsport1.uk">
+    <title lang="en">WWE NXT UK</title>
+    <desc lang="en">All the action from WWE NXT UK as the next generation of Superstars showcase their talents.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/3bead2dd-984d-4b0a-a3db-79065fedb6c8/16-9/1024" />
+  </programme>
+  <programme start="20211002080000 +0000" stop="20211002093000 +0000" channel="btsport1.uk">
+    <title lang="en">WWE Friday Night SmackDown</title>
+    <desc lang="en">See all your favourite WWE SmackDown Superstars deliver edge-of-your-seat action, including Roman Reigns, Sasha Banks, Seth Rollins and Bianca Belair.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/b558ee74-8895-498f-ab3a-78e8166fe67d/16-9/1024" />
+  </programme>
+  <programme start="20211002093000 +0000" stop="20211002100000 +0000" channel="btsport1.uk">
+    <title lang="en">ESPN FC</title>
+    <desc lang="en">A round-up of the latest news from the world of football at the ESPN studios in Bristol, Connecticut.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/33f00302-93f6-4f1d-974b-6514fb9965ae/16-9/1024" />
+  </programme>
+  <programme start="20211002100000 +0000" stop="20211002103000 +0000" channel="btsport1.uk">
+    <title lang="en">Scottish Football Extra</title>
+    <desc lang="en">A look at all the key issues and talking points in Scottish football.</desc>
+  </programme>
+  <programme start="20211002103000 +0000" stop="20211002140000 +0000" channel="btsport1.uk">
+    <title lang="en">Live: Manchester United v Everton</title>
+    <desc lang="en">Manchester United host Everton at Old Trafford in the Premier League.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/7ad8298e-4ba3-41dd-8a55-deddab4f2a79/16-9/1024" />
+  </programme>
+  <programme start="20211002140000 +0000" stop="20211002160000 +0000" channel="btsport1.uk">
+    <title lang="en">Live: BT Sport Score</title>
+    <desc lang="en">Darrell Currie and Jules Breach are joined by guests to bring you the scores and key talking points from across the country as they happen. Join in @btsportscore.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/f76872f4-f397-480e-a7fb-d0da5f66065c/16-9/1024" />
+  </programme>
+  <programme start="20211002160000 +0000" stop="20211002183000 +0000" channel="btsport1.uk">
+    <title lang="en">Live: Eastleigh v Boreham Wood</title>
+    <desc lang="en">Action from the Vanarama National League as Eastleigh and Boreham Wood face-off at Silvelake Stadium.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/79a30118-04eb-4ece-8eb9-4441341418a2/16-9/1024" />
+  </programme>
+  <programme start="20211002183000 +0000" stop="20211002204500 +0000" channel="btsport1.uk">
+    <title lang="en">Live: Sassuolo v Inter</title>
+    <desc lang="en">Sassuolo host champions Inter in Serie A at MAPEI Stadium - Citta del Tricolore.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/7c50ce6a-8aa0-4d4c-8294-7497f87adf90/16-9/1024" />
+  </programme>
+  <programme start="20211002204500 +0000" stop="20211002210000 +0000" channel="btsport1.uk">
+    <title lang="en">UEFA Champions League Goals Reload</title>
+    <desc lang="en">The pick of the goals from matchday two of the 2021/22 UEFA Champions League as the group stages continued.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/397ac811-2632-409a-9171-ac354d77ade4/16-9/1024" />
+  </programme>
+  <programme start="20211002210000 +0000" stop="20211002230000 +0000" channel="btsport1.uk">
+    <title lang="en">Live: UFC Fight Night Prelims</title>
+    <desc lang="en">All the action from the UFC Fight Night Prelims.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/2b5581f9-9473-4834-86f5-28fd68794a29/16-9/1024" />
+  </programme>
+  <programme start="20211002230000 +0000" stop="20211003023000 +0000" channel="btsport1.uk">
+    <title lang="en">Live: UFC Fight Night</title>
+    <desc lang="en">Action from UFC Fight Night as Thiago Marreta Santos and Johnny Walker meet in the Octagon in Arizona.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/684c4e6f-cc04-490b-97ea-ae02c8a1a3f6/16-9/1024" />
+  </programme>
+  <programme start="20211003023000 +0000" stop="20211003033000 +0000" channel="btsport1.uk">
+    <title lang="en">Montpellier v Strasbourg</title>
+    <desc lang="en">Montpellier and Strasbourg meet in Ligue 1 at Stade de la Mosson. There have been a total of 12 goals in the last two Ligue 1 games between the two sides.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/6cde7c94-eebf-480c-9fd9-5fc207d05f48/16-9/1024" />
+  </programme>
+  <programme start="20211003033000 +0000" stop="20211003043000 +0000" channel="btsport1.uk">
+    <title lang="en">Salernitana v Genoa</title>
+    <desc lang="en">Salernitana meet Genoa at Stadio Erechi. Salernitana (11 minutes) and Genoa (17 minutes) are the two sides that have been ahead for the fewest minutes in Serie A this season.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/1c7db20d-5b46-4a66-a496-acefbeffec7b/16-9/1024" />
+    <episode-num system="onscreen">E11</episode-num>
+    <episode-num system="onscreen">E17</episode-num>
+  </programme>
+  <programme start="20211003043000 +0000" stop="20211003050000 +0000" channel="btsport1.uk">
+    <title lang="en">National League Highlights</title>
+    <desc lang="en">The best of the action from matchday nine in the Vanarama National League, including Aldershot Town v Wrexham, Chesterfield v Yeovil Town and Barnet v Halifax Town.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/8d0f2ab6-51e1-48ef-a733-03daedaabe6a/16-9/1024" />
+  </programme>
+  <programme start="20211003050000 +0000" stop="20211003063000 +0000" channel="btsport1.uk">
+    <title lang="en">Manchester United v Everton</title>
+    <desc lang="en">Manchester United host Everton at Old Trafford in the Premier League. United have conceded at least once in each of their last eight home league games.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/ee4a9aef-914c-4d34-afe3-8872555f6c85/16-9/1024" />
+  </programme>
+  <programme start="20211003063000 +0000" stop="20211003073000 +0000" channel="btsport1.uk">
+    <title lang="en">Live WRC: Rally Finland</title>
+    <desc lang="en">Action from Stage 17 of the World Rally Championship in Finland at Ruuhimaki.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/c119b879-ed75-4115-a451-2553cf1d13ea/16-9/1024" />
+  </programme>
+  <programme start="20211003073000 +0000" stop="20211003080000 +0000" channel="btsport1.uk">
+    <title lang="en">ESPN FC</title>
+    <desc lang="en">A round-up of the latest news from the world of football at the ESPN studios in Bristol, Connecticut.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/3a6bca0f-03eb-4a35-aa5e-9f2f60242703/16-9/1024" />
+  </programme>
+  <programme start="20211003080000 +0000" stop="20211003081500 +0000" channel="btsport1.uk">
+    <title lang="en">BT Sport Reload</title>
+    <desc lang="en">The best bits from BT Sport over the last week, including exclusive interviews, the best action and so much more.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/cdfdd4d3-f77a-498f-bf47-3fd2b541754f/16-9/1024" />
+  </programme>
+  <programme start="20211003081500 +0000" stop="20211003090000 +0000" channel="btsport1.uk">
+    <title lang="en">Live DTM: Germany - Qualifying 2</title>
+    <desc lang="en">Action from the second Qualifying session at the Hockenheimring in Germany, the latest round of the DTM season.</desc>
+  </programme>
+  <programme start="20211003090000 +0000" stop="20211003100000 +0000" channel="btsport1.uk">
+    <title lang="en">WWE SmackDown Highlights</title>
+    <desc lang="en">All the best highlights from the latest episode of WWE Friday Night SmackDown.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/bae44188-7fb1-44c5-a03b-fcb2f521be01/16-9/1024" />
+  </programme>
+  <programme start="20211003100000 +0000" stop="20211003110000 +0000" channel="btsport1.uk">
+    <title lang="en">Nice v Brest</title>
+    <desc lang="en">Nice take Brest in Ligue 1 at Allianz Riviera.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/d74b1cd0-255a-4c0d-9453-a5228c1651aa/16-9/1024" />
+  </programme>
+  <programme start="20211003110000 +0000" stop="20211003130000 +0000" channel="btsport1.uk">
+    <title lang="en">Live: Rennes v Paris Saint-Germain</title>
+    <desc lang="en">Rennes face Paris Saint-Germain in Ligue 1 at Roazhon Park.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/78f2f484-aa08-4ba0-9ea3-3dd88b669955/16-9/1024" />
+  </programme>
+  <programme start="20211003130000 +0000" stop="20211003161500 +0000" channel="btsport1.uk">
+    <title lang="en">Live: Sale Sharks v Exeter Chiefs</title>
+    <desc lang="en">Action from Gallagher Premiership Rugby as Sale Sharks host Exeter Chiefs at AJ Bell Stadium.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/4f2a0589-21ee-4ab2-9ad7-079100aeff03/16-9/1024" />
+  </programme>
+  <programme start="20211003161500 +0000" stop="20211003170000 +0000" channel="btsport1.uk">
+    <title lang="en">Live: Rugby Tonight</title>
+    <desc lang="en">BT Sport's panel of experts are joined by guests and a live studio audience to discuss all things rugby and look ahead to the upcoming domestic, European and international action.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/50bc3a37-078a-4e1b-a5bf-212e84d67052/16-9/1024" />
+  </programme>
+  <programme start="20211003170000 +0000" stop="20211003180000 +0000" channel="btsport1.uk">
+    <title lang="en">Women's Test Cricket: Aus v India</title>
+    <desc lang="en">Women's cricket action from day four of the 1st test between Australia and India.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/0d15917c-987f-4125-bb08-3545b3ab789c/16-9/1024" />
+  </programme>
+  <programme start="20211003180000 +0000" stop="20211003184500 +0000" channel="btsport1.uk">
+    <title lang="en">Live: Golazzo Live</title>
+    <desc lang="en">A look ahead to tonight's Serie A action between Atalanta and AC Milan and a look back over what has happened in the Italian top flight so far this weekend.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/9ef7fd0c-c701-4e08-94ac-598d200eb678/16-9/1024" />
+  </programme>
+  <programme start="20211003184500 +0000" stop="20211003210000 +0000" channel="btsport1.uk">
+    <title lang="en">Live: Atalanta v AC Milan</title>
+    <desc lang="en">Atalanta meet AC Milan in Serie A at Gewiss Stadium.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/38562834-7eac-4f21-a894-a1af4b4c48a0/16-9/1024" />
+  </programme>
+  <programme start="20211003210000 +0000" stop="20211003220000 +0000" channel="btsport1.uk">
+    <title lang="en">WWE NXT UK</title>
+    <desc lang="en">All the action from WWE NXT UK as the next generation of Superstars showcase their talents.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/3bead2dd-984d-4b0a-a3db-79065fedb6c8/16-9/1024" />
+  </programme>
+  <programme start="20211003220000 +0000" stop="20211003230000 +0000" channel="btsport1.uk">
+    <title lang="en">WWE SmackDown Highlights</title>
+    <desc lang="en">All the best highlights from the latest episode of WWE Friday Night SmackDown.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/bae44188-7fb1-44c5-a03b-fcb2f521be01/16-9/1024" />
+  </programme>
+  <programme start="20211003230000 +0000" stop="20211004004500 +0000" channel="btsport1.uk">
+    <title lang="en">WWE NXT</title>
+    <desc lang="en">All the action from WWE NXT as the next generation of Superstars showcase their talents.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/50afa9ca-2746-4fa6-998e-fc9acce1b8f5/16-9/1024" />
+  </programme>
+  <programme start="20211004004500 +0000" stop="20211004011500 +0000" channel="btsport1.uk">
+    <title lang="en">WRC Highlights: Rally Finland</title>
+    <desc lang="en">All the highlights from day three of the WRC Rally Finland, part of the World Rally Championship season.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/9899c269-6fac-4c0c-a7c8-485fbe93f871/16-9/1024" />
+  </programme>
+  <programme start="20211004011500 +0000" stop="20211004013000 +0000" channel="btsport1.uk">
+    <title lang="en">BT Sport Reload</title>
+    <desc lang="en">The best bits from BT Sport over the last week, including exclusive interviews, the best action and so much more.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/cdfdd4d3-f77a-498f-bf47-3fd2b541754f/16-9/1024" />
+  </programme>
+  <programme start="20211004013000 +0000" stop="20211004020000 +0000" channel="btsport1.uk">
+    <title lang="en">National League Highlights</title>
+    <desc lang="en">The best of the action from matchday nine in the Vanarama National League, including Aldershot Town v Wrexham, Chesterfield v Yeovil Town and Barnet v Halifax Town.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/8d0f2ab6-51e1-48ef-a733-03daedaabe6a/16-9/1024" />
+  </programme>
+  <programme start="20211004020000 +0000" stop="20211004023000 +0000" channel="btsport1.uk">
+    <title lang="en">UEFA Champions League Magazine</title>
+    <desc lang="en">The latest news and updates from the UEFA Champions League.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/92f7d72e-1d0c-4222-805c-56cf5e1ad33b/16-9/1024" />
+  </programme>
+  <programme start="20211004023000 +0000" stop="20211004040000 +0000" channel="btsport1.uk">
+    <title lang="en">Gallagher Premiership Highlights</title>
+    <desc lang="en">The best of the action from round three of the 2021/22 Gallagher Premiership season, including Bristol Bears v Bath, Leicester Tigers v Saracens and Sale Sharks v Exeter Chiefs.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/77fbfcad-44da-4b56-88ca-208c112ac4bb/16-9/1024" />
+  </programme>
+  <programme start="20211004040000 +0000" stop="20211004043000 +0000" channel="btsport1.uk">
+    <title lang="en">Gearing Up</title>
+    <desc lang="en">This month we follow off-road events in Spain and Germany, and the UIM MotoSurf WorldCup Championship in Russia, where motorsports meets water.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/96168be6-bce4-4f66-a976-1924badbc538/16-9/1024" />
+  </programme>
+  <programme start="20211004043000 +0000" stop="20211004050000 +0000" channel="btsport1.uk">
+    <title lang="en">Kite Masters</title>
+    <desc lang="en">The series that flies you around the world, together with the very best athletes from one of the most exciting, fast, extreme and stylish sports... Kiteboarding.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/feb5e651-0a9a-4c42-ab96-17152bd271ee/16-9/1024" />
+  </programme>
+  <programme start="20211004050000 +0000" stop="20211004053000 +0000" channel="btsport1.uk">
+    <title lang="en">UEFA Champions League Magazine</title>
+    <desc lang="en">The latest news and updates from the UEFA Champions League.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/92f7d72e-1d0c-4222-805c-56cf5e1ad33b/16-9/1024" />
+  </programme>
+  <programme start="20211004053000 +0000" stop="20211004054500 +0000" channel="btsport1.uk">
+    <title lang="en">BT Sport Reload</title>
+    <desc lang="en">The best bits from BT Sport over the last week, including exclusive interviews, the best action and so much more.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/cdfdd4d3-f77a-498f-bf47-3fd2b541754f/16-9/1024" />
+  </programme>
+  <programme start="20211004054500 +0000" stop="20211004064500 +0000" channel="btsport1.uk">
+    <title lang="en">Premier League Review</title>
+    <desc lang="en">A look back at the best of the recent action from the Premier League, including Manchester United v Everton, Chelsea v Southampton and Liverpool v Man City.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/7b040aef-b2c2-45aa-a876-4b2ce389e28d/16-9/1024" />
+  </programme>
+  <programme start="20211004064500 +0000" stop="20211004090000 +0000" channel="btsport1.uk">
+    <title lang="en">Live European Cricket Championship</title>
+    <desc lang="en">Action from the European Cricket Championship as 15 nations battle it out in a T10 format tournament in Malaga, Spain.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/66a51c36-8007-4db2-8405-b16e3ba0ba1d/16-9/1024" />
+  </programme>
+  <programme start="20211004090000 +0000" stop="20211004110000 +0000" channel="btsport1.uk">
+    <title lang="en">Live European Cricket Championship</title>
+    <desc lang="en">Action from the European Cricket Championship as 15 nations battle it out in a T10 format tournament in Malaga, Spain.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/aa76f0ce-2fbd-4a24-9743-fd4a46f909cb/16-9/1024" />
+  </programme>
+  <programme start="20211004110000 +0000" stop="20211004130000 +0000" channel="btsport1.uk">
+    <title lang="en">Live European Cricket Championship</title>
+    <desc lang="en">Action from the European Cricket Championship as 15 nations battle it out in a T10 format tournament in Malaga, Spain.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/bda47ee9-5939-47d0-a6de-d9563133c268/16-9/1024" />
+  </programme>
+  <programme start="20211004130000 +0000" stop="20211004150000 +0000" channel="btsport1.uk">
+    <title lang="en">Live European Cricket Championship</title>
+    <desc lang="en">Action from the European Cricket Championship as 15 nations battle it out in a T10 format tournament in Malaga, Spain.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/a011df22-148d-40b9-82ad-56d141052fe2/16-9/1024" />
+  </programme>
+  <programme start="20211004150000 +0000" stop="20211004170000 +0000" channel="btsport1.uk">
+    <title lang="en">Live European Cricket Championship</title>
+    <desc lang="en">Action from the European Cricket Championship as 15 nations battle it out in a T10 format tournament in Malaga, Spain.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/259da2e8-96aa-48b6-aded-7730c1df67a5/16-9/1024" />
+  </programme>
+  <programme start="20211004170000 +0000" stop="20211004180000 +0000" channel="btsport1.uk">
+    <title lang="en">Women's Test Cricket: Aus v India</title>
+    <desc lang="en">Women's cricket action from day four of the 1st test between Australia and India.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/0d15917c-987f-4125-bb08-3545b3ab789c/16-9/1024" />
+  </programme>
+  <programme start="20211004180000 +0000" stop="20211004190000 +0000" channel="btsport1.uk">
+    <title lang="en">Premier League Review</title>
+    <desc lang="en">A look back at the best of the recent action from the Premier League, including Manchester United v Everton, Chelsea v Southampton and Liverpool v Man City.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/7b040aef-b2c2-45aa-a876-4b2ce389e28d/16-9/1024" />
+  </programme>
+  <programme start="20211004190000 +0000" stop="20211004200000 +0000" channel="btsport1.uk">
+    <title lang="en">Fury v Wilder: The Trilogy</title>
+    <desc lang="en">A preview of Tyson Fury's trilogy bout with Deontay Wilder.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/1413d5aa-1e80-42df-b85b-da415b004f38/16-9/1024" />
+  </programme>
+  <programme start="20211004200000 +0000" stop="20211004203000 +0000" channel="btsport1.uk">
+    <title lang="en">Inside Fury vs Wilder III Part 3</title>
+    <desc lang="en">All the build-up to Tyson Fury's trilogy bout with Deontay Wilder.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/5649bdf1-d299-4526-a976-6e0b1a25a7bb/16-9/1024" />
+  </programme>
+  <programme start="20211004203000 +0000" stop="20211004210000 +0000" channel="btsport1.uk">
+    <title lang="en">UFC Ultimate Knockouts</title>
+    <desc lang="en">A look at some of the most devastating finishes ever seen inside the octagon. An Hispanic History Month special.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/5624f442-c921-4514-8d49-887cb35f93cd/16-9/1024" />
+    <episode-num system="onscreen">E2/2</episode-num>
+  </programme>
+  <programme start="20211004210000 +0000" stop="20211004213000 +0000" channel="btsport1.uk">
+    <title lang="en">BT Sport Goals Reload</title>
+    <desc lang="en">We bring you the greatest goals from around the world this week, including action from the Premier League, Serie A and Ligue 1.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/6fc066a6-2ab4-4d97-8dfb-eeb93e804c95/16-9/1024" />
+  </programme>
+  <programme start="20211004213000 +0000" stop="20211004214500 +0000" channel="btsport1.uk">
+    <title lang="en">UEFA Champions League Goals Reload</title>
+    <desc lang="en">The pick of the goals from matchday two of the 2021/22 UEFA Champions League as the group stages continued.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/397ac811-2632-409a-9171-ac354d77ade4/16-9/1024" />
+  </programme>
+  <programme start="20211004214500 +0000" stop="20211004220000 +0000" channel="btsport1.uk">
+    <title lang="en">UEFA Europa League Goals Reload</title>
+    <desc lang="en">The pick of the goals from matchday two of the 2021/22 UEFA Europa League as the group stages continued.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/55b23570-6fe4-494a-a658-4079d1a25686/16-9/1024" />
+  </programme>
+  <programme start="20211004220000 +0000" stop="20211004230000 +0000" channel="btsport1.uk">
+    <title lang="en">WWE Raw Highlights</title>
+    <desc lang="en">All the best highlights from the latest WWE Raw.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/dd55f55a-58b3-4c41-9a6d-2b5a6d822392/16-9/1024" />
+  </programme>
+  <programme start="20211004230000 +0000" stop="20211005000000 +0000" channel="btsport1.uk">
+    <title lang="en">WWE SmackDown Highlights</title>
+    <desc lang="en">All the best highlights from the latest episode of WWE Friday Night SmackDown.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/bae44188-7fb1-44c5-a03b-fcb2f521be01/16-9/1024" />
+  </programme>
+  <programme start="20211005000000 +0000" stop="20211005031500 +0000" channel="btsport1.uk">
+    <title lang="en">Live: WWE Monday Night Raw</title>
+    <desc lang="en">Watch Drew McIntyre, Asuka, Kofi Kingston and Charlotte Flair and more of your favourite WWE Superstars face-off inside the ring on WWE Monday Night Raw.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/406364bb-bb10-4628-a12d-f7e6eae6738a/16-9/1024" />
+  </programme>
+  <programme start="20211005031500 +0000" stop="20211005033000 +0000" channel="btsport1.uk">
+    <title lang="en">BT Sport Goals Reload</title>
+    <desc lang="en">We bring you the greatest goals from around the world this week, including action from the Premier League, Serie A and Ligue 1.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/6fc066a6-2ab4-4d97-8dfb-eeb93e804c95/16-9/1024" />
+  </programme>
+  <programme start="20211005033000 +0000" stop="20211005040000 +0000" channel="btsport1.uk">
+    <title lang="en">National League Highlights</title>
+    <desc lang="en">The best of the action from matchday nine in the Vanarama National League, including Aldershot Town v Wrexham, Chesterfield v Yeovil Town and Barnet v Halifax Town.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/8d0f2ab6-51e1-48ef-a733-03daedaabe6a/16-9/1024" />
+  </programme>
+  <programme start="20211005040000 +0000" stop="20211005050000 +0000" channel="btsport1.uk">
+    <title lang="en">UEFA Champions League Review</title>
+    <desc lang="en">A round-up of all the latest action from matchday two of the UEFA Champions League group stages, including Chelsea v Zenit, Liverpool v AC Milan and Young Boys v Man Utd.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/cb69cbea-4a9f-49e0-8fcc-7506c54e64cc/16-9/1024" />
+  </programme>
+  <programme start="20211005050000 +0000" stop="20211005053000 +0000" channel="btsport1.uk">
+    <title lang="en">Kite Masters</title>
+    <desc lang="en">The series that flies you around the world, together with the very best athletes from one of the most exciting, fast, extreme and stylish sports... Kiteboarding.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/feb5e651-0a9a-4c42-ab96-17152bd271ee/16-9/1024" />
+  </programme>
+  <programme start="20211005053000 +0000" stop="20211005054500 +0000" channel="btsport1.uk">
+    <title lang="en">BT Sport Goals Reload</title>
+    <desc lang="en">We bring you the greatest goals from around the world this week, including action from the Premier League, Serie A and Ligue 1.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/6fc066a6-2ab4-4d97-8dfb-eeb93e804c95/16-9/1024" />
+  </programme>
+  <programme start="20211005054500 +0000" stop="20211005064500 +0000" channel="btsport1.uk">
+    <title lang="en">WWE NXT UK</title>
+    <desc lang="en">All the action from WWE NXT UK as the next generation of Superstars showcase their talents.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/3bead2dd-984d-4b0a-a3db-79065fedb6c8/16-9/1024" />
+  </programme>
+  <programme start="20211005064500 +0000" stop="20211005090000 +0000" channel="btsport1.uk">
+    <title lang="en">Live European Cricket Championship</title>
+    <desc lang="en">Action from the European Cricket Championship as 15 nations battle it out in a T10 format tournament in Malaga, Spain.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/ea2476fd-41b1-43d0-877d-88018c2d05a6/16-9/1024" />
+  </programme>
+  <programme start="20211005090000 +0000" stop="20211005110000 +0000" channel="btsport1.uk">
+    <title lang="en">Live European Cricket Championship</title>
+    <desc lang="en">Action from the European Cricket Championship as 15 nations battle it out in a T10 format tournament in Malaga, Spain.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/555ea4ee-3283-437f-852d-9e0abdc42ee0/16-9/1024" />
+  </programme>
+  <programme start="20211005110000 +0000" stop="20211005130000 +0000" channel="btsport1.uk">
+    <title lang="en">Live European Cricket Championship</title>
+    <desc lang="en">Action from the European Cricket Championship as 15 nations battle it out in a T10 format tournament in Malaga, Spain.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/fa35f7aa-fcf6-44ea-acc5-3375043c5787/16-9/1024" />
+  </programme>
+  <programme start="20211005130000 +0000" stop="20211005150000 +0000" channel="btsport1.uk">
+    <title lang="en">Live European Cricket Championship</title>
+    <desc lang="en">Action from the European Cricket Championship as 15 nations battle it out in a T10 format tournament in Malaga, Spain.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/4989a721-1db2-4c1c-8f51-2c33b48f868c/16-9/1024" />
+  </programme>
+  <programme start="20211005150000 +0000" stop="20211005170000 +0000" channel="btsport1.uk">
+    <title lang="en">Live European Cricket Championship</title>
+    <desc lang="en">Action from the European Cricket Championship as 15 nations battle it out in a T10 format tournament in Malaga, Spain.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/70dd5eaf-caf9-4fa9-9fb1-8ad15b9a478c/16-9/1024" />
+  </programme>
+  <programme start="20211005170000 +0000" stop="20211005180000 +0000" channel="btsport1.uk">
+    <title lang="en">Premier League Review</title>
+    <desc lang="en">A look back at the best of the recent action from the Premier League, including Manchester United v Everton, Chelsea v Southampton and Liverpool v Man City.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/7b040aef-b2c2-45aa-a876-4b2ce389e28d/16-9/1024" />
+  </programme>
+  <programme start="20211005180000 +0000" stop="20211005183000 +0000" channel="btsport1.uk">
+    <title lang="en">National League Highlights</title>
+    <desc lang="en">The best of the action from matchday nine in the Vanarama National League, including Aldershot Town v Wrexham, Chesterfield v Yeovil Town and Barnet v Halifax Town.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/8d0f2ab6-51e1-48ef-a733-03daedaabe6a/16-9/1024" />
+  </programme>
+  <programme start="20211005183000 +0000" stop="20211005210000 +0000" channel="btsport1.uk">
+    <title lang="en">Live: Wealdstone v Solihull Moors</title>
+    <desc lang="en">Wealdstone take on Solihull Moors in the Vanarama National League at Grosvenor Vale.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/f9bb0724-e7b8-4f8d-9453-d063a6801d8c/16-9/1024" />
+  </programme>
+  <programme start="20211005210000 +0000" stop="20211005213000 +0000" channel="btsport1.uk">
+    <title lang="en">Fury v Wilder: The Trilogy</title>
+    <desc lang="en">Fury Road - A Tyson Fury Tour. Hop onboard the Tyson Fury double decker bus as we drive around Manchester, meeting the people who shaped the Tyson Fury story.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/390d741e-7155-4d1f-8dbe-ad20c70a96d0/16-9/1024" />
+  </programme>
+  <programme start="20211005213000 +0000" stop="20211005220000 +0000" channel="btsport1.uk">
+    <title lang="en">Fury v Wilder: The Trilogy</title>
+    <desc lang="en">Rise Of The Rivalry. An epic 12th round, an incredible rise from the canvas, a controversial draw, a devastating win and a lot of verbal. This is the story of the first two fights.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/a5637e3f-77fc-4277-ab89-a0fc77f89888/16-9/1024" />
+  </programme>
+  <programme start="20211005220000 +0000" stop="20211005221500 +0000" channel="btsport1.uk">
+    <title lang="en">Premier League Reload</title>
+    <desc lang="en">A whirlwind catch-up from the weekend's Premier League matches, featuring all the goals and major talking points from Manchester United v Everton and Chelsea v Southampton.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/328fc175-d842-4f8d-83d3-e20654233634/16-9/1024" />
+  </programme>
+  <programme start="20211005221500 +0000" stop="20211005223000 +0000" channel="btsport1.uk">
+    <title lang="en">MotoGP Rewind: The Americas</title>
+    <desc lang="en">A look back at the best of the action from the Grand Prix of The Americas.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/117a5b1c-6e59-4c65-b510-255ec98b259b/16-9/1024" />
+  </programme>
+  <programme start="20211005223000 +0000" stop="20211005224500 +0000" channel="btsport1.uk">
+    <title lang="en">UEFA Europa League Goals Reload</title>
+    <desc lang="en">The pick of the goals from matchday two of the 2021/22 UEFA Europa League as the group stages continued.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/55b23570-6fe4-494a-a658-4079d1a25686/16-9/1024" />
+  </programme>
+  <programme start="20211005224500 +0000" stop="20211005230000 +0000" channel="btsport1.uk">
+    <title lang="en">UEFA Champions League Goals Reload</title>
+    <desc lang="en">The pick of the goals from matchday two of the 2021/22 UEFA Champions League as the group stages continued.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/397ac811-2632-409a-9171-ac354d77ade4/16-9/1024" />
+  </programme>
+  <programme start="20211005230000 +0000" stop="20211006000000 +0000" channel="btsport1.uk">
+    <title lang="en">WWE NXT Highlights</title>
+    <desc lang="en">Highlights from the latest episode of WWE NXT.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/bee71ea3-2431-4f17-9de6-d257c34a744b/16-9/1024" />
+  </programme>
+  <programme start="20211006000000 +0000" stop="20211006021500 +0000" channel="btsport1.uk">
+    <title lang="en">Live: WWE NXT</title>
+    <desc lang="en">All the action from WWE NXT as the next generation of Superstars showcase their talents.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/1d4591b4-d955-4e94-8a28-c99c8ea0993e/16-9/1024" />
+  </programme>
+  <programme start="20211006021500 +0000" stop="20211006024500 +0000" channel="btsport1.uk">
+    <title lang="en">UFC Ultimate Knockouts</title>
+    <desc lang="en">A look at some of the most devastating finishes ever seen inside the octagon. An Hispanic History Month special.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/5624f442-c921-4514-8d49-887cb35f93cd/16-9/1024" />
+    <episode-num system="onscreen">E2/2</episode-num>
+  </programme>
+  <programme start="20211006024500 +0000" stop="20211006030000 +0000" channel="btsport1.uk">
+    <title lang="en">MotoGP Rewind: The Americas</title>
+    <desc lang="en">A look back at the best of the action from the Grand Prix of The Americas.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/117a5b1c-6e59-4c65-b510-255ec98b259b/16-9/1024" />
+  </programme>
+  <programme start="20211006030000 +0000" stop="20211006033000 +0000" channel="btsport1.uk">
+    <title lang="en">Ultra-Trail World Tour</title>
+    <desc lang="en">Coverage of the Ultra-Trail World Tour, the international circuit for long distance trail running races.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/d964b296-47c7-4447-a4fd-0dd9ef211d1b/16-9/1024" />
+  </programme>
+  <programme start="20211006033000 +0000" stop="20211006043000 +0000" channel="btsport1.uk">
+    <title lang="en">Super League Triathlon</title>
+    <desc lang="en">Action from race four of the Super League Triathlon season in Malibu.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/22d7ed6e-f140-405a-9d19-769a86af9975/16-9/1024" />
+  </programme>
+  <programme start="20211006043000 +0000" stop="20211006050000 +0000" channel="btsport1.uk">
+    <title lang="en">Kite Masters</title>
+    <desc lang="en">The series that flies you around the world, together with the very best athletes from one of the most exciting, fast, extreme and stylish sports... Kiteboarding.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/feb5e651-0a9a-4c42-ab96-17152bd271ee/16-9/1024" />
+  </programme>
+  <programme start="20211006050000 +0000" stop="20211006053000 +0000" channel="btsport1.uk">
+    <title lang="en">Ultra-Trail World Tour</title>
+    <desc lang="en">Coverage of the Ultra-Trail World Tour, the international circuit for long distance trail running races.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/d964b296-47c7-4447-a4fd-0dd9ef211d1b/16-9/1024" />
+  </programme>
+  <programme start="20211006053000 +0000" stop="20211006063000 +0000" channel="btsport1.uk">
+    <title lang="en">Women's Test Cricket: Aus v India</title>
+    <desc lang="en">Women's cricket action from day four of the 1st test between Australia and India.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/0d15917c-987f-4125-bb08-3545b3ab789c/16-9/1024" />
+  </programme>
+  <programme start="20211006063000 +0000" stop="20211006064500 +0000" channel="btsport1.uk">
+    <title lang="en">Premier League Reload</title>
+    <desc lang="en">A whirlwind catch-up from the weekend's Premier League matches, featuring all the goals and major talking points from Manchester United v Everton and Chelsea v Southampton.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/328fc175-d842-4f8d-83d3-e20654233634/16-9/1024" />
+  </programme>
+  <programme start="20211006064500 +0000" stop="20211006090000 +0000" channel="btsport1.uk">
+    <title lang="en">Live European Cricket Championship</title>
+    <desc lang="en">Action from the European Cricket Championship as 15 nations battle it out in a T10 format tournament in Malaga, Spain.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/07e2e9a0-56d6-4aac-b4e7-3c22028563e6/16-9/1024" />
+  </programme>
+  <programme start="20211006090000 +0000" stop="20211006110000 +0000" channel="btsport1.uk">
+    <title lang="en">Live European Cricket Championship</title>
+    <desc lang="en">Action from the European Cricket Championship as 15 nations battle it out in a T10 format tournament in Malaga, Spain.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/fb6f921a-0f41-42f7-9a8a-2df48519f91f/16-9/1024" />
+  </programme>
+  <programme start="20211006110000 +0000" stop="20211006130000 +0000" channel="btsport1.uk">
+    <title lang="en">Live European Cricket Championship</title>
+    <desc lang="en">Action from the European Cricket Championship as 15 nations battle it out in a T10 format tournament in Malaga, Spain.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/1829181b-ad64-47c6-9ae0-af12bb4b1124/16-9/1024" />
+  </programme>
+  <programme start="20211006130000 +0000" stop="20211006150000 +0000" channel="btsport1.uk">
+    <title lang="en">Live European Cricket Championship</title>
+    <desc lang="en">Action from the European Cricket Championship as 15 nations battle it out in a T10 format tournament in Malaga, Spain.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/67549319-7bbf-4b89-8869-40473b49fb08/16-9/1024" />
+  </programme>
+  <programme start="20211006150000 +0000" stop="20211006170000 +0000" channel="btsport1.uk">
+    <title lang="en">Live European Cricket Championship</title>
+    <desc lang="en">Action from the European Cricket Championship as 15 nations battle it out in a T10 format tournament in Malaga, Spain.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/51a0153c-b21d-45b8-a5fe-735968c5aa74/16-9/1024" />
+  </programme>
+  <programme start="20211006170000 +0000" stop="20211006180000 +0000" channel="btsport1.uk">
+    <title lang="en">WWE Raw Highlights</title>
+    <desc lang="en">All the best highlights from the latest WWE Raw.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/ef7418ad-d4ae-4645-ba5e-8f53383cb1eb/16-9/1024" />
+  </programme>
+  <programme start="20211006180000 +0000" stop="20211006183000 +0000" channel="btsport1.uk">
+    <title lang="en">BT Sport Reload</title>
+    <desc lang="en">The best bits from BT Sport over the last week, including exclusive interviews, the best action and so much more.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/7d75d0e0-917e-47c8-b1d1-ad26849d9c2a/16-9/1024" />
+  </programme>
+  <programme start="20211006183000 +0000" stop="20211006190000 +0000" channel="btsport1.uk">
+    <title lang="en">Serie A - Full Impact</title>
+    <desc lang="en">All the best moments from the latest action in Serie A, including Sassuolo v Inter, Fiorentina v Napoli and Atalanta v AC Milan.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/3e645bee-5033-4bd3-bde6-0c357d47b178/16-9/1024" />
+  </programme>
+  <programme start="20211006190000 +0000" stop="20211006193000 +0000" channel="btsport1.uk">
+    <title lang="en">Premier League World</title>
+    <desc lang="en">In this week's episode we catch up with one of the games great mavericks, Ian Holloway. He talks candidly about his struggles on and off the pitch and his time at Blackpool.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/640559da-2af9-43a8-8762-5c716332e12e/16-9/1024" />
+  </programme>
+  <programme start="20211006193000 +0000" stop="20211006200000 +0000" channel="btsport1.uk">
+    <title lang="en">The Rugby's On</title>
+    <desc lang="en">The latest episode of The Rugby's On.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/931d5dc0-1681-4740-9968-75c6956d5633/16-9/1024" />
+  </programme>
+  <programme start="20211006200000 +0000" stop="20211006214500 +0000" channel="btsport1.uk">
+    <title lang="en">WWE NXT</title>
+    <desc lang="en">All the action from WWE NXT as the next generation of Superstars showcase their talents.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/8dc96bb9-72ae-4108-b73e-41c8ab11c68e/16-9/1024" />
+  </programme>
+  <programme start="20211006214500 +0000" stop="20211006224500 +0000" channel="btsport1.uk">
+    <title lang="en">Fury v Wilder III - Countdown</title>
+    <desc lang="en">The Countdown is on to Tyson Fury's trilogy bout with Deontay Wilder in Las Vegas.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/d16c5b61-c824-4f3a-903d-da1b9a0e574d/16-9/1024" />
+  </programme>
+  <programme start="20211006224500 +0000" stop="20211006230000 +0000" channel="btsport1.uk">
+    <title lang="en">MotoGP Rewind: The Americas</title>
+    <desc lang="en">A look back at the best of the action from the Grand Prix of The Americas.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/117a5b1c-6e59-4c65-b510-255ec98b259b/16-9/1024" />
+  </programme>
+  <programme start="20211006230000 +0000" stop="20211007013000 +0000" channel="btsport1.uk">
+    <title lang="en">Live: PSA Squash - US Open</title>
+    <desc lang="en">PSA Squash action from the Women's and Men's Finals at the US Open.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/6fd0dc5f-ba20-4a21-b01c-a57407466ad0/16-9/1024" />
+  </programme>
+  <programme start="20211007013000 +0000" stop="20211007023000 +0000" channel="btsport1.uk">
+    <title lang="en">UEFA Champions League Review</title>
+    <desc lang="en">A round-up of all the latest action from matchday two of the UEFA Champions League group stages, including Chelsea v Zenit, Liverpool v AC Milan and Young Boys v Man Utd.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/cb69cbea-4a9f-49e0-8fcc-7506c54e64cc/16-9/1024" />
+  </programme>
+  <programme start="20211007023000 +0000" stop="20211007033000 +0000" channel="btsport1.uk">
+    <title lang="en">UEFA Europa League Highlights Show</title>
+    <desc lang="en">All the best action from matchday two of the Europa League including highlights from Sparta Prague v Rangers, West Ham v R Vienna, Celtic v Leverkusen and Legia Warsaw v Leicester.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/547e4d3e-bc58-43ac-96a9-573afcc6482c/16-9/1024" />
+  </programme>
+  <programme start="20211007033000 +0000" stop="20211007043000 +0000" channel="btsport1.uk">
+    <title lang="en">Ligue 1 Highlights</title>
+    <desc lang="en">A look back at all the recent action from French Ligue 1, including Rennes v PSG, Monaco v Bordeaux and Lille v Marseille.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/a3b7cb4a-cd73-4a4a-b1ba-df4313334219/16-9/1024" />
+  </programme>
+  <programme start="20211007043000 +0000" stop="20211007050000 +0000" channel="btsport1.uk">
+    <title lang="en">Kite Masters</title>
+    <desc lang="en">The series that flies you around the world, together with the very best athletes from one of the most exciting, fast, extreme and stylish sports... Kiteboarding.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/feb5e651-0a9a-4c42-ab96-17152bd271ee/16-9/1024" />
+  </programme>
+  <programme start="20211007050000 +0000" stop="20211007051500 +0000" channel="btsport1.uk">
+    <title lang="en">BT Sport Reload</title>
+    <desc lang="en">The best bits from BT Sport over the last week, including exclusive interviews, the best action and so much more.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/7d75d0e0-917e-47c8-b1d1-ad26849d9c2a/16-9/1024" />
+  </programme>
+  <programme start="20211007051500 +0000" stop="20211007054500 +0000" channel="btsport1.uk">
+    <title lang="en">Speed Catamarans GC32</title>
+    <desc lang="en">All the latest highlights from Round Two of the Speed Catamarans GC32 circuit.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/9c7452d5-e1df-43ae-9911-12839a53ebf9/16-9/1024" />
+  </programme>
+  <programme start="20211007054500 +0000" stop="20211007061500 +0000" channel="btsport1.uk">
+    <title lang="en">Serie A - Full Impact</title>
+    <desc lang="en">All the best moments from the latest action in Serie A, including Sassuolo v Inter, Fiorentina v Napoli and Atalanta v AC Milan.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/3e645bee-5033-4bd3-bde6-0c357d47b178/16-9/1024" />
+  </programme>
+  <programme start="20211007061500 +0000" stop="20211007080000 +0000" channel="btsport1.uk">
+    <title lang="en">WWE NXT</title>
+    <desc lang="en">All the action from WWE NXT as the next generation of Superstars showcase their talents.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/8dc96bb9-72ae-4108-b73e-41c8ab11c68e/16-9/1024" />
+  </programme>
+  <programme start="20211007080000 +0000" stop="20211007081500 +0000" channel="btsport1.uk">
+    <title lang="en">UEFA Champions League Goals Reload</title>
+    <desc lang="en">The pick of the goals from matchday two of the 2021/22 UEFA Champions League as the group stages continued.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/397ac811-2632-409a-9171-ac354d77ade4/16-9/1024" />
+  </programme>
+  <programme start="20211007081500 +0000" stop="20211007121500 +0000" channel="btsport1.uk">
+    <title lang="en">Live Women's Cricket: Aus v India</title>
+    <desc lang="en">Women's cricket action from the 1st T20 between Australia and India at the Carrara Oval.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/8bf1e61f-7480-4727-ac8e-829092bdaa48/16-9/1024" />
+  </programme>
+  <programme start="20211007121500 +0000" stop="20211007141500 +0000" channel="btsport1.uk">
+    <title lang="en">Women's Cricket Review: Aus v Ind</title>
+    <desc lang="en">A review of all the action from the 1st test between Australia and India.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/21df7563-b970-45fe-ac22-b92014f0d21a/16-9/1024" />
+  </programme>
+  <programme start="20211007141500 +0000" stop="20211007143000 +0000" channel="btsport1.uk">
+    <title lang="en">UEFA Europa League Goals Reload</title>
+    <desc lang="en">The pick of the goals from matchday two of the 2021/22 UEFA Europa League as the group stages continued.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/55b23570-6fe4-494a-a658-4079d1a25686/16-9/1024" />
+  </programme>
+  <programme start="20211007143000 +0000" stop="20211007160000 +0000" channel="btsport1.uk">
+    <title lang="en">PSA Squash - US Open</title>
+    <desc lang="en">PSA Squash action from the Women's and Men's Finals at the US Open.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/7bf473df-bb79-45d3-92ef-9f5d3477d039/16-9/1024" />
+  </programme>
+  <programme start="20211007160000 +0000" stop="20211007173000 +0000" channel="btsport1.uk">
+    <title lang="en">WWE Friday Night SmackDown</title>
+    <desc lang="en">See all your favourite WWE SmackDown Superstars deliver edge-of-your-seat action, including Roman Reigns, Sasha Banks, Seth Rollins and Bianca Belair.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/b558ee74-8895-498f-ab3a-78e8166fe67d/16-9/1024" />
+  </programme>
+  <programme start="20211007173000 +0000" stop="20211007200000 +0000" channel="btsport1.uk">
+    <title lang="en">WWE Monday Night Raw</title>
+    <desc lang="en">Watch Drew McIntyre, Asuka, Kofi Kingston and Charlotte Flair and more of your favourite WWE Superstars face-off inside the ring on WWE Monday Night Raw.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/81b2d91c-9193-45bf-95d2-ebb9af2cc81c/16-9/1024" />
+  </programme>
+  <programme start="20211007200000 +0000" stop="20211007210000 +0000" channel="btsport1.uk">
+    <title lang="en">WWE NXT Highlights</title>
+    <desc lang="en">Highlights from the latest episode of WWE NXT.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/36e5c8db-f59d-4638-bc5e-5796380a832a/16-9/1024" />
+  </programme>
+  <programme start="20211007210000 +0000" stop="20211008003000 +0000" channel="btsport1.uk">
+    <title lang="en">Live: MLB Postseason</title>
+    <desc lang="en">Action from MLB Postseason.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/6a12a8b4-5ed9-49a5-8290-bf21cb7107d8/16-9/1024" />
+  </programme>
+  <programme start="20211001003000 +0000" stop="20211001004500 +0000" channel="btsport2.uk">
+    <title lang="en">What I Wore: Kyle Walker</title>
+    <desc lang="en">Manchester City defender Kyle Walker describes his passion for football via the shirts which have defined his life.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/ce31d94c-8149-4dce-a461-533d9652d669/16-9/1024" />
+  </programme>
+  <programme start="20211001004500 +0000" stop="20211001011500 +0000" channel="btsport2.uk">
+    <title lang="en">Premier League Match Pack</title>
+    <desc lang="en">A preview of this weekend's top flight action, featuring key stats and insight into Manchester United v Everton, Chelsea v Southampton and Liverpool v Man City.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/7149464e-2180-48b5-b429-6e44d7a2dabb/16-9/1024" />
+  </programme>
+  <programme start="20211001011500 +0000" stop="20211001014500 +0000" channel="btsport2.uk">
+    <title lang="en">Premier League World</title>
+    <desc lang="en">This week we catch up with one of the games great mavericks, Ian Holloway. He talks candidly about his struggles on and off the pitch.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/25fc2b24-bb4f-44dd-8404-864b665c927e/16-9/1024" />
+  </programme>
+  <programme start="20211001014500 +0000" stop="20211001020000 +0000" channel="btsport2.uk">
+    <title lang="en">BT Sport Reload</title>
+    <desc lang="en">The best bits from BT Sport over the last week, including exclusive interviews, the best action and so much more.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/cdfdd4d3-f77a-498f-bf47-3fd2b541754f/16-9/1024" />
+  </programme>
+  <programme start="20211001020000 +0000" stop="20211001050000 +0000" channel="btsport2.uk">
+    <title lang="en">Live MLB: Padres @ Dodgers</title>
+    <desc lang="en">Major League Baseball action as Los Angeles Dodgers and San Diego Padres face-off at Dodger Stadium.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/5e9068d0-1eac-49c0-b72e-bb77d2f395e0/16-9/1024" />
+  </programme>
+  <programme start="20211001050000 +0000" stop="20211001053000 +0000" channel="btsport2.uk">
+    <title lang="en">DIY Pundit</title>
+    <desc lang="en">Ugo Monye is joined by Ian Stone, Mark Simmons, Danny Ward, Hal Cruttenden, Laura Lexx, Jess Fostekew and Jason Jared to give an alternative commentary on this week's action.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/e299bb9e-7fff-4658-980b-fc3abdb2af55/16-9/1024" />
+  </programme>
+  <programme start="20211001053000 +0000" stop="20211001060000 +0000" channel="btsport2.uk">
+    <title lang="en">Premier League World</title>
+    <desc lang="en">A round-up of all the news from the Premier League.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/25fc2b24-bb4f-44dd-8404-864b665c927e/16-9/1024" />
+  </programme>
+  <programme start="20211001060000 +0000" stop="20211001061500 +0000" channel="btsport2.uk">
+    <title lang="en">BT Sport Reload</title>
+    <desc lang="en">The best bits from BT Sport over the last week, including exclusive interviews, the best action and so much more.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/cdfdd4d3-f77a-498f-bf47-3fd2b541754f/16-9/1024" />
+  </programme>
+  <programme start="20211001061500 +0000" stop="20211001064500 +0000" channel="btsport2.uk">
+    <title lang="en">ESPN FC</title>
+    <desc lang="en">A round-up of the latest news from the world of football at the ESPN studios in Bristol, Connecticut.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/877de2eb-96ea-405f-83d5-37b1bb65e33a/16-9/1024" />
+  </programme>
+  <programme start="20211001064500 +0000" stop="20211001090000 +0000" channel="btsport2.uk">
+    <title lang="en">Live European Cricket Championship</title>
+    <desc lang="en">Action from the European Cricket Championship as 15 nations battle it out in a T10 format tournament in Malaga, Spain.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/3ffb1082-1fb6-4423-a3e5-0f1f81fe4fc7/16-9/1024" />
+  </programme>
+  <programme start="20211001090000 +0000" stop="20211001110000 +0000" channel="btsport2.uk">
+    <title lang="en">Live European Cricket Championship</title>
+    <desc lang="en">Action from the European Cricket Championship as 15 nations battle it out in a T10 format tournament in Malaga, Spain.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/be90b0d6-5bbb-4f41-a490-c7a59e63017e/16-9/1024" />
+  </programme>
+  <programme start="20211001110000 +0000" stop="20211001124500 +0000" channel="btsport2.uk">
+    <title lang="en">WWE NXT</title>
+    <desc lang="en">All the action from WWE NXT as the next generation of Superstars showcase their talents.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/50afa9ca-2746-4fa6-998e-fc9acce1b8f5/16-9/1024" />
+  </programme>
+  <programme start="20211001124500 +0000" stop="20211001130000 +0000" channel="btsport2.uk">
+    <title lang="en">BT Sport Reload</title>
+    <desc lang="en">The best bits from BT Sport over the last week, including exclusive interviews, the best action and so much more.</desc>
+  </programme>
+  <programme start="20211001130000 +0000" stop="20211001133000 +0000" channel="btsport2.uk">
+    <title lang="en">Extreme E - Electric Odyssey</title>
+    <desc lang="en">Extreme E - Electric Odyssey bring racing to some of the most remote corners of the planet to highlight climate change, whilst showcasing the performance of all-electric SUVs.</desc>
+  </programme>
+  <programme start="20211001133000 +0000" stop="20211001140000 +0000" channel="btsport2.uk">
+    <title lang="en">Fury v Wilder: The Trilogy</title>
+    <desc lang="en">All the build-up to Tyson Fury's trilogy bout with Deontay Wilder.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/712df1da-75f7-4624-a78a-3b4ceac39d24/16-9/1024" />
+  </programme>
+  <programme start="20211001140000 +0000" stop="20211001164500 +0000" channel="btsport2.uk">
+    <title lang="en">Live MotoGP: The Americas FP1&amp;FP2</title>
+    <desc lang="en">All the action from FP1 &amp; FP2 at the MotoGP Grand Prix of The Americas.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/9617e65a-7484-46c7-ae2c-defff3992377/16-9/1024" />
+  </programme>
+  <programme start="20211001164500 +0000" stop="20211001174500 +0000" channel="btsport2.uk">
+    <title lang="en">UEFA Europa League Highlights Show</title>
+    <desc lang="en">All the best action from matchday two of the Europa League including highlights from Sparta Prague v Rangers, West Ham v R Vienna, Celtic v Leverkusen and Legia Warsaw v Leicester.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/547e4d3e-bc58-43ac-96a9-573afcc6482c/16-9/1024" />
+  </programme>
+  <programme start="20211001174500 +0000" stop="20211001181500 +0000" channel="btsport2.uk">
+    <title lang="en">Premier League Preview</title>
+    <desc lang="en">A look ahead to all the upcoming action in the Premier League, including Manchester United v Everton, Chelsea v Southampton and Liverpool v Man City.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/be768044-8f6e-4d51-8eb8-760c4dcdfb77/16-9/1024" />
+  </programme>
+  <programme start="20211001181500 +0000" stop="20211001210000 +0000" channel="btsport2.uk">
+    <title lang="en">Live MotoGP: GP of Americas FP2</title>
+    <desc lang="en">All the action from FP2 from the MotoGP Grand Prix of The Americas at Circuit of the Americas.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/e809158a-c340-4cec-be96-10fd2c22a9b5/16-9/1024" />
+  </programme>
+  <programme start="20211001210000 +0000" stop="20211001213000 +0000" channel="btsport2.uk">
+    <title lang="en">SC: UFC Fight Camp</title>
+    <desc lang="en">Exclusive access, interviews and features with fighters, analysis from experts and the best from the world of UFC.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/bbeb0171-a802-4651-a12d-2f25837642ab/16-9/1024" />
+  </programme>
+  <programme start="20211001213000 +0000" stop="20211001220000 +0000" channel="btsport2.uk">
+    <title lang="en">Live: UFC Live Fight Night Preview</title>
+    <desc lang="en">The UFC Live crew look ahead to this weekend's UFC Fight Night action as Thiago Marreta Santos and Johnny Walker fight in Arizona.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/56f7fc7d-e040-4711-8edf-04eac27812b7/16-9/1024" />
+  </programme>
+  <programme start="20211001220000 +0000" stop="20211001223000 +0000" channel="btsport2.uk">
+    <title lang="en">UFC Ultimate Knockouts</title>
+    <desc lang="en">A look at some of the most devastating finishes ever seen inside the octagon. An Hispanic History Month special.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/30cd49ce-9a52-4d39-b940-924355893123/16-9/1024" />
+    <episode-num system="onscreen">E1/2</episode-num>
+  </programme>
+  <programme start="20211001223000 +0000" stop="20211001230000 +0000" channel="btsport2.uk">
+    <title lang="en">Scottish Football Extra</title>
+    <desc lang="en">A look at all the key issues and talking points in Scottish football.</desc>
+  </programme>
+  <programme start="20211001230000 +0000" stop="20211002020000 +0000" channel="btsport2.uk">
+    <title lang="en">Live MLB: Rays @ Yankees</title>
+    <desc lang="en">MLB action as New York Yankees host Tampa Bay Rays at Yankee Stadium.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/5ec8d10e-3ff7-4771-ad15-6a60f2d531aa/16-9/1024" />
+  </programme>
+  <programme start="20211002020000 +0000" stop="20211002021500 +0000" channel="btsport2.uk">
+    <title lang="en">BT Sport Reload</title>
+    <desc lang="en">The best bits from BT Sport over the last week, including exclusive interviews, the best action and so much more.</desc>
+  </programme>
+  <programme start="20211002021500 +0000" stop="20211002024500 +0000" channel="btsport2.uk">
+    <title lang="en">Scottish Football Extra</title>
+    <desc lang="en">A look at all the key issues and talking points in Scottish football.</desc>
+  </programme>
+  <programme start="20211002024500 +0000" stop="20211002034500 +0000" channel="btsport2.uk">
+    <title lang="en">Women's Cricket: Aus v India</title>
+    <desc lang="en">Women's cricket action from day two of the 1st test between Australia and India.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/9e480dda-e2f8-4458-912a-1bd9a299ab6c/16-9/1024" />
+  </programme>
+  <programme start="20211002034500 +0000" stop="20211002123000 +0000" channel="btsport2.uk">
+    <title lang="en">Live Women's Cricket: Aus v India</title>
+    <desc lang="en">Women's cricket action from day three of the 1st test between Australia and India.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/dff76efd-d6d6-40b9-89bb-25e1ea342411/16-9/1024" />
+  </programme>
+  <programme start="20211002123000 +0000" stop="20211002133000 +0000" channel="btsport2.uk">
+    <title lang="en">The Aussie Rules Show</title>
+    <desc lang="en">The Aussie Rules Show presented by Ollie Geale presents all the latest news, views and analysis of the game. Plus, appearances from special guests every week.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/aa491e45-15bd-4f7a-9ca1-1041ca1e5c5b/16-9/1024" />
+  </programme>
+  <programme start="20211002133000 +0000" stop="20211002134500 +0000" channel="btsport2.uk">
+    <title lang="en">MotoGP Rewind: San Marino</title>
+    <desc lang="en">A look back at the best of the action from the Grand Prix of San Marino.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/a8601aea-68f9-4827-8570-b5496ea8ed44/16-9/1024" />
+  </programme>
+  <programme start="20211002134500 +0000" stop="20211002140000 +0000" channel="btsport2.uk">
+    <title lang="en">MotoGP: ICYMI</title>
+    <desc lang="en">MotoGP action from the Grand Prix of The Americas.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/ad450ecf-aaf3-4e92-a653-bc709c85b459/16-9/1024" />
+  </programme>
+  <programme start="20211002140000 +0000" stop="20211002170000 +0000" channel="btsport2.uk">
+    <title lang="en">Live MotoGP: The Americas FP3</title>
+    <desc lang="en">Coverage of FP3 from the Grand Prix of The Americas.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/f388ce3c-5d77-41b8-8099-3dd4695bdfa4/16-9/1024" />
+  </programme>
+  <programme start="20211002170000 +0000" stop="20211002211500 +0000" channel="btsport2.uk">
+    <title lang="en">Live MotoGP: The Americas Quali</title>
+    <desc lang="en">Coverage of the Qualifying session from the Grand Prix of The Americas.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/15c70589-c561-4c84-a616-962f0195bb2a/16-9/1024" />
+  </programme>
+  <programme start="20211002211500 +0000" stop="20211002214500 +0000" channel="btsport2.uk">
+    <title lang="en">National League Highlights</title>
+    <desc lang="en">The best of the action from matchday nine in the Vanarama National League, including Aldershot Town v Wrexham, Chesterfield v Yeovil Town and Barnet v Halifax Town.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/8d0f2ab6-51e1-48ef-a733-03daedaabe6a/16-9/1024" />
+  </programme>
+  <programme start="20211002214500 +0000" stop="20211002221500 +0000" channel="btsport2.uk">
+    <title lang="en">Inside Fury vs Wilder III Part 2</title>
+    <desc lang="en">As Tyson Fury and Deontay Wilder prepare to fight for the third time we look back at their previous two bouts.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/712df1da-75f7-4624-a78a-3b4ceac39d24/16-9/1024" />
+  </programme>
+  <programme start="20211002221500 +0000" stop="20211002224500 +0000" channel="btsport2.uk">
+    <title lang="en">Fury v Wilder: The Trilogy</title>
+    <desc lang="en">Born To Fight: The Fury Dynasty. John Fury invites us into his world as he reveals the surroundings and nurturing which led to him raising the heavyweight champion of the world.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/732418f5-e985-42c8-b47f-27d34f6776a9/16-9/1024" />
+  </programme>
+  <programme start="20211002224500 +0000" stop="20211002230000 +0000" channel="btsport2.uk">
+    <title lang="en">What I Wore: Kyle Walker</title>
+    <desc lang="en">Manchester City defender Kyle Walker describes his passion for football via the shirts which have defined his life.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/ce31d94c-8149-4dce-a461-533d9652d669/16-9/1024" />
+  </programme>
+  <programme start="20211002230000 +0000" stop="20211003020000 +0000" channel="btsport2.uk">
+    <title lang="en">Live: Major League Baseball</title>
+    <desc lang="en">Action from Major League Baseball.</desc>
+  </programme>
+  <programme start="20211003020000 +0000" stop="20211003021500 +0000" channel="btsport2.uk">
+    <title lang="en">MLB: Caps Off</title>
+    <desc lang="en">A round-up of the latest talking points and best moments from Major League Baseball over the past week.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/eb403265-061a-4172-a623-a1a42a81c70b/16-9/1024" />
+  </programme>
+  <programme start="20211003021500 +0000" stop="20211003024500 +0000" channel="btsport2.uk">
+    <title lang="en">WRC Highlights: Rally Finland</title>
+    <desc lang="en">All the highlights from day two of the WRC Rally Finland, part of the World Rally Championship season.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/27c8fd23-d5ba-4626-8b79-1789e3840b50/16-9/1024" />
+  </programme>
+  <programme start="20211003024500 +0000" stop="20211003034500 +0000" channel="btsport2.uk">
+    <title lang="en">Women's Test Cricket: Aus v India</title>
+    <desc lang="en">Women's cricket action from day three of the 1st test between Australia and India.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/6e2b4649-b754-4232-87a7-0828ed219d79/16-9/1024" />
+  </programme>
+  <programme start="20211003034500 +0000" stop="20211003123000 +0000" channel="btsport2.uk">
+    <title lang="en">Live Women's Cricket: Aus v India</title>
+    <desc lang="en">Women's cricket action from day four of the 1st test between Australia and India.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/6e2b4649-b754-4232-87a7-0828ed219d79/16-9/1024" />
+  </programme>
+  <programme start="20211003123000 +0000" stop="20211003130000 +0000" channel="btsport2.uk">
+    <title lang="en">BHM: Sporting Roots</title>
+    <desc lang="en">Comedian Kane Brown hosts a conversation with diverse group of Black British sports stars including Ugo Monye, Luther Blissett, Anthony Yarde, Christina Ohuruogu and Naomi Ogbeta.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/37b3775a-c4c5-4fe0-af93-5b701ae71f93/16-9/1024" />
+  </programme>
+  <programme start="20211003130000 +0000" stop="20211003133000 +0000" channel="btsport2.uk">
+    <title lang="en">DIY Pundit</title>
+    <desc lang="en">Ugo Monye is joined by Ian Stone, Mark Simmons, Danny Ward, Hal Cruttenden, Laura Lexx, Jess Fostekew and Jason Jared to give an alternative commentary on this week's action.</desc>
+  </programme>
+  <programme start="20211003133000 +0000" stop="20211003151500 +0000" channel="btsport2.uk">
+    <title lang="en">Live MotoGP: The Americas Warm Ups</title>
+    <desc lang="en">Coverage of the Warm Up session ahead of the MotoGP, Moto2 and Moto3 races.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/61e2a47c-ce3c-44f2-9c39-c130071699b9/16-9/1024" />
+  </programme>
+  <programme start="20211003151500 +0000" stop="20211003170000 +0000" channel="btsport2.uk">
+    <title lang="en">Live Moto3: The Americas</title>
+    <desc lang="en">Coverage of the Grand Prix of The Americas Moto3 race.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/c9e7012f-2837-404d-a75a-c6ff6a7bb9fc/16-9/1024" />
+  </programme>
+  <programme start="20211003170000 +0000" stop="20211003183000 +0000" channel="btsport2.uk">
+    <title lang="en">Live Moto2: The Americas</title>
+    <desc lang="en">Coverage of the Grand Prix of The Americas Moto2 race.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/a6d95f73-c324-4e57-8f7b-ced9de713354/16-9/1024" />
+  </programme>
+  <programme start="20211003183000 +0000" stop="20211003200000 +0000" channel="btsport2.uk">
+    <title lang="en">Live: MotoGP: The Americas</title>
+    <desc lang="en">Coverage of the Grand Prix of The Americas MotoGP race.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/cf3e5c24-5a58-4544-914b-aaa6c090e837/16-9/1024" />
+  </programme>
+  <programme start="20211003200000 +0000" stop="20211003203000 +0000" channel="btsport2.uk">
+    <title lang="en">MotoGP Chequered Flag</title>
+    <desc lang="en">Post-race show featuring analysis, highlights and interviews with all the key riders following the Grand Prix of The Americas. Plus, a look behind the scenes with the team bosses.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/cdc7e79e-9360-4ac8-ae0b-8499b284ccfc/16-9/1024" />
+  </programme>
+  <programme start="20211003203000 +0000" stop="20211003210000 +0000" channel="btsport2.uk">
+    <title lang="en">Inside Fury vs Wilder III Part 2</title>
+    <desc lang="en">As Tyson Fury and Deontay Wilder prepare to fight for the third time we look back at their previous two bouts.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/712df1da-75f7-4624-a78a-3b4ceac39d24/16-9/1024" />
+  </programme>
+  <programme start="20211003210000 +0000" stop="20211003213000 +0000" channel="btsport2.uk">
+    <title lang="en">Fury v Wilder: The Trilogy</title>
+    <desc lang="en">Born To Fight: The Fury Dynasty. John Fury invites us into his world as he reveals the surroundings and nurturing which led to him raising the heavyweight champion of the world.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/732418f5-e985-42c8-b47f-27d34f6776a9/16-9/1024" />
+  </programme>
+  <programme start="20211003213000 +0000" stop="20211003220000 +0000" channel="btsport2.uk">
+    <title lang="en">WRC Highlights: Rally Finland</title>
+    <desc lang="en">All the highlights from day three of the WRC Rally Finland, part of the World Rally Championship season.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/9899c269-6fac-4c0c-a7c8-485fbe93f871/16-9/1024" />
+  </programme>
+  <programme start="20211003220000 +0000" stop="20211003233000 +0000" channel="btsport2.uk">
+    <title lang="en">Gallagher Premiership Highlights</title>
+    <desc lang="en">The best of the action from round three of the 2021/22 Gallagher Premiership season, including Bristol Bears v Bath, Leicester Tigers v Saracens and Sale Sharks v Exeter Chiefs.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/77fbfcad-44da-4b56-88ca-208c112ac4bb/16-9/1024" />
+  </programme>
+  <programme start="20211003233000 +0000" stop="20211004003000 +0000" channel="btsport2.uk">
+    <title lang="en">UEFA Champions League Review</title>
+    <desc lang="en">A round-up of all the latest action from matchday two of the UEFA Champions League group stages, including Chelsea v Zenit, Liverpool v AC Milan and Young Boys v Man Utd.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/cb69cbea-4a9f-49e0-8fcc-7506c54e64cc/16-9/1024" />
+  </programme>
+  <programme start="20211004003000 +0000" stop="20211004010000 +0000" channel="btsport2.uk">
+    <title lang="en">Extreme E - Electric Odyssey</title>
+    <desc lang="en">Extreme E - Electric Odyssey bring racing to some of the most remote corners of the planet to highlight climate change, whilst showcasing the performance of all-electric SUVs.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/3cd456e8-0323-41fd-927d-f5cabca98853/16-9/1024" />
+  </programme>
+  <programme start="20211004010000 +0000" stop="20211004020000 +0000" channel="btsport2.uk">
+    <title lang="en">FIM SidecarCross</title>
+    <desc lang="en">Highlights from the latest round of the FIM SidecarCross World Championship in Estonia.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/76ded0f7-2fdd-43cc-8977-52e923a8a604/16-9/1024" />
+  </programme>
+  <programme start="20211004020000 +0000" stop="20211004030000 +0000" channel="btsport2.uk">
+    <title lang="en">Fishing: On the Bank</title>
+    <desc lang="en">Angling magazine show presented by Rob Hughes and Andy Ford, including action from The Maver Mega Match This event.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/29f5eae5-68fa-4848-a4be-07cf8b94e966/16-9/1024" />
+  </programme>
+  <programme start="20211004030000 +0000" stop="20211004033000 +0000" channel="btsport2.uk">
+    <title lang="en">WRC Highlights: Rally Finland</title>
+    <desc lang="en">All the highlights from day three of the WRC Rally Finland, part of the World Rally Championship season.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/9899c269-6fac-4c0c-a7c8-485fbe93f871/16-9/1024" />
+  </programme>
+  <programme start="20211004033000 +0000" stop="20211004040000 +0000" channel="btsport2.uk">
+    <title lang="en">Inside Sailing</title>
+    <desc lang="en">This month we head to Portugal for the GC32 Racing Tour, the Isle of Wight for the 44Cup and we bring you several foiling events from Italy.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/fedd44af-24f7-4a59-bbbf-738ea5364244/16-9/1024" />
+  </programme>
+  <programme start="20211004040000 +0000" stop="20211004043000 +0000" channel="btsport2.uk">
+    <title lang="en">Badminton Unlimited</title>
+    <desc lang="en">Catch up on all the latest news and information from the world of badminton.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/e9cbf5b7-061c-4be3-b6aa-bf7b944a9653/16-9/1024" />
+  </programme>
+  <programme start="20211004043000 +0000" stop="20211004050000 +0000" channel="btsport2.uk">
+    <title lang="en">IFSC Climbing World Cup Highlights</title>
+    <desc lang="en">Highlights from the IFSC Climbing World Cup.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/2a0d7013-f4c9-4202-b7bc-8de7f69fbfe6/16-9/1024" />
+  </programme>
+  <programme start="20211004050000 +0000" stop="20211004060000 +0000" channel="btsport2.uk">
+    <title lang="en">Moto3: The Americas</title>
+    <desc lang="en">Coverage of the Grand Prix of The Americas Moto3 race.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/577c810e-c4c4-4a54-ab5b-cfac3855910a/16-9/1024" />
+  </programme>
+  <programme start="20211004060000 +0000" stop="20211004070000 +0000" channel="btsport2.uk">
+    <title lang="en">Moto2: The Americas</title>
+    <desc lang="en">Coverage of the Grand Prix of The Americas Moto2 race.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/438c86b7-c1f5-4e9a-bf43-0ae528efafb6/16-9/1024" />
+  </programme>
+  <programme start="20211004070000 +0000" stop="20211004080000 +0000" channel="btsport2.uk">
+    <title lang="en">MotoGP: The Americas</title>
+    <desc lang="en">Coverage of the Grand Prix of The Americas MotoGP race.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/d867b191-934c-4049-9e17-c9340cbb98ca/16-9/1024" />
+  </programme>
+  <programme start="20211004080000 +0000" stop="20211004083000 +0000" channel="btsport2.uk">
+    <title lang="en">MotoGP Chequered Flag</title>
+    <desc lang="en">Post-race show featuring analysis, highlights and interviews with all the key riders following the Grand Prix of The Americas. Plus, a look behind the scenes with the team bosses.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/7149941e-37c3-4990-9036-9f560511fa1e/16-9/1024" />
+  </programme>
+  <programme start="20211004083000 +0000" stop="20211004100000 +0000" channel="btsport2.uk">
+    <title lang="en">Eastleigh v Boreham Wood</title>
+    <desc lang="en">Action from the Vanarama National League as Eastleigh and Boreham Wood face-off at Silvelake Stadium.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/06c42ef4-599e-4d4f-85b2-5f4e4a9a835a/16-9/1024" />
+  </programme>
+  <programme start="20211004100000 +0000" stop="20211004103000 +0000" channel="btsport2.uk">
+    <title lang="en">National League Highlights</title>
+    <desc lang="en">The best of the action from matchday nine in the Vanarama National League, including Aldershot Town v Wrexham, Chesterfield v Yeovil Town and Barnet v Halifax Town.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/8d0f2ab6-51e1-48ef-a733-03daedaabe6a/16-9/1024" />
+  </programme>
+  <programme start="20211004103000 +0000" stop="20211004110000 +0000" channel="btsport2.uk">
+    <title lang="en">WRC Highlights: Rally Finland</title>
+    <desc lang="en">All the highlights from day three of the WRC Rally Finland, part of the World Rally Championship season.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/9899c269-6fac-4c0c-a7c8-485fbe93f871/16-9/1024" />
+  </programme>
+  <programme start="20211004110000 +0000" stop="20211004130000 +0000" channel="btsport2.uk">
+    <title lang="en">FIM Speedway Grand Prix</title>
+    <desc lang="en">Action from Round 10 of the FIM Speedway Grand Prix in Torun, Poland.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/c15c42f9-1a81-4a91-8849-e2af65f691bd/16-9/1024" />
+  </programme>
+  <programme start="20211004130000 +0000" stop="20211004150000 +0000" channel="btsport2.uk">
+    <title lang="en">FIM Speedway Grand Prix - Poland</title>
+    <desc lang="en">Action from Round 11 of the FIM Speedway Grand Prix in Torun, Poland.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/a2ecef11-4db6-4ccf-a4d7-0d421e3fd464/16-9/1024" />
+  </programme>
+  <programme start="20211004150000 +0000" stop="20211004153000 +0000" channel="btsport2.uk">
+    <title lang="en">ESPN FC</title>
+    <desc lang="en">A round-up of the latest news from the world of football at the ESPN studios in Bristol, Connecticut.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/802e4d9c-1d80-4a81-acc1-b4da3549ea29/16-9/1024" />
+  </programme>
+  <programme start="20211004153000 +0000" stop="20211004170000 +0000" channel="btsport2.uk">
+    <title lang="en">Eastleigh v Boreham Wood</title>
+    <desc lang="en">Action from the Vanarama National League as Eastleigh and Boreham Wood face-off at Silvelake Stadium.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/06c42ef4-599e-4d4f-85b2-5f4e4a9a835a/16-9/1024" />
+  </programme>
+  <programme start="20211004170000 +0000" stop="20211004173000 +0000" channel="btsport2.uk">
+    <title lang="en">National League Highlights</title>
+    <desc lang="en">The best of the action from matchday nine in the Vanarama National League, including Aldershot Town v Wrexham, Chesterfield v Yeovil Town and Barnet v Halifax Town.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/8d0f2ab6-51e1-48ef-a733-03daedaabe6a/16-9/1024" />
+  </programme>
+  <programme start="20211004173000 +0000" stop="20211004180000 +0000" channel="btsport2.uk">
+    <title lang="en">Extreme E - Electric Odyssey</title>
+    <desc lang="en">Extreme E - Electric Odyssey bring racing to some of the most remote corners of the planet to highlight climate change, whilst showcasing the performance of all-electric SUVs.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/3cd456e8-0323-41fd-927d-f5cabca98853/16-9/1024" />
+  </programme>
+  <programme start="20211004180000 +0000" stop="20211004190000 +0000" channel="btsport2.uk">
+    <title lang="en">DTM Highlights: Germany</title>
+    <desc lang="en">Action from the latest round of the DTM season at the Hockenheimring in Germany.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/199ed483-8211-41da-af9a-60437b475a6d/16-9/1024" />
+  </programme>
+  <programme start="20211004190000 +0000" stop="20211004200000 +0000" channel="btsport2.uk">
+    <title lang="en">WRC Review: Rally Finland</title>
+    <desc lang="en">All the best action from the latest round of the World Rally Championship at Rally Finland.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/ce1a33f3-de45-4b3d-b88f-0e87e404088a/16-9/1024" />
+  </programme>
+  <programme start="20211004200000 +0000" stop="20211004210000 +0000" channel="btsport2.uk">
+    <title lang="en">Fishing: On the Bank</title>
+    <desc lang="en">Angling magazine show presented by Rob Hughes and Andy Ford. This week we take a look at the best of the action from Round Four of the UK Angling Championship.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/d9f1e8b1-b38a-4339-af3b-801ecbe5b1a6/16-9/1024" />
+  </programme>
+  <programme start="20211004210000 +0000" stop="20211004214500 +0000" channel="btsport2.uk">
+    <title lang="en">Rugby Tonight</title>
+    <desc lang="en">BT Sport's panel of experts are joined by guests and a live studio audience to discuss all things rugby and look ahead to the upcoming domestic, European and international action.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/af050223-6803-4e48-8ec6-8320827a741d/16-9/1024" />
+  </programme>
+  <programme start="20211004214500 +0000" stop="20211004233000 +0000" channel="btsport2.uk">
+    <title lang="en">Make It Or Die Trying: The Frank..</title>
+    <desc lang="en">...Warren Story - BT Sport Films tells the story of Frank Warren's life and how the boxing promoter rose from humble beginnings to one of the biggest names in British sport.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/52f36c5a-c396-4993-8890-0c465ec13fbf/16-9/1024" />
+  </programme>
+  <programme start="20211004233000 +0000" stop="20211005003000 +0000" channel="btsport2.uk">
+    <title lang="en">MotoGP: The Americas</title>
+    <desc lang="en">Coverage of the Grand Prix of The Americas MotoGP race.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/d867b191-934c-4049-9e17-c9340cbb98ca/16-9/1024" />
+  </programme>
+  <programme start="20211005003000 +0000" stop="20211005010000 +0000" channel="btsport2.uk">
+    <title lang="en">MotoGP Chequered Flag</title>
+    <desc lang="en">Post-race show featuring analysis, highlights and interviews with all the key riders following the Grand Prix of The Americas. Plus, a look behind the scenes with the team bosses.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/7149941e-37c3-4990-9036-9f560511fa1e/16-9/1024" />
+  </programme>
+  <programme start="20211005010000 +0000" stop="20211005030000 +0000" channel="btsport2.uk">
+    <title lang="en">FIM Speedway Grand Prix</title>
+    <desc lang="en">Action from Round 10 of the FIM Speedway Grand Prix in Torun, Poland.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/c15c42f9-1a81-4a91-8849-e2af65f691bd/16-9/1024" />
+  </programme>
+  <programme start="20211005030000 +0000" stop="20211005050000 +0000" channel="btsport2.uk">
+    <title lang="en">FIM Speedway Grand Prix - Poland</title>
+    <desc lang="en">Action from Round 11 of the FIM Speedway Grand Prix in Torun, Poland.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/a2ecef11-4db6-4ccf-a4d7-0d421e3fd464/16-9/1024" />
+  </programme>
+  <programme start="20211005050000 +0000" stop="20211005063000 +0000" channel="btsport2.uk">
+    <title lang="en">Gallagher Premiership Highlights</title>
+    <desc lang="en">The best of the action from round three of the 2021/22 Gallagher Premiership season, including Bristol Bears v Bath, Leicester Tigers v Saracens and Sale Sharks v Exeter Chiefs.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/77fbfcad-44da-4b56-88ca-208c112ac4bb/16-9/1024" />
+  </programme>
+  <programme start="20211005063000 +0000" stop="20211005070000 +0000" channel="btsport2.uk">
+    <title lang="en">BT Sport Goals Reload</title>
+    <desc lang="en">We bring you the greatest goals from around the world this week, including action from the Premier League, Serie A and Ligue 1.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/6fc066a6-2ab4-4d97-8dfb-eeb93e804c95/16-9/1024" />
+  </programme>
+  <programme start="20211005070000 +0000" stop="20211005080000 +0000" channel="btsport2.uk">
+    <title lang="en">Premier League Review</title>
+    <desc lang="en">A look back at the best of the recent action from the Premier League, including Manchester United v Everton, Chelsea v Southampton and Liverpool v Man City.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/7b040aef-b2c2-45aa-a876-4b2ce389e28d/16-9/1024" />
+  </programme>
+  <programme start="20211005080000 +0000" stop="20211005090000 +0000" channel="btsport2.uk">
+    <title lang="en">MotoGP: The Americas</title>
+    <desc lang="en">Coverage of the Grand Prix of The Americas MotoGP race.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/d867b191-934c-4049-9e17-c9340cbb98ca/16-9/1024" />
+  </programme>
+  <programme start="20211005090000 +0000" stop="20211005093000 +0000" channel="btsport2.uk">
+    <title lang="en">MotoGP Chequered Flag</title>
+    <desc lang="en">Post-race show featuring analysis, highlights and interviews with all the key riders following the Grand Prix of The Americas. Plus, a look behind the scenes with the team bosses.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/7149941e-37c3-4990-9036-9f560511fa1e/16-9/1024" />
+  </programme>
+  <programme start="20211005093000 +0000" stop="20211005100000 +0000" channel="btsport2.uk">
+    <title lang="en">ESPN FC</title>
+    <desc lang="en">A round-up of the latest news from the world of football at the ESPN studios in Bristol, Connecticut.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/69764c82-5509-4e04-9882-96f5cee1a431/16-9/1024" />
+  </programme>
+  <programme start="20211005100000 +0000" stop="20211005110000 +0000" channel="btsport2.uk">
+    <title lang="en">Premier League Review</title>
+    <desc lang="en">A look back at the best of the recent action from the Premier League, including Manchester United v Everton, Chelsea v Southampton and Liverpool v Man City.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/7b040aef-b2c2-45aa-a876-4b2ce389e28d/16-9/1024" />
+  </programme>
+  <programme start="20211005110000 +0000" stop="20211005111500 +0000" channel="btsport2.uk">
+    <title lang="en">BT Sport Goals Reload</title>
+    <desc lang="en">We bring you the greatest goals from around the world this week, including action from the Premier League, Serie A and Ligue 1.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/6fc066a6-2ab4-4d97-8dfb-eeb93e804c95/16-9/1024" />
+  </programme>
+  <programme start="20211005111500 +0000" stop="20211005121500 +0000" channel="btsport2.uk">
+    <title lang="en">Fury v Wilder: The Trilogy</title>
+    <desc lang="en">A preview of Tyson Fury's trilogy bout with Deontay Wilder.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/1413d5aa-1e80-42df-b85b-da415b004f38/16-9/1024" />
+  </programme>
+  <programme start="20211005121500 +0000" stop="20211005131500 +0000" channel="btsport2.uk">
+    <title lang="en">WRC Review: Rally Finland</title>
+    <desc lang="en">All the best action from the latest round of the World Rally Championship at Rally Finland.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/ce1a33f3-de45-4b3d-b88f-0e87e404088a/16-9/1024" />
+  </programme>
+  <programme start="20211005131500 +0000" stop="20211005144500 +0000" channel="btsport2.uk">
+    <title lang="en">Gallagher Premiership Highlights</title>
+    <desc lang="en">The best of the action from round three of the 2021/22 Gallagher Premiership season, including Bristol Bears v Bath, Leicester Tigers v Saracens and Sale Sharks v Exeter Chiefs.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/77fbfcad-44da-4b56-88ca-208c112ac4bb/16-9/1024" />
+  </programme>
+  <programme start="20211005144500 +0000" stop="20211005153000 +0000" channel="btsport2.uk">
+    <title lang="en">Rugby Tonight</title>
+    <desc lang="en">BT Sport's panel of experts are joined by guests and a live studio audience to discuss all things rugby and look ahead to the upcoming domestic, European and international action.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/af050223-6803-4e48-8ec6-8320827a741d/16-9/1024" />
+  </programme>
+  <programme start="20211005153000 +0000" stop="20211005160000 +0000" channel="btsport2.uk">
+    <title lang="en">ESPN FC</title>
+    <desc lang="en">A round-up of the latest news from the world of football at the ESPN studios in Bristol, Connecticut.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/69764c82-5509-4e04-9882-96f5cee1a431/16-9/1024" />
+  </programme>
+  <programme start="20211005160000 +0000" stop="20211005170000 +0000" channel="btsport2.uk">
+    <title lang="en">The Aussie Rules Show</title>
+    <desc lang="en">The Aussie Rules Show presented by Ollie Geale presents all the latest news, views and analysis of the game. Plus, appearances from special guests every week.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/aa491e45-15bd-4f7a-9ca1-1041ca1e5c5b/16-9/1024" />
+  </programme>
+  <programme start="20211005170000 +0000" stop="20211005190000 +0000" channel="btsport2.uk">
+    <title lang="en">Badminton: BWF Sudirman Cup</title>
+    <desc lang="en">Badminton action from the BWF Sudirman Cup Finals.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/ca900876-f74d-499b-a6c6-f4af00f3c5e9/16-9/1024" />
+  </programme>
+  <programme start="20211005190000 +0000" stop="20211005193000 +0000" channel="btsport2.uk">
+    <title lang="en">Ultra-Trail World Tour</title>
+    <desc lang="en">Coverage of the Ultra-Trail World Tour, the international circuit for long distance trail running races.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/d964b296-47c7-4447-a4fd-0dd9ef211d1b/16-9/1024" />
+  </programme>
+  <programme start="20211005193000 +0000" stop="20211005200000 +0000" channel="btsport2.uk">
+    <title lang="en">UEFA Champions League Magazine</title>
+    <desc lang="en">The latest news and updates from the UEFA Champions League.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/92f7d72e-1d0c-4222-805c-56cf5e1ad33b/16-9/1024" />
+  </programme>
+  <programme start="20211005200000 +0000" stop="20211005203000 +0000" channel="btsport2.uk">
+    <title lang="en">UFC Ultimate Knockouts</title>
+    <desc lang="en">A look at some of the most devastating finishes ever seen inside the octagon. An Hispanic History Month special.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/30cd49ce-9a52-4d39-b940-924355893123/16-9/1024" />
+    <episode-num system="onscreen">E1/2</episode-num>
+  </programme>
+  <programme start="20211005203000 +0000" stop="20211005210000 +0000" channel="btsport2.uk">
+    <title lang="en">UFC Ultimate Knockouts</title>
+    <desc lang="en">A look at some of the most devastating finishes ever seen inside the octagon. An Hispanic History Month special.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/5624f442-c921-4514-8d49-887cb35f93cd/16-9/1024" />
+    <episode-num system="onscreen">E2/2</episode-num>
+  </programme>
+  <programme start="20211005210000 +0000" stop="20211005220000 +0000" channel="btsport2.uk">
+    <title lang="en">FIM SidecarCross</title>
+    <desc lang="en">Highlights from the latest round of the FIM SidecarCross World Championship in Estonia.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/76ded0f7-2fdd-43cc-8977-52e923a8a604/16-9/1024" />
+  </programme>
+  <programme start="20211005220000 +0000" stop="20211006023000 +0000" channel="btsport2.uk">
+    <title lang="en">Live: PSA Squash - US Open</title>
+    <desc lang="en">PSA Squash action from the Women's and Men's Semi-Finals at the US Open.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/e7c7d09e-a949-40ca-8a7b-b058d493983b/16-9/1024" />
+  </programme>
+  <programme start="20211006023000 +0000" stop="20211006030000 +0000" channel="btsport2.uk">
+    <title lang="en">Fury v Wilder: The Trilogy</title>
+    <desc lang="en">Rise Of The Rivalry. An epic 12th round, an incredible rise from the canvas, a controversial draw, a devastating win and a lot of verbal. This is the story of the first two fights.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/a5637e3f-77fc-4277-ab89-a0fc77f89888/16-9/1024" />
+  </programme>
+  <programme start="20211006030000 +0000" stop="20211006033000 +0000" channel="btsport2.uk">
+    <title lang="en">Fury v Wilder: The Trilogy</title>
+    <desc lang="en">Fury Road - A Tyson Fury Tour. Hop onboard the Tyson Fury double decker bus as we drive around Manchester, meeting the people who shaped the Tyson Fury story.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/390d741e-7155-4d1f-8dbe-ad20c70a96d0/16-9/1024" />
+  </programme>
+  <programme start="20211006033000 +0000" stop="20211006040000 +0000" channel="btsport2.uk">
+    <title lang="en">Extreme E - Electric Odyssey</title>
+    <desc lang="en">Extreme E - Electric Odyssey bring racing to some of the most remote corners of the planet to highlight climate change, whilst showcasing the performance of all-electric SUVs.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/3cd456e8-0323-41fd-927d-f5cabca98853/16-9/1024" />
+  </programme>
+  <programme start="20211006040000 +0000" stop="20211006050000 +0000" channel="btsport2.uk">
+    <title lang="en">The Aussie Rules Show</title>
+    <desc lang="en">The Aussie Rules Show presented by Ollie Geale presents all the latest news, views and analysis of the game. Plus, appearances from special guests every week.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/aa491e45-15bd-4f7a-9ca1-1041ca1e5c5b/16-9/1024" />
+  </programme>
+  <programme start="20211006050000 +0000" stop="20211006060000 +0000" channel="btsport2.uk">
+    <title lang="en">DTM Highlights: Germany</title>
+    <desc lang="en">Action from the latest round of the DTM season at the Hockenheimring in Germany.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/199ed483-8211-41da-af9a-60437b475a6d/16-9/1024" />
+  </programme>
+  <programme start="20211006060000 +0000" stop="20211006083000 +0000" channel="btsport2.uk">
+    <title lang="en">WWE Monday Night Raw</title>
+    <desc lang="en">Watch Drew McIntyre, Asuka, Kofi Kingston and Charlotte Flair and more of your favourite WWE Superstars face-off inside the ring on WWE Monday Night Raw.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/81b2d91c-9193-45bf-95d2-ebb9af2cc81c/16-9/1024" />
+  </programme>
+  <programme start="20211006083000 +0000" stop="20211006090000 +0000" channel="btsport2.uk">
+    <title lang="en">ESPN FC</title>
+    <desc lang="en">A round-up of the latest news from the world of football at the ESPN studios in Bristol, Connecticut.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/9e35b4ab-9fec-4ef4-af9e-9c8f13f57308/16-9/1024" />
+  </programme>
+  <programme start="20211006090000 +0000" stop="20211006103000 +0000" channel="btsport2.uk">
+    <title lang="en">Wealdstone v Solihull Moors</title>
+    <desc lang="en">Wealdstone take on Solihull Moors in the Vanarama National League at Grosvenor Vale.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/a4e3c872-732f-4e0a-82c6-e23bce48110d/16-9/1024" />
+  </programme>
+  <programme start="20211006103000 +0000" stop="20211006113000 +0000" channel="btsport2.uk">
+    <title lang="en">Moto3: The Americas</title>
+    <desc lang="en">Coverage of the Grand Prix of The Americas Moto3 race.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/577c810e-c4c4-4a54-ab5b-cfac3855910a/16-9/1024" />
+  </programme>
+  <programme start="20211006113000 +0000" stop="20211006123000 +0000" channel="btsport2.uk">
+    <title lang="en">Moto2: The Americas</title>
+    <desc lang="en">Coverage of the Grand Prix of The Americas Moto2 race.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/438c86b7-c1f5-4e9a-bf43-0ae528efafb6/16-9/1024" />
+  </programme>
+  <programme start="20211006123000 +0000" stop="20211006133000 +0000" channel="btsport2.uk">
+    <title lang="en">MotoGP: The Americas</title>
+    <desc lang="en">Coverage of the Grand Prix of The Americas MotoGP race.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/d867b191-934c-4049-9e17-c9340cbb98ca/16-9/1024" />
+  </programme>
+  <programme start="20211006133000 +0000" stop="20211006140000 +0000" channel="btsport2.uk">
+    <title lang="en">MotoGP Chequered Flag</title>
+    <desc lang="en">Post-race show featuring analysis, highlights and interviews with all the key riders following the Grand Prix of The Americas. Plus, a look behind the scenes with the team bosses.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/7149941e-37c3-4990-9036-9f560511fa1e/16-9/1024" />
+  </programme>
+  <programme start="20211006140000 +0000" stop="20211006160000 +0000" channel="btsport2.uk">
+    <title lang="en">UK Pro League Tennis</title>
+    <desc lang="en">Action from the UK Pro League Finals, the only domestic league for the top UK Tennis Professionals.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/7c98e5f0-74c0-4da7-98dc-18c989a8c907/16-9/1024" />
+  </programme>
+  <programme start="20211006160000 +0000" stop="20211006170000 +0000" channel="btsport2.uk">
+    <title lang="en">WWE SmackDown Highlights</title>
+    <desc lang="en">All the best highlights from the latest episode of WWE Friday Night SmackDown.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/bae44188-7fb1-44c5-a03b-fcb2f521be01/16-9/1024" />
+  </programme>
+  <programme start="20211006170000 +0000" stop="20211006173000 +0000" channel="btsport2.uk">
+    <title lang="en">Badminton Unlimited</title>
+    <desc lang="en">Catch up on all the latest news and information from the world of badminton.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/65087aef-ebc6-424f-bf48-4270113a9570/16-9/1024" />
+  </programme>
+  <programme start="20211006173000 +0000" stop="20211006183000 +0000" channel="btsport2.uk">
+    <title lang="en">FIM Speedway Highlights</title>
+    <desc lang="en">The best of the action from Round 10 of the FIM Speedway in Poland.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/e2031777-fdc8-4825-bd72-28848964e144/16-9/1024" />
+  </programme>
+  <programme start="20211006183000 +0000" stop="20211006193000 +0000" channel="btsport2.uk">
+    <title lang="en">FIM Speedway Highlights</title>
+    <desc lang="en">The best of the action from Round 11 of the FIM Speedway in Poland.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/22519783-2bc6-4e65-8535-fbca0200efd9/16-9/1024" />
+  </programme>
+  <programme start="20211006193000 +0000" stop="20211006203000 +0000" channel="btsport2.uk">
+    <title lang="en">MotoGP Highlights: The Americas</title>
+    <desc lang="en">MotoGP highlights from the Grand Prix of The Americas.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/6304672c-37ac-4e34-a0d8-abb944444a5a/16-9/1024" />
+  </programme>
+  <programme start="20211006203000 +0000" stop="20211006220000 +0000" channel="btsport2.uk">
+    <title lang="en">PSA Squash - US Open</title>
+    <desc lang="en">PSA Squash action from the Women's and Men's Semi-Finals at the US Open.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/7026c020-6a9c-49ae-ad80-cca7d6994153/16-9/1024" />
+  </programme>
+  <programme start="20211006220000 +0000" stop="20211006223000 +0000" channel="btsport2.uk">
+    <title lang="en">Speed Catamarans GC32</title>
+    <desc lang="en">All the latest highlights from Round Two of the Speed Catamarans GC32 circuit.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/9c7452d5-e1df-43ae-9911-12839a53ebf9/16-9/1024" />
+  </programme>
+  <programme start="20211006223000 +0000" stop="20211006233000 +0000" channel="btsport2.uk">
+    <title lang="en">British RallyCross Highlights</title>
+    <desc lang="en">The best of the action from round four of the British Rallycross Championship at Knockhill.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/d5403844-6ce4-4e08-a986-f8ed36acee0e/16-9/1024" />
+  </programme>
+  <programme start="20211006233000 +0000" stop="20211007023000 +0000" channel="btsport2.uk">
+    <title lang="en">Live CFL: Ottawa @ Toronto</title>
+    <desc lang="en">Canadian Football League action as Toronto Argonauts and Ottawa Redblacks meet at BMO Field.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/87f968e7-18af-488f-8bc9-16a01284ba2f/16-9/1024" />
+  </programme>
+  <programme start="20211007023000 +0000" stop="20211007030000 +0000" channel="btsport2.uk">
+    <title lang="en">Speed Catamarans GC32</title>
+    <desc lang="en">All the latest highlights from Round Two of the Speed Catamarans GC32 circuit.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/9c7452d5-e1df-43ae-9911-12839a53ebf9/16-9/1024" />
+  </programme>
+  <programme start="20211007030000 +0000" stop="20211007040000 +0000" channel="btsport2.uk">
+    <title lang="en">FIM Speedway Highlights</title>
+    <desc lang="en">The best of the action from Round 10 of the FIM Speedway in Poland.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/e2031777-fdc8-4825-bd72-28848964e144/16-9/1024" />
+  </programme>
+  <programme start="20211007040000 +0000" stop="20211007050000 +0000" channel="btsport2.uk">
+    <title lang="en">FIM Speedway Highlights</title>
+    <desc lang="en">The best of the action from Round 11 of the FIM Speedway in Poland.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/22519783-2bc6-4e65-8535-fbca0200efd9/16-9/1024" />
+  </programme>
+  <programme start="20211007050000 +0000" stop="20211007051500 +0000" channel="btsport2.uk">
+    <title lang="en">UEFA Champions League Goals Reload</title>
+    <desc lang="en">The pick of the goals from matchday two of the 2021/22 UEFA Champions League as the group stages continued.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/397ac811-2632-409a-9171-ac354d77ade4/16-9/1024" />
+  </programme>
+  <programme start="20211007051500 +0000" stop="20211007053000 +0000" channel="btsport2.uk">
+    <title lang="en">BT Sport Goals Reload</title>
+    <desc lang="en">We bring you the greatest goals from around the world this week, including action from the Premier League, Serie A and Ligue 1.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/6fc066a6-2ab4-4d97-8dfb-eeb93e804c95/16-9/1024" />
+  </programme>
+  <programme start="20211007053000 +0000" stop="20211007054500 +0000" channel="btsport2.uk">
+    <title lang="en">Premier League Reload</title>
+    <desc lang="en">A whirlwind catch-up from the weekend's Premier League matches, featuring all the goals and major talking points from Manchester United v Everton and Chelsea v Southampton.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/328fc175-d842-4f8d-83d3-e20654233634/16-9/1024" />
+  </programme>
+  <programme start="20211007054500 +0000" stop="20211007061500 +0000" channel="btsport2.uk">
+    <title lang="en">Premier League World</title>
+    <desc lang="en">In this week's episode we catch up with one of the games great mavericks, Ian Holloway. He talks candidly about his struggles on and off the pitch and his time at Blackpool.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/640559da-2af9-43a8-8762-5c716332e12e/16-9/1024" />
+  </programme>
+  <programme start="20211007061500 +0000" stop="20211007064500 +0000" channel="btsport2.uk">
+    <title lang="en">ESPN FC</title>
+    <desc lang="en">A round-up of the latest news from the world of football at the ESPN studios in Bristol, Connecticut.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/1f993897-6762-48b4-bcdb-24cb614c5e4f/16-9/1024" />
+  </programme>
+  <programme start="20211007064500 +0000" stop="20211007090000 +0000" channel="btsport2.uk">
+    <title lang="en">Live European Cricket Championship</title>
+    <desc lang="en">Action from the European Cricket Championship as 15 nations battle it out in a T10 format tournament in Malaga, Spain.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/799e617c-bc0b-4b60-897d-77ec2bd276a2/16-9/1024" />
+  </programme>
+  <programme start="20211007090000 +0000" stop="20211007110000 +0000" channel="btsport2.uk">
+    <title lang="en">Live European Cricket Championship</title>
+    <desc lang="en">Action from the European Cricket Championship as 15 nations battle it out in a T10 format tournament in Malaga, Spain.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/d9e25bb0-f2df-46d0-acd4-22c39cdbc459/16-9/1024" />
+  </programme>
+  <programme start="20211007110000 +0000" stop="20211007130000 +0000" channel="btsport2.uk">
+    <title lang="en">Live European Cricket Championship</title>
+    <desc lang="en">Action from the European Cricket Championship as 15 nations battle it out in a T10 format tournament in Malaga, Spain.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/6ca1e6fd-5e27-48d4-9ed3-2ece82603439/16-9/1024" />
+  </programme>
+  <programme start="20211007130000 +0000" stop="20211007150000 +0000" channel="btsport2.uk">
+    <title lang="en">Live European Cricket Championship</title>
+    <desc lang="en">Action from the European Cricket Championship as 15 nations battle it out in a T10 format tournament in Malaga, Spain.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/4b248014-5fe0-416c-9f25-03cb60849ddd/16-9/1024" />
+  </programme>
+  <programme start="20211007150000 +0000" stop="20211007170000 +0000" channel="btsport2.uk">
+    <title lang="en">Live European Cricket Championship</title>
+    <desc lang="en">Action from the European Cricket Championship as 15 nations battle it out in a T10 format tournament in Malaga, Spain.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/6b3b5774-98d7-499e-872d-5f09a80f90d3/16-9/1024" />
+  </programme>
+  <programme start="20211007170000 +0000" stop="20211007173000 +0000" channel="btsport2.uk">
+    <title lang="en">Fury v Wilder: The Trilogy</title>
+    <desc lang="en">Rise Of The Rivalry. An epic 12th round, an incredible rise from the canvas, a controversial draw, a devastating win and a lot of verbal. This is the story of the first two fights.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/a5637e3f-77fc-4277-ab89-a0fc77f89888/16-9/1024" />
+  </programme>
+  <programme start="20211007173000 +0000" stop="20211007183000 +0000" channel="btsport2.uk">
+    <title lang="en">DTM Highlights: Germany</title>
+    <desc lang="en">Action from the latest round of the DTM season at the Hockenheimring in Germany.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/199ed483-8211-41da-af9a-60437b475a6d/16-9/1024" />
+  </programme>
+  <programme start="20211007183000 +0000" stop="20211007190000 +0000" channel="btsport2.uk">
+    <title lang="en">Serie A - Full Impact</title>
+    <desc lang="en">All the best moments from the latest action in Serie A, including Sassuolo v Inter, Fiorentina v Napoli and Atalanta v AC Milan.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/3e645bee-5033-4bd3-bde6-0c357d47b178/16-9/1024" />
+  </programme>
+  <programme start="20211007190000 +0000" stop="20211007200000 +0000" channel="btsport2.uk">
+    <title lang="en">Fury v Wilder: The Trilogy</title>
+    <desc lang="en">A preview of Tyson Fury's trilogy bout with Deontay Wilder.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/1413d5aa-1e80-42df-b85b-da415b004f38/16-9/1024" />
+  </programme>
+  <programme start="20211007200000 +0000" stop="20211007210000 +0000" channel="btsport2.uk">
+    <title lang="en">Fury v Wilder III - Countdown</title>
+    <desc lang="en">The Countdown is on to Tyson Fury's trilogy bout with Deontay Wilder in Las Vegas.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/d16c5b61-c824-4f3a-903d-da1b9a0e574d/16-9/1024" />
+  </programme>
+  <programme start="20211007210000 +0000" stop="20211007213000 +0000" channel="btsport2.uk">
+    <title lang="en">BT Sport Reload</title>
+    <desc lang="en">The best bits from BT Sport over the last week, including exclusive interviews, the best action and so much more.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/7d75d0e0-917e-47c8-b1d1-ad26849d9c2a/16-9/1024" />
+  </programme>
+  <programme start="20211007213000 +0000" stop="20211007233000 +0000" channel="btsport2.uk">
+    <title lang="en">UK Pro League Tennis</title>
+    <desc lang="en">Action from the UK Pro League Finals, the only domestic league for the top UK Tennis Professionals.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/7c98e5f0-74c0-4da7-98dc-18c989a8c907/16-9/1024" />
+  </programme>
+  <programme start="20211001000000 +0000" stop="20211001003000 +0000" channel="btsport3.uk">
+    <title lang="en">West Ham v Rapid Vienna</title>
+    <desc lang="en">Action from the UEFA Europa League as West Ham host Austrian side Rapid Vienna at London Stadium.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/47fdf78a-9b91-4ff0-8849-bf4518a8c6e6/16-9/1024" />
+  </programme>
+  <programme start="20211001003000 +0000" stop="20211001010000 +0000" channel="btsport3.uk">
+    <title lang="en">Celtic v Bayer Leverkusen</title>
+    <desc lang="en">UEFA Europa League action as Celtic host German side Bayer Leverkusen at Celtic Park.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/0fad8038-fdcc-4ebb-b746-8fa3c3b81b05/16-9/1024" />
+  </programme>
+  <programme start="20211001010000 +0000" stop="20211001013000 +0000" channel="btsport3.uk">
+    <title lang="en">Tottenham v NS Mura</title>
+    <desc lang="en">Action from the UEFA Europa Conference League as Tottenham and NS Mura face-off at the Tottenham Hotspur Stadium.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/a1caf511-d940-44dd-9171-c224b1aeddd3/16-9/1024" />
+  </programme>
+  <programme start="20211001013000 +0000" stop="20211001020000 +0000" channel="btsport3.uk">
+    <title lang="en">Real Sociedad v Monaco</title>
+    <desc lang="en">Action from the UEFA Europa League as Real Sociedad host Monaco at Reale Arena.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/049362ae-6ff1-4c49-8e07-d4bae35bb745/16-9/1024" />
+  </programme>
+  <programme start="20211001020000 +0000" stop="20211001023000 +0000" channel="btsport3.uk">
+    <title lang="en">Zorya Luhansk v Roma</title>
+    <desc lang="en">Action from the UEFA Europa League as Ukrainian side Zorya Luhansk host Roma at Slavutych-Arena.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/035edd40-836b-46a0-826b-e4ab7ca94348/16-9/1024" />
+  </programme>
+  <programme start="20211001023000 +0000" stop="20211001030000 +0000" channel="btsport3.uk">
+    <title lang="en">Marseille v Galatasaray</title>
+    <desc lang="en">Marseille and Galatasaray face-off in the UEFA Europa League at Stade Velodrome.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/82b7ce17-47a2-4a3b-b67e-c65054bad9e1/16-9/1024" />
+  </programme>
+  <programme start="20211001030000 +0000" stop="20211001033000 +0000" channel="btsport3.uk">
+    <title lang="en">DIY Pundit</title>
+    <desc lang="en">Ugo Monye is joined by Ian Stone, Mark Simmons, Danny Ward, Hal Cruttenden, Laura Lexx, Jess Fostekew and Jason Jared to give an alternative commentary on this week's action.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/e299bb9e-7fff-4658-980b-fc3abdb2af55/16-9/1024" />
+  </programme>
+  <programme start="20211001033000 +0000" stop="20211001040000 +0000" channel="btsport3.uk">
+    <title lang="en">Ligue 1 Show</title>
+    <desc lang="en">A look ahead to the upcoming football in the top flight of France, including Rennes v PSG, Lille v Marseille and Monaco v Bordeaux.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/83b7aec3-2fdb-4de7-87a5-eef440bca0aa/16-9/1024" />
+  </programme>
+  <programme start="20211001040000 +0000" stop="20211001043000 +0000" channel="btsport3.uk">
+    <title lang="en">Inside AFL</title>
+    <desc lang="en">Josh Gabelich hosts Inside AFL as we look at all the latest news and action from the Australian Football League.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/2ea0bf00-298f-4cd6-a1ff-e7793ea7a26b/16-9/1024" />
+  </programme>
+  <programme start="20211001043000 +0000" stop="20211001050000 +0000" channel="btsport3.uk">
+    <title lang="en">Serie A - Full Impact</title>
+    <desc lang="en">All the best moments from the latest action in Serie A, including Inter v Atalanta, Spezia v AC Milan and Lazio v Roma.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/e1fe61c5-b5b8-4398-9bdb-5f3be596d8ca/16-9/1024" />
+  </programme>
+  <programme start="20211001050000 +0000" stop="20211001053000 +0000" channel="btsport3.uk">
+    <title lang="en">Real Sociedad v Monaco</title>
+    <desc lang="en">Action from the UEFA Europa League as Real Sociedad host Monaco at Reale Arena.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/049362ae-6ff1-4c49-8e07-d4bae35bb745/16-9/1024" />
+  </programme>
+  <programme start="20211001053000 +0000" stop="20211001060000 +0000" channel="btsport3.uk">
+    <title lang="en">Zorya Luhansk v Roma</title>
+    <desc lang="en">Action from the UEFA Europa League as Ukrainian side Zorya Luhansk host Roma at Slavutych-Arena.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/035edd40-836b-46a0-826b-e4ab7ca94348/16-9/1024" />
+  </programme>
+  <programme start="20211001060000 +0000" stop="20211001070000 +0000" channel="btsport3.uk">
+    <title lang="en">WWE Raw Highlights</title>
+    <desc lang="en">All the best highlights from the latest WWE Raw.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/dd55f55a-58b3-4c41-9a6d-2b5a6d822392/16-9/1024" />
+  </programme>
+  <programme start="20211001070000 +0000" stop="20211001080000 +0000" channel="btsport3.uk">
+    <title lang="en">WWE NXT Highlights</title>
+    <desc lang="en">Highlights from the latest episode of WWE NXT.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/bee71ea3-2431-4f17-9de6-d257c34a744b/16-9/1024" />
+  </programme>
+  <programme start="20211001080000 +0000" stop="20211001083000 +0000" channel="btsport3.uk">
+    <title lang="en">Marseille v Galatasaray</title>
+    <desc lang="en">Marseille and Galatasaray face-off in the UEFA Europa League at Stade Velodrome.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/82b7ce17-47a2-4a3b-b67e-c65054bad9e1/16-9/1024" />
+  </programme>
+  <programme start="20211001083000 +0000" stop="20211001090000 +0000" channel="btsport3.uk">
+    <title lang="en">Legia Warsaw v Leicester City</title>
+    <desc lang="en">Action from Group C in the UEFA Europa League as Legia Warsaw and Leicester face-off at Polish Army Stadium.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/5e6c31a2-2aff-4cac-a39f-2dddc2c0274a/16-9/1024" />
+  </programme>
+  <programme start="20211001090000 +0000" stop="20211001093000 +0000" channel="btsport3.uk">
+    <title lang="en">West Ham v Rapid Vienna</title>
+    <desc lang="en">Action from the UEFA Europa League as West Ham host Austrian side Rapid Vienna at London Stadium.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/47fdf78a-9b91-4ff0-8849-bf4518a8c6e6/16-9/1024" />
+  </programme>
+  <programme start="20211001093000 +0000" stop="20211001103000 +0000" channel="btsport3.uk">
+    <title lang="en">UEFA Europa League Highlights Show</title>
+    <desc lang="en">All the best action from matchday two of the Europa League including highlights from Sparta Prague v Rangers, West Ham v R Vienna, Celtic v Leverkusen and Legia Warsaw v Leicester.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/547e4d3e-bc58-43ac-96a9-573afcc6482c/16-9/1024" />
+  </programme>
+  <programme start="20211001103000 +0000" stop="20211001113000 +0000" channel="btsport3.uk">
+    <title lang="en">Live WRC: Rally Finland</title>
+    <desc lang="en">Action from SSI Harju 1, the latest stage of the World Rally Championship in Finland.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/f99359ab-32f7-419e-9da7-6bf6f6ecbc0e/16-9/1024" />
+  </programme>
+  <programme start="20211001113000 +0000" stop="20211001120000 +0000" channel="btsport3.uk">
+    <title lang="en">Tottenham v NS Mura</title>
+    <desc lang="en">Action from the UEFA Europa Conference League as Tottenham and NS Mura face-off at the Tottenham Hotspur Stadium.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/a1caf511-d940-44dd-9171-c224b1aeddd3/16-9/1024" />
+  </programme>
+  <programme start="20211001120000 +0000" stop="20211001140000 +0000" channel="btsport3.uk">
+    <title lang="en">European Cricket Championship</title>
+    <desc lang="en">Action from the European Cricket Championship as 15 nations battle it out in a T10 format tournament in Malaga, Spain.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/8dc9b193-01a2-4d15-8109-265616e7b181/16-9/1024" />
+  </programme>
+  <programme start="20211001140000 +0000" stop="20211001150000 +0000" channel="btsport3.uk">
+    <title lang="en">Live WRC: Rally Finland</title>
+    <desc lang="en">Action from Stage 4 of WRC Rally Finland in Assamaki, part of the World Rally Championship.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/fafa1c1a-f80f-4ab3-9905-7048eee2690b/16-9/1024" />
+  </programme>
+  <programme start="20211001150000 +0000" stop="20211001153000 +0000" channel="btsport3.uk">
+    <title lang="en">Ligue 1 Show</title>
+    <desc lang="en">A look ahead to the upcoming football in the top flight of France, including Rennes v PSG, Lille v Marseille and Monaco v Bordeaux.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/83b7aec3-2fdb-4de7-87a5-eef440bca0aa/16-9/1024" />
+  </programme>
+  <programme start="20211001153000 +0000" stop="20211001154500 +0000" channel="btsport3.uk">
+    <title lang="en">What I Wore: Kyle Walker</title>
+    <desc lang="en">Manchester City defender Kyle Walker describes his passion for football via the shirts which have defined his life.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/ce31d94c-8149-4dce-a461-533d9652d669/16-9/1024" />
+  </programme>
+  <programme start="20211001154500 +0000" stop="20211001160000 +0000" channel="btsport3.uk">
+    <title lang="en">What I Wore: Paul Gascoigne</title>
+    <desc lang="en">Former England, Tottenham and Lazio star Paul Gascoigne describes his passion for football via the shirts which have defined his life.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/01e3df15-f205-48c3-954d-87a7c38240d4/16-9/1024" />
+  </programme>
+  <programme start="20211001160000 +0000" stop="20211001163000 +0000" channel="btsport3.uk">
+    <title lang="en">Premier League Match Pack</title>
+    <desc lang="en">A preview of this weekend's top flight action, featuring key stats and insight into Manchester United v Everton, Chelsea v Southampton and Liverpool v Man City.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/7149464e-2180-48b5-b429-6e44d7a2dabb/16-9/1024" />
+  </programme>
+  <programme start="20211001163000 +0000" stop="20211001200000 +0000" channel="btsport3.uk">
+    <title lang="en">Live: FIM Speedway Grand Prix</title>
+    <desc lang="en">Action from Round 10 of the FIM Speedway Grand Prix in Torun, Poland.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/0cb22c32-daf0-4e48-aac4-24ca9b4a041b/16-9/1024" />
+  </programme>
+  <programme start="20211001200000 +0000" stop="20211001203000 +0000" channel="btsport3.uk">
+    <title lang="en">UEFA Champions League Magazine</title>
+    <desc lang="en">The latest news and updates from the UEFA Champions League.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/92f7d72e-1d0c-4222-805c-56cf5e1ad33b/16-9/1024" />
+  </programme>
+  <programme start="20211001203000 +0000" stop="20211001210000 +0000" channel="btsport3.uk">
+    <title lang="en">Fury v Wilder: The Trilogy</title>
+    <desc lang="en">Born To Fight: The Fury Dynasty. John Fury invites us into his world as he reveals the surroundings and nurturing which led to him raising the heavyweight champion of the world.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/732418f5-e985-42c8-b47f-27d34f6776a9/16-9/1024" />
+  </programme>
+  <programme start="20211001210000 +0000" stop="20211001220000 +0000" channel="btsport3.uk">
+    <title lang="en">UEFA Champions League Review</title>
+    <desc lang="en">A round-up of all the latest action from matchday two of the UEFA Champions League group stages, including Chelsea v Zenit, Liverpool v AC Milan and Young Boys v Man Utd.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/cb69cbea-4a9f-49e0-8fcc-7506c54e64cc/16-9/1024" />
+  </programme>
+  <programme start="20211001220000 +0000" stop="20211001223000 +0000" channel="btsport3.uk">
+    <title lang="en">WRC Highlights: Rally Finland</title>
+    <desc lang="en">All the highlights from day one of the WRC Rally Finland, part of the World Rally Championship season.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/fe51ee8e-92de-4f20-827f-fd5e67394101/16-9/1024" />
+  </programme>
+  <programme start="20211001223000 +0000" stop="20211001233000 +0000" channel="btsport3.uk">
+    <title lang="en">Nitro Rallycross Highlights</title>
+    <desc lang="en">All the latest action from the Nitro Rallycross.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/b140618b-33c6-441e-8b11-68d9051908ea/16-9/1024" />
+  </programme>
+  <programme start="20211001233000 +0000" stop="20211002010000 +0000" channel="btsport3.uk">
+    <title lang="en">Bristol Bears v Bath</title>
+    <desc lang="en">Action from the Gallagher Premiership as Bristol Bears and Bath face-off at Ashton Gate.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/40670393-df0f-4eec-a5d3-b0f53c020b37/16-9/1024" />
+  </programme>
+  <programme start="20211002010000 +0000" stop="20211002020000 +0000" channel="btsport3.uk">
+    <title lang="en">Lens v Reims</title>
+    <desc lang="en">Lens meet Reims in Ligue 1 at Stade Bollaert-Delelis.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/852eef74-7d91-441b-85c1-6f1d7839df24/16-9/1024" />
+  </programme>
+  <programme start="20211002020000 +0000" stop="20211002050000 +0000" channel="btsport3.uk">
+    <title lang="en">Live CFL: Winnipeg @ BC</title>
+    <desc lang="en">Action from the CFL as BC Lions and Winnipeg Blue Bombers face-off at BC Place.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/996fe616-d9bd-4e21-9f71-0b0090188e54/16-9/1024" />
+  </programme>
+  <programme start="20211002050000 +0000" stop="20211002051500 +0000" channel="btsport3.uk">
+    <title lang="en">MotoGP: ICYMI</title>
+    <desc lang="en">MotoGP action from the Grand Prix of The Americas.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/ad450ecf-aaf3-4e92-a653-bc709c85b459/16-9/1024" />
+  </programme>
+  <programme start="20211002051500 +0000" stop="20211002054500 +0000" channel="btsport3.uk">
+    <title lang="en">UEFA Champions League Magazine</title>
+    <desc lang="en">The latest news and updates from the UEFA Champions League.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/92f7d72e-1d0c-4222-805c-56cf5e1ad33b/16-9/1024" />
+  </programme>
+  <programme start="20211002054500 +0000" stop="20211002061500 +0000" channel="btsport3.uk">
+    <title lang="en">Premier League Match Pack</title>
+    <desc lang="en">A preview of this weekend's top flight action, featuring key stats and insight into Manchester United v Everton, Chelsea v Southampton and Liverpool v Man City.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/7149464e-2180-48b5-b429-6e44d7a2dabb/16-9/1024" />
+  </programme>
+  <programme start="20211002061500 +0000" stop="20211002064500 +0000" channel="btsport3.uk">
+    <title lang="en">Premier League Preview</title>
+    <desc lang="en">A look ahead to all the upcoming action in the Premier League, including Manchester United v Everton, Chelsea v Southampton and Liverpool v Man City.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/be768044-8f6e-4d51-8eb8-760c4dcdfb77/16-9/1024" />
+  </programme>
+  <programme start="20211002064500 +0000" stop="20211002070000 +0000" channel="btsport3.uk">
+    <title lang="en">MotoGP: ICYMI</title>
+    <desc lang="en">MotoGP action from the Grand Prix of The Americas.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/ad450ecf-aaf3-4e92-a653-bc709c85b459/16-9/1024" />
+  </programme>
+  <programme start="20211002070000 +0000" stop="20211002123000 +0000" channel="btsport3.uk">
+    <title lang="en">Live Badminton: BWF Sudirman Cup</title>
+    <desc lang="en">Badminton action from the semi finals of the BWF Sudirman Cup.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/136c5c81-c15c-4b02-aadb-efc6f3b3b034/16-9/1024" />
+  </programme>
+  <programme start="20211002123000 +0000" stop="20211002130000 +0000" channel="btsport3.uk">
+    <title lang="en">Badminton Unlimited</title>
+    <desc lang="en">Catch up on all the latest news and information from the world of badminton.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/e9cbf5b7-061c-4be3-b6aa-bf7b944a9653/16-9/1024" />
+  </programme>
+  <programme start="20211002130000 +0000" stop="20211002133000 +0000" channel="btsport3.uk">
+    <title lang="en">DIY Pundit</title>
+    <desc lang="en">Ugo Monye is joined by Ian Stone, Mark Simmons, Danny Ward, Hal Cruttenden, Laura Lexx, Jess Fostekew and Jason Jared to give an alternative commentary on this week's action.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/e299bb9e-7fff-4658-980b-fc3abdb2af55/16-9/1024" />
+  </programme>
+  <programme start="20211002133000 +0000" stop="20211002161500 +0000" channel="btsport3.uk">
+    <title lang="en">Live: Leicester Tigers v Saracens</title>
+    <desc lang="en">Leicester Tigers host Saracens in the Gallagher Premiership at Mattioli Woods Welford Road.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/57d49bf5-d183-46f0-8d79-f30bcd45f1cb/16-9/1024" />
+  </programme>
+  <programme start="20211002161500 +0000" stop="20211002163000 +0000" channel="btsport3.uk">
+    <title lang="en">BT Sport Reload</title>
+    <desc lang="en">The best bits from BT Sport over the last week, including exclusive interviews, the best action and so much more.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/cdfdd4d3-f77a-498f-bf47-3fd2b541754f/16-9/1024" />
+  </programme>
+  <programme start="20211002163000 +0000" stop="20211002200000 +0000" channel="btsport3.uk">
+    <title lang="en">Live: FIM Speedway Grand Prix</title>
+    <desc lang="en">Action from Round 11 of the FIM Speedway Grand Prix in Torun, Poland.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/9b13f4df-d29a-4a43-b02b-972733c1aa51/16-9/1024" />
+  </programme>
+  <programme start="20211002200000 +0000" stop="20211002213000 +0000" channel="btsport3.uk">
+    <title lang="en">WWE Friday Night SmackDown</title>
+    <desc lang="en">See all your favourite WWE SmackDown Superstars deliver edge-of-your-seat action, including Roman Reigns, Sasha Banks, Seth Rollins and Bianca Belair.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/b558ee74-8895-498f-ab3a-78e8166fe67d/16-9/1024" />
+  </programme>
+  <programme start="20211002213000 +0000" stop="20211002220000 +0000" channel="btsport3.uk">
+    <title lang="en">WRC Highlights: Rally Finland</title>
+    <desc lang="en">All the highlights from day two of the WRC Rally Finland, part of the World Rally Championship season.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/27c8fd23-d5ba-4626-8b79-1789e3840b50/16-9/1024" />
+  </programme>
+  <programme start="20211002220000 +0000" stop="20211003010000 +0000" channel="btsport3.uk">
+    <title lang="en">Live CFB: Florida @ Kentucky</title>
+    <desc lang="en">College football action as Kentucky Wildcats host Florida Gators at Kroger Field.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/ea963265-7901-4e9f-9648-ed15269a19b2/16-9/1024" />
+  </programme>
+  <programme start="20211003010000 +0000" stop="20211003043000 +0000" channel="btsport3.uk">
+    <title lang="en">Live CFB: Auburn @ LSU</title>
+    <desc lang="en">College football action as LSU Tigers and Auburn Tigers face-off at Tiger Stadium.</desc>
+  </programme>
+  <programme start="20211003043000 +0000" stop="20211003050000 +0000" channel="btsport3.uk">
+    <title lang="en">UEFA Champions League Magazine</title>
+    <desc lang="en">The latest news and updates from the UEFA Champions League.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/92f7d72e-1d0c-4222-805c-56cf5e1ad33b/16-9/1024" />
+  </programme>
+  <programme start="20211003050000 +0000" stop="20211003063000 +0000" channel="btsport3.uk">
+    <title lang="en">Leicester Tigers v Saracens</title>
+    <desc lang="en">Leicester Tigers host Saracens in the Gallagher Premiership at Mattioli Woods Welford Road.</desc>
+  </programme>
+  <programme start="20211003063000 +0000" stop="20211003073000 +0000" channel="btsport3.uk">
+    <title lang="en">FIM SidecarCross</title>
+    <desc lang="en">Highlights from the latest round of the FIM SidecarCross World Championship in Estonia.</desc>
+  </programme>
+  <programme start="20211003073000 +0000" stop="20211003080000 +0000" channel="btsport3.uk">
+    <title lang="en">Kite Masters</title>
+    <desc lang="en">The series that flies you around the world, together with the very best athletes from one of the most exciting, fast, extreme and stylish sports... Kiteboarding.</desc>
+  </programme>
+  <programme start="20211003080000 +0000" stop="20211003090000 +0000" channel="btsport3.uk">
+    <title lang="en">WWE Raw Highlights</title>
+    <desc lang="en">All the best highlights from the latest WWE Raw.</desc>
+  </programme>
+  <programme start="20211003090000 +0000" stop="20211003093000 +0000" channel="btsport3.uk">
+    <title lang="en">National League Highlights</title>
+    <desc lang="en">The best of the action from matchday nine in the Vanarama National League, including Aldershot Town v Wrexham, Chesterfield v Yeovil Town and Barnet v Halifax Town.</desc>
+  </programme>
+  <programme start="20211003093000 +0000" stop="20211003103000 +0000" channel="btsport3.uk">
+    <title lang="en">Torino v Juventus</title>
+    <desc lang="en">Action from the Derby della Mole as Torino and Juventus face-off in Serie A at Olympic Grande Torino Stadium.</desc>
+  </programme>
+  <programme start="20211003103000 +0000" stop="20211003123000 +0000" channel="btsport3.uk">
+    <title lang="en">Live: Bologna v Lazio</title>
+    <desc lang="en">Lazio travel to Stadio Renato Dall'Ara to take on Bologna in Serie A.</desc>
+  </programme>
+  <programme start="20211003123000 +0000" stop="20211003130000 +0000" channel="btsport3.uk">
+    <title lang="en">UEFA Champions League Magazine</title>
+    <desc lang="en">The latest news and updates from the UEFA Champions League.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/0ddd62b7-1738-499a-b9e0-10f32bfa1aad/16-9/1024" />
+  </programme>
+  <programme start="20211003130000 +0000" stop="20211003150000 +0000" channel="btsport3.uk">
+    <title lang="en">Live: Sampdoria v Udinese</title>
+    <desc lang="en">Action from the top flight in Italy as Sampdoria and Udinese go toe-to-toe at Stadio Luigi Ferraris.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/48ef6cad-ba18-41da-a33f-846d59f85755/16-9/1024" />
+  </programme>
+  <programme start="20211003150000 +0000" stop="20211003160000 +0000" channel="btsport3.uk">
+    <title lang="en">Sassuolo v Inter</title>
+    <desc lang="en">Sassuolo host champions Inter in Serie A at MAPEI Stadium - Citta del Tricolore.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/4e356ff6-c6ca-4984-afab-1d531c3977a7/16-9/1024" />
+  </programme>
+  <programme start="20211003160000 +0000" stop="20211003180000 +0000" channel="btsport3.uk">
+    <title lang="en">Live: Fiorentina v Napoli</title>
+    <desc lang="en">Action from Serie A as Fiorentina welcome Napoli to the Stadio Artemio Franchi.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/29728b7f-78e7-4f06-96b7-bee86344af95/16-9/1024" />
+  </programme>
+  <programme start="20211003180000 +0000" stop="20211003181500 +0000" channel="btsport3.uk">
+    <title lang="en">BHM: The Arthur Wharton Story</title>
+    <desc lang="en">A documentary detailing the life and achievements of Arthur Wharton, Britain's first black professional footballer.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/9ebab37a-8431-4934-bfbb-d4d1ebe38465/16-9/1024" />
+  </programme>
+  <programme start="20211003181500 +0000" stop="20211003183000 +0000" channel="btsport3.uk">
+    <title lang="en">UEFA Europa League Goals Reload</title>
+    <desc lang="en">The pick of the goals from matchday two of the 2021/22 UEFA Europa League as the group stages continued.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/55b23570-6fe4-494a-a658-4079d1a25686/16-9/1024" />
+  </programme>
+  <programme start="20211003183000 +0000" stop="20211003204500 +0000" channel="btsport3.uk">
+    <title lang="en">Live: Saint-Etienne v Lyon</title>
+    <desc lang="en">Saint-Etienne and Lyon meet in Ligue 1 at Geoffroy Stadium. The hosts will be hoping to end a five-game losing streak.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/6df7919e-734d-4cfb-9396-02684b494db4/16-9/1024" />
+  </programme>
+  <programme start="20211003204500 +0000" stop="20211003234500 +0000" channel="btsport3.uk">
+    <title lang="en">UFC Fight Night - Santos v Walker</title>
+    <desc lang="en">Action from UFC Fight Night as Thiago Marreta Santos and Johnny Walker meet in the Octagon in Arizona. Kevin Holland v Kyle Daukas and Alex Oliveira v Niko Price also feature.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/dd6c8092-fdff-4b74-a2b7-b02e62e5f150/16-9/1024" />
+  </programme>
+  <programme start="20211003234500 +0000" stop="20211004000000 +0000" channel="btsport3.uk">
+    <title lang="en">What I Wore: Kyle Walker</title>
+    <desc lang="en">Manchester City defender Kyle Walker describes his passion for football via the shirts which have defined his life.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/ce31d94c-8149-4dce-a461-533d9652d669/16-9/1024" />
+  </programme>
+  <programme start="20211004000000 +0000" stop="20211004010000 +0000" channel="btsport3.uk">
+    <title lang="en">Bologna v Lazio</title>
+    <desc lang="en">Lazio travel to Stadio Renato Dall'Ara to take on Bologna in Serie A. Lazio have scored the most goals in the first half of games in Serie A so far this season (nine).</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/8f474543-5386-49d1-8290-0453fce083b7/16-9/1024" />
+  </programme>
+  <programme start="20211004010000 +0000" stop="20211004020000 +0000" channel="btsport3.uk">
+    <title lang="en">Fiorentina v Napoli</title>
+    <desc lang="en">Action from Serie A as Fiorentina welcome Napoli to the Stadio Artemio Franchi. Fiorentina have won just one of their last 12 home league matches against Napoli.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/45686335-5c15-4cff-868a-a5d968953cf5/16-9/1024" />
+  </programme>
+  <programme start="20211004020000 +0000" stop="20211004030000 +0000" channel="btsport3.uk">
+    <title lang="en">Roma v Empoli</title>
+    <desc lang="en">Action from the Italian capital as Roma and Empoli face-off in Serie A at Stadio Olimpico. Roma haven't lost in Serie A to Empoli since February 2007.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/3e06a10e-0c4f-43d0-ba16-00518c5e45d1/16-9/1024" />
+  </programme>
+  <programme start="20211004030000 +0000" stop="20211004034500 +0000" channel="btsport3.uk">
+    <title lang="en">Golazzo Live</title>
+    <desc lang="en">A look ahead to tonight's Serie A action between Atalanta and AC Milan and a look back over what has happened in the Italian top flight so far this weekend.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/f88c0a27-107e-4007-9c9c-a82cc265d472/16-9/1024" />
+  </programme>
+  <programme start="20211004034500 +0000" stop="20211004044500 +0000" channel="btsport3.uk">
+    <title lang="en">Atalanta v AC Milan</title>
+    <desc lang="en">Atalanta meet AC Milan at Gewiss Stadium. Should Milan win this game, they would equal their best start to a Serie A campaign in the three points for a win era after seven games.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/32af7c56-cca7-4809-81a4-cf6b8d4bd282/16-9/1024" />
+  </programme>
+  <programme start="20211004044500 +0000" stop="20211004050000 +0000" channel="btsport3.uk">
+    <title lang="en">UEFA Europa League Goals Reload</title>
+    <desc lang="en">The pick of the goals from matchday two of the 2021/22 UEFA Europa League as the group stages continued.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/55b23570-6fe4-494a-a658-4079d1a25686/16-9/1024" />
+  </programme>
+  <programme start="20211004050000 +0000" stop="20211004060000 +0000" channel="btsport3.uk">
+    <title lang="en">FIM SidecarCross</title>
+    <desc lang="en">Highlights from the latest round of the FIM SidecarCross World Championship in Estonia.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/76ded0f7-2fdd-43cc-8977-52e923a8a604/16-9/1024" />
+  </programme>
+  <programme start="20211004060000 +0000" stop="20211004070000 +0000" channel="btsport3.uk">
+    <title lang="en">WWE NXT Highlights</title>
+    <desc lang="en">Highlights from the latest episode of WWE NXT.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/bee71ea3-2431-4f17-9de6-d257c34a744b/16-9/1024" />
+  </programme>
+  <programme start="20211004070000 +0000" stop="20211004083000 +0000" channel="btsport3.uk">
+    <title lang="en">Manchester United v Everton</title>
+    <desc lang="en">Manchester United host Everton at Old Trafford in the Premier League.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/ee4a9aef-914c-4d34-afe3-8872555f6c85/16-9/1024" />
+  </programme>
+  <programme start="20211004083000 +0000" stop="20211004093000 +0000" channel="btsport3.uk">
+    <title lang="en">Venezia v Spezia</title>
+    <desc lang="en">Venezia and Spezia face-off in Serie A at Stadio Pier Luigi Penzo.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/485e875e-4726-4041-9280-21bb9b9616b6/16-9/1024" />
+  </programme>
+  <programme start="20211004093000 +0000" stop="20211004103000 +0000" channel="btsport3.uk">
+    <title lang="en">Sampdoria v Udinese</title>
+    <desc lang="en">Action from the top flight in Italy as Sampdoria and Udinese go toe-to-toe at Stadio Luigi Ferraris.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/04c69115-a563-45c0-a31b-657033575271/16-9/1024" />
+  </programme>
+  <programme start="20211004103000 +0000" stop="20211004113000 +0000" channel="btsport3.uk">
+    <title lang="en">Fiorentina v Napoli</title>
+    <desc lang="en">Action from Serie A as Fiorentina welcome Napoli to the Stadio Artemio Franchi.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/45686335-5c15-4cff-868a-a5d968953cf5/16-9/1024" />
+  </programme>
+  <programme start="20211004113000 +0000" stop="20211004123000 +0000" channel="btsport3.uk">
+    <title lang="en">Roma v Empoli</title>
+    <desc lang="en">Action from the Italian capital as Roma and Empoli face-off in Serie A at Stadio Olimpico.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/3e06a10e-0c4f-43d0-ba16-00518c5e45d1/16-9/1024" />
+  </programme>
+  <programme start="20211004123000 +0000" stop="20211004131500 +0000" channel="btsport3.uk">
+    <title lang="en">Golazzo Live</title>
+    <desc lang="en">A look ahead to tonight's Serie A action between Atalanta and AC Milan and a look back over what has happened in the Italian top flight so far this weekend.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/f88c0a27-107e-4007-9c9c-a82cc265d472/16-9/1024" />
+  </programme>
+  <programme start="20211004131500 +0000" stop="20211004141500 +0000" channel="btsport3.uk">
+    <title lang="en">Atalanta v AC Milan</title>
+    <desc lang="en">Atalanta meet AC Milan in Serie A at Gewiss Stadium.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/32af7c56-cca7-4809-81a4-cf6b8d4bd282/16-9/1024" />
+  </programme>
+  <programme start="20211004141500 +0000" stop="20211004143000 +0000" channel="btsport3.uk">
+    <title lang="en">UEFA Europa League Goals Reload</title>
+    <desc lang="en">The pick of the goals from matchday two of the 2021/22 UEFA Europa League as the group stages continued.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/55b23570-6fe4-494a-a658-4079d1a25686/16-9/1024" />
+  </programme>
+  <programme start="20211004143000 +0000" stop="20211004153000 +0000" channel="btsport3.uk">
+    <title lang="en">Ligue 1 Highlights</title>
+    <desc lang="en">A look back at all the recent action from French Ligue 1, including Rennes v PSG, Monaco v Bordeaux and Lille v Marseille.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/a3b7cb4a-cd73-4a4a-b1ba-df4313334219/16-9/1024" />
+  </programme>
+  <programme start="20211004153000 +0000" stop="20211004160000 +0000" channel="btsport3.uk">
+    <title lang="en">UEFA Champions League Magazine</title>
+    <desc lang="en">The latest news and updates from the UEFA Champions League.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/92f7d72e-1d0c-4222-805c-56cf5e1ad33b/16-9/1024" />
+  </programme>
+  <programme start="20211004160000 +0000" stop="20211004163000 +0000" channel="btsport3.uk">
+    <title lang="en">Premier League World</title>
+    <desc lang="en">This week we catch up with one of the games great mavericks, Ian Holloway. He talks candidly about his struggles on and off the pitch.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/25fc2b24-bb4f-44dd-8404-864b665c927e/16-9/1024" />
+  </programme>
+  <programme start="20211004163000 +0000" stop="20211004180000 +0000" channel="btsport3.uk">
+    <title lang="en">Gallagher Premiership Highlights</title>
+    <desc lang="en">The best of the action from round three of the 2021/22 Gallagher Premiership season, including Bristol Bears v Bath, Leicester Tigers v Saracens and Sale Sharks v Exeter Chiefs.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/77fbfcad-44da-4b56-88ca-208c112ac4bb/16-9/1024" />
+  </programme>
+  <programme start="20211004180000 +0000" stop="20211004200000 +0000" channel="btsport3.uk">
+    <title lang="en">UK Pro League Tennis</title>
+    <desc lang="en">Action from the UK Pro League Finals, the only domestic league for the top UK Tennis Professionals.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/7c98e5f0-74c0-4da7-98dc-18c989a8c907/16-9/1024" />
+  </programme>
+  <programme start="20211004200000 +0000" stop="20211004210000 +0000" channel="btsport3.uk">
+    <title lang="en">Ligue 1 Highlights</title>
+    <desc lang="en">A look back at all the recent action from French Ligue 1, including Rennes v PSG, Monaco v Bordeaux and Lille v Marseille.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/a3b7cb4a-cd73-4a4a-b1ba-df4313334219/16-9/1024" />
+  </programme>
+  <programme start="20211004210000 +0000" stop="20211004220000 +0000" channel="btsport3.uk">
+    <title lang="en">Premier League Review</title>
+    <desc lang="en">A look back at the best of the recent action from the Premier League, including Manchester United v Everton, Chelsea v Southampton and Liverpool v Man City.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/7b040aef-b2c2-45aa-a876-4b2ce389e28d/16-9/1024" />
+  </programme>
+  <programme start="20211004220000 +0000" stop="20211004223000 +0000" channel="btsport3.uk">
+    <title lang="en">Premier League World</title>
+    <desc lang="en">This week we catch up with one of the games great mavericks, Ian Holloway. He talks candidly about his struggles on and off the pitch.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/25fc2b24-bb4f-44dd-8404-864b665c927e/16-9/1024" />
+  </programme>
+  <programme start="20211004223000 +0000" stop="20211004233000 +0000" channel="btsport3.uk">
+    <title lang="en">UEFA Europa League Highlights Show</title>
+    <desc lang="en">All the best action from matchday two of the Europa League including highlights from Sparta Prague v Rangers, West Ham v R Vienna, Celtic v Leverkusen and Legia Warsaw v Leicester.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/547e4d3e-bc58-43ac-96a9-573afcc6482c/16-9/1024" />
+  </programme>
+  <programme start="20211004233000 +0000" stop="20211005003000 +0000" channel="btsport3.uk">
+    <title lang="en">UEFA Champions League Review</title>
+    <desc lang="en">A round-up of all the latest action from matchday two of the UEFA Champions League group stages, including Chelsea v Zenit, Liverpool v AC Milan and Young Boys v Man Utd.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/cb69cbea-4a9f-49e0-8fcc-7506c54e64cc/16-9/1024" />
+  </programme>
+  <programme start="20211005003000 +0000" stop="20211005010000 +0000" channel="btsport3.uk">
+    <title lang="en">IFSC Climbing World Cup Highlights</title>
+    <desc lang="en">Highlights from the IFSC Climbing World Cup.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/2a0d7013-f4c9-4202-b7bc-8de7f69fbfe6/16-9/1024" />
+  </programme>
+  <programme start="20211005010000 +0000" stop="20211005040000 +0000" channel="btsport3.uk">
+    <title lang="en">UFC Fight Night - Santos v Walker</title>
+    <desc lang="en">Action from UFC Fight Night as Thiago Marreta Santos and Johnny Walker meet in the Octagon in Arizona.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/dd6c8092-fdff-4b74-a2b7-b02e62e5f150/16-9/1024" />
+  </programme>
+  <programme start="20211005040000 +0000" stop="20211005050000 +0000" channel="btsport3.uk">
+    <title lang="en">Ligue 1 Highlights</title>
+    <desc lang="en">A look back at all the recent action from French Ligue 1, including Rennes v PSG, Monaco v Bordeaux and Lille v Marseille.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/a3b7cb4a-cd73-4a4a-b1ba-df4313334219/16-9/1024" />
+  </programme>
+  <programme start="20211005050000 +0000" stop="20211005060000 +0000" channel="btsport3.uk">
+    <title lang="en">Lens v Reims</title>
+    <desc lang="en">Lens meet Reims in Ligue 1 at Stade Bollaert-Delelis.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/852eef74-7d91-441b-85c1-6f1d7839df24/16-9/1024" />
+  </programme>
+  <programme start="20211005060000 +0000" stop="20211005070000 +0000" channel="btsport3.uk">
+    <title lang="en">Montpellier v Strasbourg</title>
+    <desc lang="en">Montpellier and Strasbourg meet in Ligue 1 at Stade de la Mosson.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/6cde7c94-eebf-480c-9fd9-5fc207d05f48/16-9/1024" />
+  </programme>
+  <programme start="20211005070000 +0000" stop="20211005080000 +0000" channel="btsport3.uk">
+    <title lang="en">Nice v Brest</title>
+    <desc lang="en">Nice take Brest in Ligue 1 at Allianz Riviera.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/d74b1cd0-255a-4c0d-9453-a5228c1651aa/16-9/1024" />
+  </programme>
+  <programme start="20211005080000 +0000" stop="20211005090000 +0000" channel="btsport3.uk">
+    <title lang="en">Rennes v Paris Saint-Germain</title>
+    <desc lang="en">Rennes face Paris Saint-Germain in Ligue 1 at Roazhon Park.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/813f16bb-9adb-4978-8bbf-796f787ecfc7/16-9/1024" />
+  </programme>
+  <programme start="20211005090000 +0000" stop="20211005100000 +0000" channel="btsport3.uk">
+    <title lang="en">Monaco v Bordeaux</title>
+    <desc lang="en">Monaco host Bordeaux at Stade Louis II in Ligue 1.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/2d919a7e-50ce-4db7-902e-d955da8e192f/16-9/1024" />
+  </programme>
+  <programme start="20211005100000 +0000" stop="20211005110000 +0000" channel="btsport3.uk">
+    <title lang="en">Lille v Marseille</title>
+    <desc lang="en">Lille face-off against Marseille in Ligue 1 at Stade Pierre Mauroy.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/8727df69-f0c4-48c0-80a5-31857cdefbe4/16-9/1024" />
+  </programme>
+  <programme start="20211005110000 +0000" stop="20211005120000 +0000" channel="btsport3.uk">
+    <title lang="en">Saint-Etienne v Lyon</title>
+    <desc lang="en">Saint-Etienne and Lyon meet in Ligue 1 at Geoffroy Stadium.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/d9a3bf90-8844-447b-8211-18a2e03f721e/16-9/1024" />
+  </programme>
+  <programme start="20211005120000 +0000" stop="20211005130000 +0000" channel="btsport3.uk">
+    <title lang="en">PSG Women v Guingamp Women</title>
+    <desc lang="en">Action from the French Women's Division 1 AS Paris Saint-Germain Women face Guingamp Women.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/147f60a5-5f65-425a-bc24-9dbb5ab1a173/16-9/1024" />
+  </programme>
+  <programme start="20211005130000 +0000" stop="20211005140000 +0000" channel="btsport3.uk">
+    <title lang="en">Benfica v Portimonense</title>
+    <desc lang="en">Action from Liga Portugal as Benfica and Portimonense face-off at Estadio da Luz.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/36538bf8-3a8d-40c2-b5b5-ae3347942002/16-9/1024" />
+  </programme>
+  <programme start="20211005140000 +0000" stop="20211005153000 +0000" channel="btsport3.uk">
+    <title lang="en">Eastleigh v Boreham Wood</title>
+    <desc lang="en">Action from the Vanarama National League as Eastleigh and Boreham Wood face-off at Silverlake Stadium. The visitors head into this game just two points off table toppers Dagenham.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/06c42ef4-599e-4d4f-85b2-5f4e4a9a835a/16-9/1024" />
+  </programme>
+  <programme start="20211005153000 +0000" stop="20211005163000 +0000" channel="btsport3.uk">
+    <title lang="en">Moto3: The Americas</title>
+    <desc lang="en">Coverage of the Grand Prix of The Americas Moto3 race.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/577c810e-c4c4-4a54-ab5b-cfac3855910a/16-9/1024" />
+  </programme>
+  <programme start="20211005163000 +0000" stop="20211005173000 +0000" channel="btsport3.uk">
+    <title lang="en">Moto2: The Americas</title>
+    <desc lang="en">Coverage of the Grand Prix of The Americas Moto2 race.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/438c86b7-c1f5-4e9a-bf43-0ae528efafb6/16-9/1024" />
+  </programme>
+  <programme start="20211005173000 +0000" stop="20211005183000 +0000" channel="btsport3.uk">
+    <title lang="en">MotoGP: The Americas</title>
+    <desc lang="en">Coverage of the Grand Prix of The Americas MotoGP race.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/d867b191-934c-4049-9e17-c9340cbb98ca/16-9/1024" />
+  </programme>
+  <programme start="20211005183000 +0000" stop="20211005190000 +0000" channel="btsport3.uk">
+    <title lang="en">MotoGP Chequered Flag</title>
+    <desc lang="en">Post-race show featuring analysis, highlights and interviews with all the key riders following the Grand Prix of The Americas. Plus, a look behind the scenes with the team bosses.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/7149941e-37c3-4990-9036-9f560511fa1e/16-9/1024" />
+  </programme>
+  <programme start="20211005190000 +0000" stop="20211005200000 +0000" channel="btsport3.uk">
+    <title lang="en">Ligue 1 Highlights</title>
+    <desc lang="en">A look back at all the recent action from French Ligue 1, including Rennes v PSG, Monaco v Bordeaux and Lille v Marseille.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/a3b7cb4a-cd73-4a4a-b1ba-df4313334219/16-9/1024" />
+  </programme>
+  <programme start="20211005200000 +0000" stop="20211005223000 +0000" channel="btsport3.uk">
+    <title lang="en">WWE Monday Night Raw</title>
+    <desc lang="en">Watch Drew McIntyre, Asuka, Kofi Kingston and Charlotte Flair and more of your favourite WWE Superstars face-off inside the ring on WWE Monday Night Raw.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/81b2d91c-9193-45bf-95d2-ebb9af2cc81c/16-9/1024" />
+  </programme>
+  <programme start="20211005223000 +0000" stop="20211005233000 +0000" channel="btsport3.uk">
+    <title lang="en">Fury v Wilder III - Countdown</title>
+    <desc lang="en">The Countdown is on to Tyson Fury's trilogy bout with Deontay Wilder in Las Vegas.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/d16c5b61-c824-4f3a-903d-da1b9a0e574d/16-9/1024" />
+  </programme>
+  <programme start="20211005233000 +0000" stop="20211006000000 +0000" channel="btsport3.uk">
+    <title lang="en">Inside Fury vs Wilder III Part 2</title>
+    <desc lang="en">As Tyson Fury and Deontay Wilder prepare to fight for the third time we look back at their previous two bouts.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/712df1da-75f7-4624-a78a-3b4ceac39d24/16-9/1024" />
+  </programme>
+  <programme start="20211006000000 +0000" stop="20211006003000 +0000" channel="btsport3.uk">
+    <title lang="en">Inside Fury vs Wilder III Part 3</title>
+    <desc lang="en">All the build-up to Tyson Fury's trilogy bout with Deontay Wilder.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/5649bdf1-d299-4526-a976-6e0b1a25a7bb/16-9/1024" />
+  </programme>
+  <programme start="20211006003000 +0000" stop="20211006010000 +0000" channel="btsport3.uk">
+    <title lang="en">BT Sport Goals Reload</title>
+    <desc lang="en">We bring you the greatest goals from around the world this week, including action from the Premier League, Serie A and Ligue 1.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/6fc066a6-2ab4-4d97-8dfb-eeb93e804c95/16-9/1024" />
+  </programme>
+  <programme start="20211006010000 +0000" stop="20211006013000 +0000" channel="btsport3.uk">
+    <title lang="en">Gearing Up</title>
+    <desc lang="en">This month we follow off-road events in Spain and Germany, and the UIM MotoSurf WorldCup Championship in Russia, where motorsports meets water.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/96168be6-bce4-4f66-a976-1924badbc538/16-9/1024" />
+  </programme>
+  <programme start="20211006013000 +0000" stop="20211006033000 +0000" channel="btsport3.uk">
+    <title lang="en">Badminton: BWF Sudirman Cup</title>
+    <desc lang="en">Badminton action from the BWF Sudirman Cup Finals.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/ca900876-f74d-499b-a6c6-f4af00f3c5e9/16-9/1024" />
+  </programme>
+  <programme start="20211006033000 +0000" stop="20211006043000 +0000" channel="btsport3.uk">
+    <title lang="en">Fishing: On the Bank</title>
+    <desc lang="en">Angling magazine show presented by Rob Hughes and Andy Ford. This week we take a look at the best of the action from Round Four of the UK Angling Championship.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/d9f1e8b1-b38a-4339-af3b-801ecbe5b1a6/16-9/1024" />
+  </programme>
+  <programme start="20211006043000 +0000" stop="20211006050000 +0000" channel="btsport3.uk">
+    <title lang="en">Inside Sailing</title>
+    <desc lang="en">This month we head to Portugal for the GC32 Racing Tour, the Isle of Wight for the 44Cup and we bring you several foiling events from Italy.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/fedd44af-24f7-4a59-bbbf-738ea5364244/16-9/1024" />
+  </programme>
+  <programme start="20211006050000 +0000" stop="20211006070000 +0000" channel="btsport3.uk">
+    <title lang="en">FIM Speedway Grand Prix</title>
+    <desc lang="en">Action from Round 10 of the FIM Speedway Grand Prix in Torun, Poland.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/c15c42f9-1a81-4a91-8849-e2af65f691bd/16-9/1024" />
+  </programme>
+  <programme start="20211006070000 +0000" stop="20211006090000 +0000" channel="btsport3.uk">
+    <title lang="en">FIM Speedway Grand Prix - Poland</title>
+    <desc lang="en">Action from Round 11 of the FIM Speedway Grand Prix in Torun, Poland.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/a2ecef11-4db6-4ccf-a4d7-0d421e3fd464/16-9/1024" />
+  </programme>
+  <programme start="20211006090000 +0000" stop="20211006094500 +0000" channel="btsport3.uk">
+    <title lang="en">Rugby Tonight</title>
+    <desc lang="en">BT Sport's panel of experts are joined by guests and a live studio audience to discuss all things rugby and look ahead to the upcoming domestic, European and international action.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/af050223-6803-4e48-8ec6-8320827a741d/16-9/1024" />
+  </programme>
+  <programme start="20211006094500 +0000" stop="20211006100000 +0000" channel="btsport3.uk">
+    <title lang="en">BT Sport Goals Reload</title>
+    <desc lang="en">We bring you the greatest goals from around the world this week, including action from the Premier League, Serie A and Ligue 1.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/6fc066a6-2ab4-4d97-8dfb-eeb93e804c95/16-9/1024" />
+  </programme>
+  <programme start="20211006100000 +0000" stop="20211006110000 +0000" channel="btsport3.uk">
+    <title lang="en">Cagliari v Venezia</title>
+    <desc lang="en">Action from Serie A as Cagliari face Venezia at Unipol Domus. These two sides will face each other for the first time since February 2000.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/0b0ee027-f87e-4993-952a-c2b391e4cee5/16-9/1024" />
+  </programme>
+  <programme start="20211006110000 +0000" stop="20211006120000 +0000" channel="btsport3.uk">
+    <title lang="en">Salernitana v Genoa</title>
+    <desc lang="en">Salernitana meet Genoa at Stadio Erechi. Salernitana (11 minutes) and Genoa (17 minutes) are the two sides that have been ahead for the fewest minutes in Serie A this season.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/1c7db20d-5b46-4a66-a496-acefbeffec7b/16-9/1024" />
+    <episode-num system="onscreen">E11</episode-num>
+    <episode-num system="onscreen">E17</episode-num>
+  </programme>
+  <programme start="20211006120000 +0000" stop="20211006130000 +0000" channel="btsport3.uk">
+    <title lang="en">Torino v Juventus</title>
+    <desc lang="en">Action from the Derby della Mole as Torino and Juventus face-off in Serie A at Olympic Grande Torino Stadium. Juve have lost only one of their last 30 Serie A meetings with Torino.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/436839eb-8a8e-4d06-98f7-12a236371eb8/16-9/1024" />
+  </programme>
+  <programme start="20211006130000 +0000" stop="20211006140000 +0000" channel="btsport3.uk">
+    <title lang="en">Sassuolo v Inter</title>
+    <desc lang="en">Sassuolo host Inter at MAPEI Stadium - Citta del Tricolore. Inter are only the second side to score 20+ goals in their first six Serie A games in a season in the 21st century.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/4e356ff6-c6ca-4984-afab-1d531c3977a7/16-9/1024" />
+  </programme>
+  <programme start="20211006140000 +0000" stop="20211006150000 +0000" channel="btsport3.uk">
+    <title lang="en">Bologna v Lazio</title>
+    <desc lang="en">Lazio travel to Stadio Renato Dall'Ara to take on Bologna in Serie A. Lazio have scored the most goals in the first half of games in Serie A so far this season (nine).</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/8f474543-5386-49d1-8290-0453fce083b7/16-9/1024" />
+  </programme>
+  <programme start="20211006150000 +0000" stop="20211006160000 +0000" channel="btsport3.uk">
+    <title lang="en">Benfica v Portimonense</title>
+    <desc lang="en">Action from Liga Portugal as Benfica and Portimonense face-off at Estadio da Luz.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/36538bf8-3a8d-40c2-b5b5-ae3347942002/16-9/1024" />
+  </programme>
+  <programme start="20211006160000 +0000" stop="20211006163000 +0000" channel="btsport3.uk">
+    <title lang="en">ESPN FC</title>
+    <desc lang="en">A round-up of the latest news from the world of football at the ESPN studios in Bristol, Connecticut.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/9e35b4ab-9fec-4ef4-af9e-9c8f13f57308/16-9/1024" />
+  </programme>
+  <programme start="20211006163000 +0000" stop="20211006180000 +0000" channel="btsport3.uk">
+    <title lang="en">Manchester United v Everton</title>
+    <desc lang="en">Manchester United host Everton at Old Trafford in the Premier League. United have conceded at least once in each of their last eight home league games.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/ee4a9aef-914c-4d34-afe3-8872555f6c85/16-9/1024" />
+  </programme>
+  <programme start="20211006180000 +0000" stop="20211006200000 +0000" channel="btsport3.uk">
+    <title lang="en">Women's Cricket Review: Aus v Ind</title>
+    <desc lang="en">A review of all the action from the 1st test between Australia and India.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/21df7563-b970-45fe-ac22-b92014f0d21a/16-9/1024" />
+  </programme>
+  <programme start="20211006200000 +0000" stop="20211006203000 +0000" channel="btsport3.uk">
+    <title lang="en">Fury v Wilder: The Trilogy</title>
+    <desc lang="en">Fury Road - A Tyson Fury Tour. Hop onboard the Tyson Fury double decker bus as we drive around Manchester, meeting the people who shaped the Tyson Fury story.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/390d741e-7155-4d1f-8dbe-ad20c70a96d0/16-9/1024" />
+  </programme>
+  <programme start="20211006203000 +0000" stop="20211006210000 +0000" channel="btsport3.uk">
+    <title lang="en">Fury v Wilder: The Trilogy</title>
+    <desc lang="en">Rise Of The Rivalry. An epic 12th round, an incredible rise from the canvas, a controversial draw, a devastating win and a lot of verbal. This is the story of the first two fights.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/a5637e3f-77fc-4277-ab89-a0fc77f89888/16-9/1024" />
+  </programme>
+  <programme start="20211006210000 +0000" stop="20211006213000 +0000" channel="btsport3.uk">
+    <title lang="en">The Rugby's On</title>
+    <desc lang="en">The latest episode of The Rugby's On.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/931d5dc0-1681-4740-9968-75c6956d5633/16-9/1024" />
+  </programme>
+  <programme start="20211006213000 +0000" stop="20211006214500 +0000" channel="btsport3.uk">
+    <title lang="en">BT Sport Reload</title>
+    <desc lang="en">The best bits from BT Sport over the last week, including exclusive interviews, the best action and so much more.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/7d75d0e0-917e-47c8-b1d1-ad26849d9c2a/16-9/1024" />
+  </programme>
+  <programme start="20211006214500 +0000" stop="20211006224500 +0000" channel="btsport3.uk">
+    <title lang="en">WWE NXT UK</title>
+    <desc lang="en">All the action from WWE NXT UK as the next generation of Superstars showcase their talents.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/3bead2dd-984d-4b0a-a3db-79065fedb6c8/16-9/1024" />
+  </programme>
+  <programme start="20211006224500 +0000" stop="20211006234500 +0000" channel="btsport3.uk">
+    <title lang="en">WWE Raw Highlights</title>
+    <desc lang="en">All the best highlights from the latest WWE Raw.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/ef7418ad-d4ae-4645-ba5e-8f53383cb1eb/16-9/1024" />
+  </programme>
+  <programme start="20211006234500 +0000" stop="20211007000000 +0000" channel="btsport3.uk">
+    <title lang="en">BT Sport Goals Reload</title>
+    <desc lang="en">We bring you the greatest goals from around the world this week, including action from the Premier League, Serie A and Ligue 1.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/6fc066a6-2ab4-4d97-8dfb-eeb93e804c95/16-9/1024" />
+  </programme>
+  <programme start="20211007000000 +0000" stop="20211007010000 +0000" channel="btsport3.uk">
+    <title lang="en">DTM Highlights: Germany</title>
+    <desc lang="en">Action from the latest round of the DTM season at the Hockenheimring in Germany.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/199ed483-8211-41da-af9a-60437b475a6d/16-9/1024" />
+  </programme>
+  <programme start="20211007010000 +0000" stop="20211007040000 +0000" channel="btsport3.uk">
+    <title lang="en">UFC Fight Night - Santos v Walker</title>
+    <desc lang="en">Action from UFC Fight Night as Thiago Marreta Santos and Johnny Walker meet in the Octagon in Arizona. Kevin Holland v Kyle Daukas and Alex Oliveira v Niko Price also feature.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/dd6c8092-fdff-4b74-a2b7-b02e62e5f150/16-9/1024" />
+  </programme>
+  <programme start="20211007040000 +0000" stop="20211007043000 +0000" channel="btsport3.uk">
+    <title lang="en">Extreme E - Electric Odyssey</title>
+    <desc lang="en">Extreme E - Electric Odyssey bring racing to some of the most remote corners of the planet to highlight climate change, whilst showcasing the performance of all-electric SUVs.</desc>
+  </programme>
+  <programme start="20211007043000 +0000" stop="20211007050000 +0000" channel="btsport3.uk">
+    <title lang="en">Badminton Unlimited</title>
+    <desc lang="en">Catch up on all the latest news and information from the world of badminton.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/65087aef-ebc6-424f-bf48-4270113a9570/16-9/1024" />
+  </programme>
+  <programme start="20211007050000 +0000" stop="20211007063000 +0000" channel="btsport3.uk">
+    <title lang="en">Wealdstone v Solihull Moors</title>
+    <desc lang="en">Wealdstone take on Solihull Moors in the Vanarama National League at Grosvenor Vale.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/a4e3c872-732f-4e0a-82c6-e23bce48110d/16-9/1024" />
+  </programme>
+  <programme start="20211007063000 +0000" stop="20211007073000 +0000" channel="btsport3.uk">
+    <title lang="en">Ligue 1 Highlights</title>
+    <desc lang="en">A look back at all the recent action from French Ligue 1, including Rennes v PSG, Monaco v Bordeaux and Lille v Marseille.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/a3b7cb4a-cd73-4a4a-b1ba-df4313334219/16-9/1024" />
+  </programme>
+  <programme start="20211007073000 +0000" stop="20211007083000 +0000" channel="btsport3.uk">
+    <title lang="en">MotoGP Highlights: The Americas</title>
+    <desc lang="en">MotoGP highlights from the Grand Prix of The Americas.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/6304672c-37ac-4e34-a0d8-abb944444a5a/16-9/1024" />
+  </programme>
+  <programme start="20211007083000 +0000" stop="20211007093000 +0000" channel="btsport3.uk">
+    <title lang="en">Fishing: On the Bank</title>
+    <desc lang="en">Angling magazine show presented by Rob Hughes and Andy Ford. This week we take a look at the best of the action from Round Four of the UK Angling Championship.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/d9f1e8b1-b38a-4339-af3b-801ecbe5b1a6/16-9/1024" />
+  </programme>
+  <programme start="20211007093000 +0000" stop="20211007100000 +0000" channel="btsport3.uk">
+    <title lang="en">The Rugby's On</title>
+    <desc lang="en">The latest episode of The Rugby's On.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/931d5dc0-1681-4740-9968-75c6956d5633/16-9/1024" />
+  </programme>
+  <programme start="20211007100000 +0000" stop="20211007110000 +0000" channel="btsport3.uk">
+    <title lang="en">Venezia v Spezia</title>
+    <desc lang="en">Venezia and Spezia face-off in Serie A at Stadio Pier Luigi Penzo. Verona have won five of their last seven league meetings with Spezia.</desc>
+  </programme>
+  <programme start="20211007110000 +0000" stop="20211007120000 +0000" channel="btsport3.uk">
+    <title lang="en">Sampdoria v Udinese</title>
+    <desc lang="en">Action from the top flight in Italy as Sampdoria and Udinese go toe-to-toe at Stadio Luigi Ferraris. Sampdoria have won each of their last five Serie A meetings against Udinese.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/04c69115-a563-45c0-a31b-657033575271/16-9/1024" />
+  </programme>
+  <programme start="20211007120000 +0000" stop="20211007130000 +0000" channel="btsport3.uk">
+    <title lang="en">Fiorentina v Napoli</title>
+    <desc lang="en">Action from Serie A as Fiorentina welcome Napoli to the Stadio Artemio Franchi. Fiorentina have won just one of their last 12 home league matches against Napoli.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/45686335-5c15-4cff-868a-a5d968953cf5/16-9/1024" />
+  </programme>
+  <programme start="20211007130000 +0000" stop="20211007140000 +0000" channel="btsport3.uk">
+    <title lang="en">Roma v Empoli</title>
+    <desc lang="en">Action from the Italian capital as Roma and Empoli face-off in Serie A at Stadio Olimpico. Roma haven't lost in Serie A to Empoli since February 2007.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/3e06a10e-0c4f-43d0-ba16-00518c5e45d1/16-9/1024" />
+  </programme>
+  <programme start="20211007140000 +0000" stop="20211007144500 +0000" channel="btsport3.uk">
+    <title lang="en">Golazzo Live</title>
+    <desc lang="en">James Richardson looks ahead to tonight's Serie A action between Atalanta and AC Milan and a look back over what has happened in the Italian top flight so far this weekend.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/f88c0a27-107e-4007-9c9c-a82cc265d472/16-9/1024" />
+  </programme>
+  <programme start="20211007144500 +0000" stop="20211007154500 +0000" channel="btsport3.uk">
+    <title lang="en">Atalanta v AC Milan</title>
+    <desc lang="en">Atalanta meet AC Milan at Gewiss Stadium. Should Milan win this game, they would equal their best start to a Serie A campaign in the three points for a win era after seven games.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/32af7c56-cca7-4809-81a4-cf6b8d4bd282/16-9/1024" />
+  </programme>
+  <programme start="20211007154500 +0000" stop="20211007161500 +0000" channel="btsport3.uk">
+    <title lang="en">Serie A - Full Impact</title>
+    <desc lang="en">All the best moments from the latest action in Serie A, including Sassuolo v Inter, Fiorentina v Napoli and Atalanta v AC Milan.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/3e645bee-5033-4bd3-bde6-0c357d47b178/16-9/1024" />
+  </programme>
+  <programme start="20211007161500 +0000" stop="20211007163000 +0000" channel="btsport3.uk">
+    <title lang="en">UEFA Champions League Goals Reload</title>
+    <desc lang="en">The pick of the goals from matchday two of the 2021/22 UEFA Champions League as the group stages continued.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/397ac811-2632-409a-9171-ac354d77ade4/16-9/1024" />
+  </programme>
+  <programme start="20211007163000 +0000" stop="20211007170000 +0000" channel="btsport3.uk">
+    <title lang="en">ESPN FC</title>
+    <desc lang="en">A round-up of the latest news from the world of football at the ESPN studios in Bristol, Connecticut.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/1f993897-6762-48b4-bcdb-24cb614c5e4f/16-9/1024" />
+  </programme>
+  <programme start="20211007170000 +0000" stop="20211007171500 +0000" channel="btsport3.uk">
+    <title lang="en">Premier League Reload</title>
+    <desc lang="en">A whirlwind catch-up from the weekend's Premier League matches, featuring all the goals and major talking points from Manchester United v Everton and Chelsea v Southampton.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/328fc175-d842-4f8d-83d3-e20654233634/16-9/1024" />
+  </programme>
+  <programme start="20211007171500 +0000" stop="20211007184500 +0000" channel="btsport3.uk">
+    <title lang="en">Wealdstone v Solihull Moors</title>
+    <desc lang="en">Wealdstone take on Solihull Moors in the Vanarama National League at Grosvenor Vale.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/a4e3c872-732f-4e0a-82c6-e23bce48110d/16-9/1024" />
+  </programme>
+  <programme start="20211007184500 +0000" stop="20211007191500 +0000" channel="btsport3.uk">
+    <title lang="en">Badminton Unlimited</title>
+    <desc lang="en">Catch up on all the latest news and information from the world of badminton.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/65087aef-ebc6-424f-bf48-4270113a9570/16-9/1024" />
+  </programme>
+  <programme start="20211007191500 +0000" stop="20211007204500 +0000" channel="btsport3.uk">
+    <title lang="en">Gallagher Premiership Highlights</title>
+    <desc lang="en">The best of the action from round three of the 2021/22 Gallagher Premiership season, including Bristol Bears v Bath, Leicester Tigers v Saracens and Sale Sharks v Exeter Chiefs.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/77fbfcad-44da-4b56-88ca-208c112ac4bb/16-9/1024" />
+  </programme>
+  <programme start="20211007204500 +0000" stop="20211007213000 +0000" channel="btsport3.uk">
+    <title lang="en">Rugby Tonight</title>
+    <desc lang="en">BT Sport's panel of experts are joined by guests and a live studio audience to discuss all things rugby and look ahead to the upcoming domestic, European and international action.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/af050223-6803-4e48-8ec6-8320827a741d/16-9/1024" />
+  </programme>
+  <programme start="20211007213000 +0000" stop="20211007220000 +0000" channel="btsport3.uk">
+    <title lang="en">The Rugby's On</title>
+    <desc lang="en">The latest episode of The Rugby's On.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/931d5dc0-1681-4740-9968-75c6956d5633/16-9/1024" />
+  </programme>
+  <programme start="20211007220000 +0000" stop="20211008010000 +0000" channel="btsport3.uk">
+    <title lang="en">UFC Fight Night - Santos v Walker</title>
+    <desc lang="en">Action from UFC Fight Night as Thiago Marreta Santos and Johnny Walker meet in the Octagon in Arizona. Kevin Holland v Kyle Daukas and Alex Oliveira v Niko Price also feature.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/dd6c8092-fdff-4b74-a2b7-b02e62e5f150/16-9/1024" />
+  </programme>
+</tv>
