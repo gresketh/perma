@@ -12,6 +12,10 @@
     <display-name lang="en">BT Sport 3 UK</display-name>
     <icon src="http://static.epgguide.net/icon/btsport3.uk.png" />
   </channel>
+  <channel id="skysportsf1.uk">
+    <display-name lang="en">Sky Sports F1 UK</display-name>
+    <icon src="http://static.epgguide.net/icon/skysportsf1.uk.png" />    
+  </channel>
     <programme start="20211001020000 +0000" stop="20211001023000 +0000" channel="btsport1.uk">
     <title lang="en">Ligue 1 Show</title>
     <desc lang="en">A look ahead to the upcoming football in the top flight of France, including Rennes v PSG, Lille v Marseille and Monaco v Bordeaux.</desc>
@@ -2278,5 +2282,1882 @@
     <title lang="en">UFC Fight Night - Santos v Walker</title>
     <desc lang="en">Action from UFC Fight Night as Thiago Marreta Santos and Johnny Walker meet in the Octagon in Arizona. Kevin Holland v Kyle Daukas and Alex Oliveira v Niko Price also feature.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/dd6c8092-fdff-4b74-a2b7-b02e62e5f150/16-9/1024" />
+  </programme>
+    <programme start="20210930233000 +0000" stop="20211001000000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Weekend Debrief</title>
+    <sub-title lang="en">Monaco 27.05</sub-title>
+    <desc lang="en">A debrief of all the key events from the latest races and events in the world of Formula 1, following the 2021 Monaco Grand Prix at the weekend.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S2021</episode-num>
+  </programme>
+  <programme start="20211001000000 +0000" stop="20211001004500 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211001004500 +0000" stop="20211001011500 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211001011500 +0000" stop="20211001020000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211001020000 +0000" stop="20211001023000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211001023000 +0000" stop="20211001031500 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211001031500 +0000" stop="20211001034500 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211001034500 +0000" stop="20211001043000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211001043000 +0000" stop="20211001050000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211001050000 +0000" stop="20211001054500 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211001054500 +0000" stop="20211001061500 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211001061500 +0000" stop="20211001070000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211001070000 +0000" stop="20211001073000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211001073000 +0000" stop="20211001081500 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211001081500 +0000" stop="20211001084500 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211001084500 +0000" stop="20211001093000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211001093000 +0000" stop="20211001100000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211001100000 +0000" stop="20211001105500 +0000" channel="skysportsf1.uk">
+    <title lang="en">Ferrari Challenge Europe</title>
+    <sub-title lang="en">Ferrari Challenge Europe-Monza 11.04</sub-title>
+    <desc lang="en">Action from the second race in Monza.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>7.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211001105500 +0000" stop="20211001110000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Psychology of Lewis Hamilton</title>
+    <desc lang="en">A special feature highlighting the psychology of Lewis Hamilton and its effect on his Formula 1 career to date.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>4.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211001110000 +0000" stop="20211001115500 +0000" channel="skysportsf1.uk">
+    <title lang="en">Ferrari Challenge Europe</title>
+    <sub-title lang="en">Europe-Spielberg 02.05</sub-title>
+    <desc lang="en">Action from the second round of the season in Spielberg, Austria.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>7.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211001115500 +0000" stop="20211001120000 +0000" channel="skysportsf1.uk">
+    <title lang="en">Ted's Story of Ferrari</title>
+    <desc lang="en">Ted Kravitz visits Maranello to explore the history of the Italian team as they celebrated their 1000th GP at Mugello.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211001120000 +0000" stop="20211001125500 +0000" channel="skysportsf1.uk">
+    <title lang="en">Ferrari Challenge Europe</title>
+    <sub-title lang="en">Ferrari Challenge Europe-Brno 29.05</sub-title>
+    <desc lang="en">Action from the latest round held in Brno, Czech Republic.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>7.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211001125500 +0000" stop="20211001130000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Psychology of Lewis Hamilton</title>
+    <desc lang="en">A special feature highlighting the psychology of Lewis Hamilton and its effect on his Formula 1 career to date.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>4.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211001130000 +0000" stop="20211001135500 +0000" channel="skysportsf1.uk">
+    <title lang="en">Ferrari Challenge Europe</title>
+    <sub-title lang="en">Ferrari Challenge Europe-Valencia 20.06</sub-title>
+    <desc lang="en">Action from the second race in Valencia, Spain.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>7.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211001135500 +0000" stop="20211001140000 +0000" channel="skysportsf1.uk">
+    <title lang="en">Ted's Story of Ferrari</title>
+    <desc lang="en">Ted Kravitz visits Maranello to explore the history of the Italian team as they celebrated their 1000th GP at Mugello.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211001140000 +0000" stop="20211001145500 +0000" channel="skysportsf1.uk">
+    <title lang="en">Ferrari Challenge Europe</title>
+    <sub-title lang="en">Ferrari Challenge Europe-Nurburgring 29.08 Highlight 01</sub-title>
+    <desc lang="en">Action from the Nurburgring in Germany.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>7.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211001145500 +0000" stop="20211001150000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Psychology of Lewis Hamilton</title>
+    <desc lang="en">A special feature highlighting the psychology of Lewis Hamilton and its effect on his Formula 1 career to date.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>4.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211001150000 +0000" stop="20211001155500 +0000" channel="skysportsf1.uk">
+    <title lang="en">Ferrari Challenge Europe</title>
+    <sub-title lang="en">Ferrari Challenge Spa: Race 1</sub-title>
+    <desc lang="en">Action from race one at Spa-Francorchamps.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>7.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211001155500 +0000" stop="20211001160000 +0000" channel="skysportsf1.uk">
+    <title lang="en">Ted's Story of Ferrari</title>
+    <desc lang="en">Ted Kravitz visits Maranello to explore the history of the Italian team as they celebrated their 1000th GP at Mugello.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211001160000 +0000" stop="20211001165500 +0000" channel="skysportsf1.uk">
+    <title lang="en">Ferrari Challenge Europe</title>
+    <sub-title lang="en">Ferrari Challenge Europe-Monza 11.04</sub-title>
+    <desc lang="en">Action from the second race in Monza.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>7.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211001165500 +0000" stop="20211001170000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Psychology of Lewis Hamilton</title>
+    <desc lang="en">A special feature highlighting the psychology of Lewis Hamilton and its effect on his Formula 1 career to date.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>4.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211001170000 +0000" stop="20211001175500 +0000" channel="skysportsf1.uk">
+    <title lang="en">Ferrari Challenge Europe</title>
+    <sub-title lang="en">Europe-Spielberg 02.05</sub-title>
+    <desc lang="en">Action from the second round of the season in Spielberg, Austria.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>7.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211001175500 +0000" stop="20211001180000 +0000" channel="skysportsf1.uk">
+    <title lang="en">Ted's Story of Ferrari</title>
+    <desc lang="en">Ted Kravitz visits Maranello to explore the history of the Italian team as they celebrated their 1000th GP at Mugello.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211001180000 +0000" stop="20211001185500 +0000" channel="skysportsf1.uk">
+    <title lang="en">Ferrari Challenge Europe</title>
+    <sub-title lang="en">Ferrari Challenge Europe-Brno 29.05</sub-title>
+    <desc lang="en">Action from the latest round held in Brno, Czech Republic.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>7.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211001185500 +0000" stop="20211001190000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Psychology of Lewis Hamilton</title>
+    <desc lang="en">A special feature highlighting the psychology of Lewis Hamilton and its effect on his Formula 1 career to date.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>4.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211001190000 +0000" stop="20211001195500 +0000" channel="skysportsf1.uk">
+    <title lang="en">Ferrari Challenge Europe</title>
+    <sub-title lang="en">Ferrari Challenge Europe-Valencia 20.06</sub-title>
+    <desc lang="en">Action from the second race in Valencia, Spain.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>7.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211001195500 +0000" stop="20211001200000 +0000" channel="skysportsf1.uk">
+    <title lang="en">Ted's Story of Ferrari</title>
+    <desc lang="en">Ted Kravitz visits Maranello to explore the history of the Italian team as they celebrated their 1000th GP at Mugello.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211001200000 +0000" stop="20211001205500 +0000" channel="skysportsf1.uk">
+    <title lang="en">Ferrari Challenge Europe</title>
+    <sub-title lang="en">Ferrari Challenge Europe-Nurburgring 29.08 Highlight 01</sub-title>
+    <desc lang="en">Action from the Nurburgring in Germany.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>7.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211001205500 +0000" stop="20211001210000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Psychology of Lewis Hamilton</title>
+    <desc lang="en">A special feature highlighting the psychology of Lewis Hamilton and its effect on his Formula 1 career to date.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>4.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211001210000 +0000" stop="20211001215500 +0000" channel="skysportsf1.uk">
+    <title lang="en">Ferrari Challenge Europe</title>
+    <sub-title lang="en">Ferrari Challenge Spa: Race 1</sub-title>
+    <desc lang="en">Action from race one at Spa-Francorchamps.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>7.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211001215500 +0000" stop="20211001220000 +0000" channel="skysportsf1.uk">
+    <title lang="en">Ted's Story of Ferrari</title>
+    <desc lang="en">Ted Kravitz visits Maranello to explore the history of the Italian team as they celebrated their 1000th GP at Mugello.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211001220000 +0000" stop="20211001230000 +0000" channel="skysportsf1.uk">
+    <title lang="en">Formula 1</title>
+    <sub-title lang="en">Russian F1 GP Highlights</sub-title>
+    <desc lang="en">Action from the Sochi Autodrom, where Valtteri Bottas was the winner when the race was held in 2020.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211001230000 +0000" stop="20211002000000 +0000" channel="skysportsf1.uk">
+    <title lang="en">Jochen Rindt: Uncrowned Champion</title>
+    <desc lang="en">On the 50th anniversary of Jochen Rindt becoming F1's only posthumous World Champion, we speak to those who knew him well - including Sir Jackie Stewart and Helmut Marko.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211002000000 +0000" stop="20211002003000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211002003000 +0000" stop="20211002011500 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211002011500 +0000" stop="20211002014500 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211002014500 +0000" stop="20211002023000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211002023000 +0000" stop="20211002030000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211002030000 +0000" stop="20211002034500 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211002034500 +0000" stop="20211002041500 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211002041500 +0000" stop="20211002050000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211002050000 +0000" stop="20211002053000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211002053000 +0000" stop="20211002061500 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211002061500 +0000" stop="20211002064500 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211002064500 +0000" stop="20211002073000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211002073000 +0000" stop="20211002080000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211002080000 +0000" stop="20211002084500 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211002084500 +0000" stop="20211002091500 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211002091500 +0000" stop="20211002100000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211002100000 +0000" stop="20211002120500 +0000" channel="skysportsf1.uk">
+    <title lang="en">Formula 1</title>
+    <sub-title lang="en">Reliving 2015</sub-title>
+    <desc lang="en">Another chance to see the 2015 Japanese Grand Prix, held at the Suzuka Circuit, as the drivers competed in the 14th round of the season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211002120500 +0000" stop="20211002121500 +0000" channel="skysportsf1.uk">
+    <title lang="en">Pierre Gasly on 2021</title>
+    <desc lang="en">Pierre Gasly, Scuderia AlphaTauri's French driver, discusses his prediction for F1 2021.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20211002121500 +0000" stop="20211002142000 +0000" channel="skysportsf1.uk">
+    <title lang="en">Formula 1</title>
+    <sub-title lang="en">Reliving 2016</sub-title>
+    <desc lang="en">The Japanese Grand Prix, held at the Suzuka Circuit, as the drivers competed in the 17th round of the season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211002142000 +0000" stop="20211002143000 +0000" channel="skysportsf1.uk">
+    <title lang="en">Leclerc &amp; Sainz Tour Monaco</title>
+    <desc lang="en">Ride along as Charles Leclerc gives Ferrari teammate Carlos Sainz a tour around his home town of Monaco.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>10/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211002143000 +0000" stop="20211002163500 +0000" channel="skysportsf1.uk">
+    <title lang="en">Formula 1</title>
+    <sub-title lang="en">2017 Japanese Grand Prix: Standalone Race</sub-title>
+    <desc lang="en">The 2017 Japanese Grand Prix, held at the Suzuka Circuit, as the drivers competed in the 16th round of the season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211002163500 +0000" stop="20211002164500 +0000" channel="skysportsf1.uk">
+    <title lang="en">Ted on Tyres and Brake Magic</title>
+    <desc lang="en">Ted Kravitz gets technical by explaining the tyre Baku blowouts, what happened with Mercedes' brake magic and how last year's Mercedes DAS system worked.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>7.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211002164500 +0000" stop="20211002165000 +0000" channel="skysportsf1.uk">
+    <title lang="en">Ted's Story of Ferrari</title>
+    <desc lang="en">Ted Kravitz visits Maranello to explore the history of the Italian team as they celebrated their 1000th GP at Mugello.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211002165000 +0000" stop="20211002165500 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Psychology of Lewis Hamilton</title>
+    <desc lang="en">A special feature highlighting the psychology of Lewis Hamilton and its effect on his Formula 1 career to date.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>4.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211002165500 +0000" stop="20211002190000 +0000" channel="skysportsf1.uk">
+    <title lang="en">Formula 1</title>
+    <sub-title lang="en">2018 Japanese Grand Prix: Standalone Race</sub-title>
+    <desc lang="en">The Japanese Grand Prix. The 17th round of the season, held at the Suzuka Circuit.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211002190000 +0000" stop="20211002193000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Switch</title>
+    <desc lang="en">Legendary nine-time Motorcycle World Champion Valentino Rossi switches roles with seven-time F1 World Champion Lewis Hamilton, as Lewis takes to two wheels, and Valentino to four.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>4.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211002193000 +0000" stop="20211002213500 +0000" channel="skysportsf1.uk">
+    <title lang="en">Formula 1</title>
+    <sub-title lang="en">2019 Japanese Grand Prix: Standalone Race</sub-title>
+    <desc lang="en">The Japanese Grand Prix. The 17th round of the season, held at the Suzuka Circuit.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211002213500 +0000" stop="20211002214500 +0000" channel="skysportsf1.uk">
+    <title lang="en">The History of Aston Martin</title>
+    <desc lang="en">Karun Chandhok looks at the history of the Aston Martin team, the name and the journey back to Formula 1 in 2021.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211002214500 +0000" stop="20211002220000 +0000" channel="skysportsf1.uk">
+    <title lang="en">Aston Martin Bond Special</title>
+    <desc lang="en">Aston Martin F1 drivers Sebastian Vettel and Lance Stroll try out stunts in the DB5 ahead of the latest James Bond film No Time To Die.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20211002220000 +0000" stop="20211002230000 +0000" channel="skysportsf1.uk">
+    <title lang="en">Formula 1</title>
+    <sub-title lang="en">Reliving 2018</sub-title>
+    <desc lang="en">The Japanese Grand Prix. Highlights of the 17th round of the season, held at the Suzuka Circuit.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211002230000 +0000" stop="20211003000000 +0000" channel="skysportsf1.uk">
+    <title lang="en">Formula 1</title>
+    <sub-title lang="en">Reliving 2019</sub-title>
+    <desc lang="en">The Japanese Grand Prix. Highlights of the 17th round of the season, held at the Suzuka Circuit.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211003000000 +0000" stop="20211003003000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211003003000 +0000" stop="20211003011500 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211003011500 +0000" stop="20211003014500 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211003014500 +0000" stop="20211003023000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211003023000 +0000" stop="20211003030000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211003030000 +0000" stop="20211003034500 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211003034500 +0000" stop="20211003041500 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211003041500 +0000" stop="20211003050000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211003050000 +0000" stop="20211003053000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211003053000 +0000" stop="20211003061500 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211003061500 +0000" stop="20211003064500 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211003064500 +0000" stop="20211003073000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211003073000 +0000" stop="20211003080000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211003080000 +0000" stop="20211003084500 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211003084500 +0000" stop="20211003091500 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211003091500 +0000" stop="20211003100000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211003100000 +0000" stop="20211003104500 +0000" channel="skysportsf1.uk">
+    <title lang="en">F1 Classic Races</title>
+    <sub-title lang="en">1988 Japanese Grand Prix</sub-title>
+    <desc lang="en">A look back at the 1989 Japanese Grand Prix.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>7.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211003104500 +0000" stop="20211003110000 +0000" channel="skysportsf1.uk">
+    <title lang="en">Aston Martin Bond Special</title>
+    <desc lang="en">Aston Martin F1 drivers Sebastian Vettel and Lance Stroll try out stunts in the DB5 ahead of the latest James Bond film No Time To Die.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20211003110000 +0000" stop="20211003123000 +0000" channel="skysportsf1.uk">
+    <title lang="en">F1 Classic Races</title>
+    <sub-title lang="en">1989 Japanese Grand Prix</sub-title>
+    <desc lang="en">A look back at the 1989 Japanese Grand Prix.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>7.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211003123000 +0000" stop="20211003124000 +0000" channel="skysportsf1.uk">
+    <title lang="en">Pierre Gasly on 2021</title>
+    <desc lang="en">Pierre Gasly, Scuderia AlphaTauri's French driver, discusses his prediction for F1 2021.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20211003124000 +0000" stop="20211003124500 +0000" channel="skysportsf1.uk">
+    <title lang="en">Ted's Story of Ferrari</title>
+    <desc lang="en">Ted Kravitz visits Maranello to explore the history of the Italian team as they celebrated their 1000th GP at Mugello.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211003124500 +0000" stop="20211003134500 +0000" channel="skysportsf1.uk">
+    <title lang="en">F1 Classic Races</title>
+    <sub-title lang="en">1994 Japanese Grand Prix</sub-title>
+    <desc lang="en">A look back at the 1994 Japanese Grand Prix.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>7.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211003134500 +0000" stop="20211003135500 +0000" channel="skysportsf1.uk">
+    <title lang="en">Ted on Tyres and Brake Magic</title>
+    <desc lang="en">Ted Kravitz gets technical by explaining the tyre Baku blowouts, what happened with Mercedes' brake magic and how last year's Mercedes DAS system worked.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>7.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211003135500 +0000" stop="20211003140000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Psychology of Lewis Hamilton</title>
+    <desc lang="en">A special feature highlighting the psychology of Lewis Hamilton and its effect on his Formula 1 career to date.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>4.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211003140000 +0000" stop="20211003144500 +0000" channel="skysportsf1.uk">
+    <title lang="en">F1 Classic Races</title>
+    <sub-title lang="en">1996 Japanese Grand Prix</sub-title>
+    <desc lang="en">A look back at the 1996 Japanese Grand Prix.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>7.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211003144500 +0000" stop="20211003150000 +0000" channel="skysportsf1.uk">
+    <title lang="en">Aston Martin Bond Special</title>
+    <desc lang="en">Aston Martin F1 drivers Sebastian Vettel and Lance Stroll try out stunts in the DB5 ahead of the latest James Bond film No Time To Die.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20211003150000 +0000" stop="20211003151000 +0000" channel="skysportsf1.uk">
+    <title lang="en">Lando Norris and his Engineers</title>
+    <desc lang="en">Sky F1 goes behind the scenes of Lando Norris' relationship with his race engineers, one that has seen Norris finish in the top 5 all season in 2021.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>9.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211003151000 +0000" stop="20211003151500 +0000" channel="skysportsf1.uk">
+    <title lang="en">Ted's Story of Ferrari</title>
+    <desc lang="en">Ted Kravitz visits Maranello to explore the history of the Italian team as they celebrated their 1000th GP at Mugello.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211003151500 +0000" stop="20211003174500 +0000" channel="skysportsf1.uk">
+    <title lang="en">F1 Classic Races</title>
+    <sub-title lang="en">1998 Japanese Grand Prix</sub-title>
+    <desc lang="en">A look back at the 1998 Japanese Grand Prix.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>7.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211003174500 +0000" stop="20211003194500 +0000" channel="skysportsf1.uk">
+    <title lang="en">F1 Classic Races</title>
+    <sub-title lang="en">2000 Japanese Grand Prix</sub-title>
+    <desc lang="en">A look back at the 2000 Japanese Grand Prix.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>7.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211003194500 +0000" stop="20211003214500 +0000" channel="skysportsf1.uk">
+    <title lang="en">F1 Classic Races</title>
+    <sub-title lang="en">2005 Japanese Grand Prix</sub-title>
+    <desc lang="en">A look back at the 2005 Japanese Grand Prix.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>7.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211003214500 +0000" stop="20211003235000 +0000" channel="skysportsf1.uk">
+    <title lang="en">Formula 1</title>
+    <sub-title lang="en">2019 Japanese Grand Prix: Standalone Race</sub-title>
+    <desc lang="en">The Japanese Grand Prix. The 17th round of the season, held at the Suzuka Circuit.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211003235000 +0000" stop="20211004000000 +0000" channel="skysportsf1.uk">
+    <title lang="en">Ted on Tyres and Brake Magic</title>
+    <desc lang="en">Ted Kravitz gets technical by explaining the tyre Baku blowouts, what happened with Mercedes' brake magic and how last year's Mercedes DAS system worked.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>7.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211004000000 +0000" stop="20211004004500 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211004004500 +0000" stop="20211004011500 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211004011500 +0000" stop="20211004020000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211004020000 +0000" stop="20211004023000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211004023000 +0000" stop="20211004031500 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211004031500 +0000" stop="20211004034500 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211004034500 +0000" stop="20211004043000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211004043000 +0000" stop="20211004050000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211004050000 +0000" stop="20211004054500 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211004054500 +0000" stop="20211004061500 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211004061500 +0000" stop="20211004070000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211004070000 +0000" stop="20211004073000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211004073000 +0000" stop="20211004081500 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211004081500 +0000" stop="20211004084500 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211004084500 +0000" stop="20211004093000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211004093000 +0000" stop="20211004100000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211004100000 +0000" stop="20211004121500 +0000" channel="skysportsf1.uk">
+    <title lang="en">Formula 1</title>
+    <sub-title lang="en">Bahrain F1 Gp Stand Alone Race 29.03</sub-title>
+    <desc lang="en">The Bahrain Grand Prix. Another chance to see the opening round of the season at Bahrain International Circuit in Sakhir.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211004121500 +0000" stop="20211004122500 +0000" channel="skysportsf1.uk">
+    <title lang="en">Lando Norris and his Engineers</title>
+    <desc lang="en">Sky F1 goes behind the scenes of Lando Norris' relationship with his race engineers, one that has seen Norris finish in the top 5 all season in 2021.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>9.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211004122500 +0000" stop="20211004123000 +0000" channel="skysportsf1.uk">
+    <title lang="en">Ted's Story of Ferrari</title>
+    <desc lang="en">Ted Kravitz visits Maranello to explore the history of the Italian team as they celebrated their 1000th GP at Mugello.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211004123000 +0000" stop="20211004144500 +0000" channel="skysportsf1.uk">
+    <title lang="en">Formula 1</title>
+    <sub-title lang="en">Emilia Romagna F1 Gp: Stand Alone Race 19.04</sub-title>
+    <desc lang="en">The Emilia Romagna Grand Prix. Another chance to see the second round of the season at Autodromo Enzo e Dino Ferrari in Imola, Italy.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211004144500 +0000" stop="20211004145500 +0000" channel="skysportsf1.uk">
+    <title lang="en">Pierre Gasly on 2021</title>
+    <desc lang="en">Pierre Gasly, Scuderia AlphaTauri's French driver, discusses his prediction for F1 2021.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20211004145500 +0000" stop="20211004150000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Psychology of Lewis Hamilton</title>
+    <desc lang="en">A special feature highlighting the psychology of Lewis Hamilton and its effect on his Formula 1 career to date.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>4.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211004150000 +0000" stop="20211004171500 +0000" channel="skysportsf1.uk">
+    <title lang="en">Formula 1</title>
+    <sub-title lang="en">Portuguese F1 Gp: Stand Alone Race 03.05</sub-title>
+    <desc lang="en">The Portuguese Grand Prix. The third round of the season, which was staged at Algarve International Circuit in Portimao.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211004171500 +0000" stop="20211004172500 +0000" channel="skysportsf1.uk">
+    <title lang="en">Ted on Tyres and Brake Magic</title>
+    <desc lang="en">Ted Kravitz gets technical by explaining the tyre Baku blowouts, what happened with Mercedes' brake magic and how last year's Mercedes DAS system worked.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>7.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211004172500 +0000" stop="20211004173000 +0000" channel="skysportsf1.uk">
+    <title lang="en">Ted's Story of Ferrari</title>
+    <desc lang="en">Ted Kravitz visits Maranello to explore the history of the Italian team as they celebrated their 1000th GP at Mugello.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211004173000 +0000" stop="20211004194500 +0000" channel="skysportsf1.uk">
+    <title lang="en">Formula 1</title>
+    <sub-title lang="en">Spanish F1 Gp: Stand Alone Race 10.05</sub-title>
+    <desc lang="en">The Spanish Grand Prix. The fourth round of the season, which was staged at Circuit de Barcelona-Catalunya.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211004194500 +0000" stop="20211004195500 +0000" channel="skysportsf1.uk">
+    <title lang="en">The History of Aston Martin</title>
+    <desc lang="en">Karun Chandhok looks at the history of the Aston Martin team, the name and the journey back to Formula 1 in 2021.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211004195500 +0000" stop="20211004200000 +0000" channel="skysportsf1.uk">
+    <title lang="en">Ted's Story of Ferrari</title>
+    <desc lang="en">Ted Kravitz visits Maranello to explore the history of the Italian team as they celebrated their 1000th GP at Mugello.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211004200000 +0000" stop="20211004210000 +0000" channel="skysportsf1.uk">
+    <title lang="en">Formula 1</title>
+    <sub-title lang="en">Monaco F1 Grand Prix 23.05 Highlight 01</sub-title>
+    <desc lang="en">The Monaco Grand Prix. Action from the fifth round of the season at Circuit de Monaco, Monte Carlo.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211004210000 +0000" stop="20211004220000 +0000" channel="skysportsf1.uk">
+    <title lang="en">Formula 1</title>
+    <sub-title lang="en">Azerbaijan F1 Grand Prix 06.06 Highlight 06.06</sub-title>
+    <desc lang="en">The Azerbaijan Grand Prix, Action from the sixth round of the season at Baku City Circuit.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211004220000 +0000" stop="20211004230000 +0000" channel="skysportsf1.uk">
+    <title lang="en">Formula 1</title>
+    <sub-title lang="en">French F1 Grand Prix 20.06 Highlight</sub-title>
+    <desc lang="en">The French Grand Prix. Highlights of the seventh round of the season at Circuit Paul Ricard.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211004230000 +0000" stop="20211005000000 +0000" channel="skysportsf1.uk">
+    <title lang="en">Formula 1</title>
+    <sub-title lang="en">Styrian F1 Grand Prix 27.06 Highlight</sub-title>
+    <desc lang="en">The Styrian Grand Prix. Highlights from the eighth round of the season at Red Bull Ring in Spielberg.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211005000000 +0000" stop="20211005003000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211005003000 +0000" stop="20211005011500 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211005011500 +0000" stop="20211005014500 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211005014500 +0000" stop="20211005023000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211005023000 +0000" stop="20211005030000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211005030000 +0000" stop="20211005034500 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211005034500 +0000" stop="20211005041500 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211005041500 +0000" stop="20211005050000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211005050000 +0000" stop="20211005053000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211005053000 +0000" stop="20211005061500 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211005061500 +0000" stop="20211005064500 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211005064500 +0000" stop="20211005073000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211005073000 +0000" stop="20211005080000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211005080000 +0000" stop="20211005084500 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211005084500 +0000" stop="20211005091500 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211005091500 +0000" stop="20211005100000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211005100000 +0000" stop="20211005122500 +0000" channel="skysportsf1.uk">
+    <title lang="en">Formula 1</title>
+    <sub-title lang="en">Monaco F1 Gp: Stand Alone Race</sub-title>
+    <desc lang="en">The Monaco Grand Prix. A chance to see the fifth round of the season at Circuit de Monaco, Monte Carlo.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211005122500 +0000" stop="20211005123000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Psychology of Lewis Hamilton</title>
+    <desc lang="en">A special feature highlighting the psychology of Lewis Hamilton and its effect on his Formula 1 career to date.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>4.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211005123000 +0000" stop="20211005144000 +0000" channel="skysportsf1.uk">
+    <title lang="en">Formula 1</title>
+    <sub-title lang="en">Azerbaijan F1 Gp: Stand Alone Race</sub-title>
+    <desc lang="en">The Azerbaijan Grand Prix. A chance to see the sixth round of the season at Baku City Circuit.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211005144000 +0000" stop="20211005145000 +0000" channel="skysportsf1.uk">
+    <title lang="en">Leclerc &amp; Sainz Tour Monaco</title>
+    <desc lang="en">Ride along as Charles Leclerc gives Ferrari teammate Carlos Sainz a tour around his home town of Monaco.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>10/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211005145000 +0000" stop="20211005150000 +0000" channel="skysportsf1.uk">
+    <title lang="en">Pierre Gasly on 2021</title>
+    <desc lang="en">Pierre Gasly, Scuderia AlphaTauri's French driver, discusses his prediction for F1 2021.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20211005150000 +0000" stop="20211005171000 +0000" channel="skysportsf1.uk">
+    <title lang="en">Formula 1</title>
+    <sub-title lang="en">French F1 Gp: Stand Alone Race 21.06</sub-title>
+    <desc lang="en">The French Grand Prix. Another chance to see the seventh round of the season at Circuit Paul Ricard.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211005171000 +0000" stop="20211005173000 +0000" channel="skysportsf1.uk">
+    <title lang="en">Red Bull Juniors Kart Race</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20211005173000 +0000" stop="20211005193000 +0000" channel="skysportsf1.uk">
+    <title lang="en">Formula 1</title>
+    <sub-title lang="en">Styrian F1 Gp: Grand Prix Stand Alone Race 28.06</sub-title>
+    <desc lang="en">The Styrian Grand Prix. The eighth round of the season at Red Bull Ring in Spielberg.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211005193000 +0000" stop="20211005194000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The History of Aston Martin</title>
+    <desc lang="en">Karun Chandhok looks at the history of the Aston Martin team, the name and the journey back to Formula 1 in 2021.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211005194000 +0000" stop="20211005195500 +0000" channel="skysportsf1.uk">
+    <title lang="en">Aston Martin Bond Special</title>
+    <desc lang="en">Aston Martin F1 drivers Sebastian Vettel and Lance Stroll try out stunts in the DB5 ahead of the latest James Bond film No Time To Die.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20211005195500 +0000" stop="20211005200000 +0000" channel="skysportsf1.uk">
+    <title lang="en">Ted's Story of Ferrari</title>
+    <desc lang="en">Ted Kravitz visits Maranello to explore the history of the Italian team as they celebrated their 1000th GP at Mugello.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211005200000 +0000" stop="20211005210000 +0000" channel="skysportsf1.uk">
+    <title lang="en">Formula 1</title>
+    <sub-title lang="en">Austrian F1 Grand Prix 04.07 1hr Highlights</sub-title>
+    <desc lang="en">The Austrian Grand Prix. Action from the ninth round of the season at Red Bull Ring in Spielberg.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211005210000 +0000" stop="20211005220000 +0000" channel="skysportsf1.uk">
+    <title lang="en">Formula 1</title>
+    <sub-title lang="en">British F1 Grand Prix 18.07 Highlights</sub-title>
+    <desc lang="en">The British Grand Prix. Highlights of the 10th round of the season at Silverstone.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211005220000 +0000" stop="20211005230000 +0000" channel="skysportsf1.uk">
+    <title lang="en">Formula 1</title>
+    <sub-title lang="en">Hungarian F1 Grand Prix 01.08 Highlights</sub-title>
+    <desc lang="en">The Hungarian Grand Prix. Highlights of the 11th round of the season, which took place at Hungaroring in Mogyorod.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211005230000 +0000" stop="20211006000000 +0000" channel="skysportsf1.uk">
+    <title lang="en">Formula 1</title>
+    <sub-title lang="en">Belgian F1 GP Highlights</sub-title>
+    <desc lang="en">Action from the Circuit de Spa-Francorchamp.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211006000000 +0000" stop="20211006003000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211006003000 +0000" stop="20211006011500 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211006011500 +0000" stop="20211006014500 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211006014500 +0000" stop="20211006023000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211006023000 +0000" stop="20211006030000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211006030000 +0000" stop="20211006034500 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211006034500 +0000" stop="20211006041500 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211006041500 +0000" stop="20211006050000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211006050000 +0000" stop="20211006053000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211006053000 +0000" stop="20211006061500 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211006061500 +0000" stop="20211006064500 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211006064500 +0000" stop="20211006073000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211006073000 +0000" stop="20211006080000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211006080000 +0000" stop="20211006084500 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211006084500 +0000" stop="20211006091500 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211006091500 +0000" stop="20211006100000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211006100000 +0000" stop="20211006120500 +0000" channel="skysportsf1.uk">
+    <title lang="en">Formula 1</title>
+    <sub-title lang="en">Austrian F1 Gp: Stand Alone Race 05.07</sub-title>
+    <desc lang="en">The Austrian Grand Prix. The ninth round of the season at Red Bull Ring in Spielberg.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211006120500 +0000" stop="20211006122500 +0000" channel="skysportsf1.uk">
+    <title lang="en">Red Bull Juniors Kart Race</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20211006122500 +0000" stop="20211006123000 +0000" channel="skysportsf1.uk">
+    <title lang="en">Ted's Story of Ferrari</title>
+    <desc lang="en">Ted Kravitz visits Maranello to explore the history of the Italian team as they celebrated their 1000th GP at Mugello.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211006123000 +0000" stop="20211006143500 +0000" channel="skysportsf1.uk">
+    <title lang="en">Formula 1</title>
+    <sub-title lang="en">British F1 Gp: Stand Alone Race 19.07</sub-title>
+    <desc lang="en">Action from the British Grand Prix.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211006143500 +0000" stop="20211006144500 +0000" channel="skysportsf1.uk">
+    <title lang="en">Ted on Tyres and Brake Magic</title>
+    <desc lang="en">Ted Kravitz gets technical by explaining the tyre Baku blowouts, what happened with Mercedes' brake magic and how last year's Mercedes DAS system worked.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>7.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211006144500 +0000" stop="20211006145500 +0000" channel="skysportsf1.uk">
+    <title lang="en">Lando Norris and his Engineers</title>
+    <desc lang="en">Sky F1 goes behind the scenes of Lando Norris' relationship with his race engineers, one that has seen Norris finish in the top 5 all season in 2021.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>9.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211006145500 +0000" stop="20211006173000 +0000" channel="skysportsf1.uk">
+    <title lang="en">Formula 1</title>
+    <sub-title lang="en">Hungarian F1 Gp: Stand Alone Race 02.08</sub-title>
+    <desc lang="en">The Hungarian Grand Prix. The 11th round of the season at Hungaroring in Mogyorod.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211006173000 +0000" stop="20211006180000 +0000" channel="skysportsf1.uk">
+    <title lang="en">Formula 1</title>
+    <sub-title lang="en">Belgian F1 GP Highlights</sub-title>
+    <desc lang="en">Action from the Circuit de Spa-Francorchamp.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211006180000 +0000" stop="20211006190000 +0000" channel="skysportsf1.uk">
+    <title lang="en">Formula 1</title>
+    <sub-title lang="en">Russian F1 GP Highlights</sub-title>
+    <desc lang="en">Action from the Sochi Autodrom, where Valtteri Bottas was the winner when the race was held in 2020.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211006190000 +0000" stop="20211006193000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Weekend Debrief</title>
+    <sub-title lang="en">Monaco 27.05</sub-title>
+    <desc lang="en">A debrief of all the key events from the latest races and events in the world of Formula 1, following the 2021 Monaco Grand Prix at the weekend.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S2021</episode-num>
+  </programme>
+  <programme start="20211006193000 +0000" stop="20211006200000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Inside Line</title>
+    <sub-title lang="en">The Inside Line 06.10</sub-title>
+    <desc lang="en">From the 2021 Formula 1 Championship, enjoy all the latest news and analysis with a look at all the teams and drivers in this weekly show.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211006200000 +0000" stop="20211006210000 +0000" channel="skysportsf1.uk">
+    <title lang="en">Formula 1</title>
+    <sub-title lang="en">Turkish F1 Grand Prix 15.11 Highlights</sub-title>
+    <desc lang="en">Highlights of the 2020 Turkish Grand Prix.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211006210000 +0000" stop="20211006213000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Inside Line</title>
+    <sub-title lang="en">The Inside Line 06.10</sub-title>
+    <desc lang="en">From the 2021 Formula 1 Championship, enjoy all the latest news and analysis with a look at all the teams and drivers in this weekly show.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211006213000 +0000" stop="20211006223000 +0000" channel="skysportsf1.uk">
+    <title lang="en">Willy T. Ribbs Motorsport's Black Pioneer</title>
+    <desc lang="en">A profile of the first black man to drive a Formula One car. Inspired by few, inspiration to many, he helped break down the colour barrier in American Motorsport.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>10/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211006223000 +0000" stop="20211006230000 +0000" channel="skysportsf1.uk">
+    <title lang="en">F1: The Championship Begins</title>
+    <desc lang="en">A look back at the start of the 2019 Formula 1 Championship, with all the big events surrounding the start of the season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211006230000 +0000" stop="20211007000000 +0000" channel="skysportsf1.uk">
+    <title lang="en">Formula 1</title>
+    <sub-title lang="en">Italian F1 Gp: Grand Prix 12.09 Highlight 01</sub-title>
+    <desc lang="en">The 2021 Italian Grand Prix, held at the world-famous Autodromo Nazionale Monza.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211007000000 +0000" stop="20211007004500 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211007004500 +0000" stop="20211007011500 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211007011500 +0000" stop="20211007020000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211007020000 +0000" stop="20211007023000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211007023000 +0000" stop="20211007031500 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211007031500 +0000" stop="20211007034500 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211007034500 +0000" stop="20211007043000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211007043000 +0000" stop="20211007050000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211007050000 +0000" stop="20211007054500 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211007054500 +0000" stop="20211007061500 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211007061500 +0000" stop="20211007070000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211007070000 +0000" stop="20211007073000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211007073000 +0000" stop="20211007081500 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211007081500 +0000" stop="20211007084500 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211007084500 +0000" stop="20211007093000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211007093000 +0000" stop="20211007100000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">The lowdown on Sky's coverage of the Formula One season.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211007100000 +0000" stop="20211007121000 +0000" channel="skysportsf1.uk">
+    <title lang="en">Formula 1</title>
+    <sub-title lang="en">Dutch F1 Gp: Stand Alone Race 06.09</sub-title>
+    <desc lang="en">The 2021 Dutch Grand Prix. A chance to see the 13th round of the season, held at Zandvoort Circuit.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211007121000 +0000" stop="20211007121500 +0000" channel="skysportsf1.uk">
+    <title lang="en">Ted's Story of Ferrari</title>
+    <desc lang="en">Ted Kravitz visits Maranello to explore the history of the Italian team as they celebrated their 1000th GP at Mugello.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211007121500 +0000" stop="20211007123000 +0000" channel="skysportsf1.uk">
+    <title lang="en">Aston Martin Bond Special</title>
+    <desc lang="en">Aston Martin F1 drivers Sebastian Vettel and Lance Stroll try out stunts in the DB5 ahead of the latest James Bond film No Time To Die.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20211007123000 +0000" stop="20211007143500 +0000" channel="skysportsf1.uk">
+    <title lang="en">Formula 1</title>
+    <sub-title lang="en">Italian F1 Gp: Stand Alone Race 13.09</sub-title>
+    <desc lang="en">The 2021 Italian Grand Prix. A chance to see the 14th round of the season, held at Autodromo Nazionale Monza.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211007143500 +0000" stop="20211007144500 +0000" channel="skysportsf1.uk">
+    <title lang="en">Lando Norris and his Engineers</title>
+    <desc lang="en">Sky F1 goes behind the scenes of Lando Norris' relationship with his race engineers, one that has seen Norris finish in the top 5 all season in 2021.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>9.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211007144500 +0000" stop="20211007145500 +0000" channel="skysportsf1.uk">
+    <title lang="en">The History of Aston Martin</title>
+    <desc lang="en">Karun Chandhok looks at the history of the Aston Martin team, the name and the journey back to Formula 1 in 2021.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211007145500 +0000" stop="20211007171000 +0000" channel="skysportsf1.uk">
+    <title lang="en">Formula 1</title>
+    <sub-title lang="en">Russian F1 Gp: Stand Alone Race 27.09</sub-title>
+    <desc lang="en">The F1 season continues as the 2021 Russian Grand Prix arrives from the Sochi Autodrom. Valtteri Bottas was the winner here when the race was held in 2020.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211007171000 +0000" stop="20211007172500 +0000" channel="skysportsf1.uk">
+    <title lang="en">Aston Martin Bond Special</title>
+    <desc lang="en">Aston Martin F1 drivers Sebastian Vettel and Lance Stroll try out stunts in the DB5 ahead of the latest James Bond film No Time To Die.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20211007172500 +0000" stop="20211007173000 +0000" channel="skysportsf1.uk">
+    <title lang="en">Ted's Story of Ferrari</title>
+    <desc lang="en">Ted Kravitz visits Maranello to explore the history of the Italian team as they celebrated their 1000th GP at Mugello.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211007173000 +0000" stop="20211007183000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The F1 Show</title>
+    <sub-title lang="en">The F1 Show: Turkey 30.09</sub-title>
+    <desc lang="en">The F1 Show arrives from the Istanbul Park Circuit, with a look into life at the paddock ahead of the start of the weekend's racing at the 2021 Turkish Grand Prix.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211007183000 +0000" stop="20211007200000 +0000" channel="skysportsf1.uk">
+    <title lang="en">F1 Drivers Press Conference</title>
+    <sub-title lang="en">Press Conferences: Turkey 07.10</sub-title>
+    <desc lang="en">The Formula 1 drivers speak to the media ahead of the start of the weekend's racing at the Turkish Grand Prix.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>7.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211007200000 +0000" stop="20211007210000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The F1 Show</title>
+    <sub-title lang="en">The F1 Show: Turkey 30.09</sub-title>
+    <desc lang="en">The F1 Show arrives from the Istanbul Park Circuit, with a look into life at the paddock ahead of the start of the weekend's racing at the 2021 Turkish Grand Prix.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211007210000 +0000" stop="20211007220000 +0000" channel="skysportsf1.uk">
+    <title lang="en">Formula 1</title>
+    <sub-title lang="en">Turkish F1 Grand Prix 15.11 Highlights</sub-title>
+    <desc lang="en">Highlights of the 2020 Turkish Grand Prix.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20211007220000 +0000" stop="20211007230000 +0000" channel="skysportsf1.uk">
+    <title lang="en">The F1 Show</title>
+    <sub-title lang="en">The F1 Show: Turkey 30.09</sub-title>
+    <desc lang="en">The F1 Show arrives from the Istanbul Park Circuit, with a look into life at the paddock ahead of the start of the weekend's racing at the 2021 Turkish Grand Prix.</desc>
+    <category lang="en">Sports</category>
+    <star-rating system="GB">
+      <value>6.9/10</value>
+    </star-rating>
   </programme>
 </tv>
