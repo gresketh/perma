@@ -367,13 +367,13 @@ http://iptv.tvmalaysia.cc:80/penang062/penang062/7236
 #EXTINF:-1 tvg-id="lvc" tvg-name="LFC TV" tvg-logo="http://tvmalaysia.cc:80/images/8e5e2fa700bc778be1119e3eab7ee709.png" group-title="Sport",LFC TV
 http://iptv.tvmalaysia.cc:80/penang062/penang062/7237
 
-#EXTINF:-1 tvg-id="" tvg-name="btsport.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2e/BT_Sport_1_HD.svg/revision/latest/scale-to-width-down/200?cb=20191227182531" group-title="Sport",BT SPORT 1
+#EXTINF:-1 tvg-id="" tvg-name="btsport1.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2e/BT_Sport_1_HD.svg/revision/latest/scale-to-width-down/200?cb=20191227182531" group-title="Sport",BT SPORT 1
 http://iptv.tvmalaysia.cc:80/penang037/penang037/6610
 
-#EXTINF:-1 tvg-id="" tvg-name="btsport.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/BT_Sport_2_HD.svg/revision/latest/scale-to-width-down/199?cb=20191227182617" group-title="Sport",BT SPORT 2
+#EXTINF:-1 tvg-id="" tvg-name="btsport2.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/BT_Sport_2_HD.svg/revision/latest/scale-to-width-down/199?cb=20191227182617" group-title="Sport",BT SPORT 2
 http://iptv.tvmalaysia.cc:80/penang037/penang037/6611
 
-#EXTINF:-1 tvg-id="" tvg-name="btsport.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/BT_Sport_3_HD.svg/revision/latest/scale-to-width-down/199?cb=20191227182633" group-title="Sport",BT SPORT 3
+#EXTINF:-1 tvg-id="" tvg-name="btsport3.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/BT_Sport_3_HD.svg/revision/latest/scale-to-width-down/199?cb=20191227182633" group-title="Sport",BT SPORT 3
 http://iptv.tvmalaysia.cc:80/penang037/penang037/6612
 
 ---Kids---
