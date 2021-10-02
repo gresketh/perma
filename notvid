@@ -361,10 +361,10 @@ http://iptv.tvmalaysia.cc:80/penang062/penang062/9022
 #EXTINF:-1 tvg-id="epl2" group-title="Sport" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2020/08/epl-premierleague-logo.png",EPL 2
 http://iptv.tvmalaysia.cc:80/penang062/penang062/9023
 
-#EXTINF:-1 tvg-id="mu" tvg-name="MUTV" tvg-logo="http://tvmalaysia.cc:80/images/00df33989b0bbd6c33616c9c6e22d63b.png" group-title="Sport",MUTV
+#EXTINF:-1 tvg-id="mu" tvg-name="MUTV" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/mutv-logo-svg-vector.svg" group-title="Sport",MUTV
 http://iptv.tvmalaysia.cc:80/penang062/penang062/7236
 
-#EXTINF:-1 tvg-id="lvc" tvg-name="LFC TV" tvg-logo="http://tvmalaysia.cc:80/images/8e5e2fa700bc778be1119e3eab7ee709.png" group-title="Sport",LFC TV
+#EXTINF:-1 tvg-id="lvc" tvg-name="LFC TV" tvg-logo="https://assets.stickpng.com/images/580b57fcd9996e24bc43c4e5.png" group-title="Sport",LFC TV
 http://iptv.tvmalaysia.cc:80/penang062/penang062/7237
 
 #EXTINF:-1 tvg-id="" tvg-name="btsport1.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2e/BT_Sport_1_HD.svg/revision/latest/scale-to-width-down/200?cb=20191227182531" group-title="Sport",BT SPORT 1
