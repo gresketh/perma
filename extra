@@ -1,0 +1,51 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="AstroRida" group-title="Extra" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",Astro Ria HD
+http://iptv.tvmalaysia.cc:80/penang062/penang062/6730
+
+#EXTINF:-1 tvg-id="AstrodWarna" group-title="Extra" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png",Astro Warna HD
+http://iptv.tvmalaysia.cc:80/penang062/penang062/6740
+
+#EXTINF:-1 tvg-id="AstrsadsdsaoSupersport" group-title="Extra" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png",Astro SuperSport HD
+http://iptv.tvmalaysia.cc:80/penang062/penang062/6708
+
+#EXTINF:-1 tvg-id="811" group-title="Extra" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png",ASSP HD - A
+http://iptv.tvmalaysia.cc:80/penang062/penang062/9024
+
+#EXTINF:-1 tvg-id="Thrill.MACAN" group-title="Extra" tvg-logo="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png",Thrill ID
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
+
+#EXTINF:-1 tvg-id="CinemaWorldHD" group-title="Extra" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716065916134bcf.png",CinemaWorld HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
+
+#EXTINF:-1 tvg-id="HBOSignatureHD.MACAN" group-title="Extra" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_170_122",HBO Signature ID
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
+
+#EXTINF:-1 tvg-id="SCM.MACAN" group-title="Extra" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f0/Star_chinese_movies_2012.png",Star Chinese Movies ID
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="btsport1.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2e/BT_Sport_1_HD.svg/revision/latest/scale-to-width-down/200?cb=20191227182531" group-title="Extra",BT SPORT 1
+http://iptv.tvmalaysia.cc:80/penang037/penang037/6610
+
+#EXTINF:-1 tvg-id="" tvg-name="btsport2.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/BT_Sport_2_HD.svg/revision/latest/scale-to-width-down/199?cb=20191227182617" group-title="Extra",BT SPORT 2
+http://iptv.tvmalaysia.cc:80/penang037/penang037/6611
+
+#EXTINF:-1 tvg-id="" tvg-name="btsport3.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/BT_Sport_3_HD.svg/revision/latest/scale-to-width-down/199?cb=20191227182633" group-title="Extra",BT SPORT 3
+http://iptv.tvmalaysia.cc:80/penang037/penang037/6612
+
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-logo="http://static.epgguide.net/icon/skysportsf1.uk.png" group-title="Extra",Sky Sports F1
+http://iptv.tvmalaysia.cc:80/penang062/penang062/6617
+
+#EXTINF:-1 tvg-id="epl1" group-title="Extra" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2020/08/epl-premierleague-logo.png",EPL 1
+http://iptv.tvmalaysia.cc:80/penang062/penang062/9022
+ 
+#EXTINF:-1 tvg-id="epl2" group-title="Extra" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2020/08/epl-premierleague-logo.png",EPL 2
+http://iptv.tvmalaysia.cc:80/penang062/penang062/9023
