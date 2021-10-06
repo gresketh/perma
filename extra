@@ -6,10 +6,10 @@ http://iptv.tvmalaysia.cc:80/penang062/penang062/6730
 #EXTINF:-1 tvg-id="AstroWarna" group-title="Extra" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png",Astro Warna
 http://iptv.tvmalaysia.cc:80/penang062/penang062/6740
 
-#EXTINF:-1 tvg-id="811" group-title="Extra" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png",Astro Supersport HD
+#EXTINF:-1 tvg-id="AstroSupersport" group-title="Extra" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png",Astro Supersport HD
 http://iptv.tvmalaysia.cc:80/penang062/penang062/6708
 
-#EXTINF:-1 tvg-id="811" group-title="Extra" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png",ASSP HD - A
+#EXTINF:-1 tvg-id="AstroSupersport" group-title="Extra" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png",ASSP HD - A
 http://iptv.tvmalaysia.cc:80/penang062/penang062/9024
 
 #EXTINF:-1 tvg-id="Thrill.MACAN" group-title="Extra" tvg-logo="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png",Thrill ID
