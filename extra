@@ -9,8 +9,20 @@ http://iptv.tvmalaysia.cc:80/penang062/penang062/6740
 #EXTINF:-1 tvg-id="AstroSupersport" group-title="Extra" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png",Astro Supersport HD
 http://iptv.tvmalaysia.cc:80/penang062/penang062/6708
 
-#EXTINF:-1 tvg-id="AstroSupersport" group-title="Extra" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png",ASSP HD - A
+#EXTINF:-1 tvg-id="AstroSupersport" group-title="Extra" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png",ASSP HD
 http://iptv.tvmalaysia.cc:80/penang062/penang062/9024
+
+#EXTINF:-1 tvg-id="AstrsadsadsaoSupersport2" group-title="Extra" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png",Astro SuperSport 2 HD
+http://iptv.tvmalaysia.cc:80/penang062/penang062/6710
+
+#EXTINF:-1 tvg-id="812" group-title="Extra" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png",ASSP2 HD
+http://iptv.tvmalaysia.cc:80/penang062/penang062/9025
+
+#EXTINF:-1 tvg-id="AstsadsadsadroSupersport3" group-title="Extra" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png",Astro SuperSport 3 HD
+http://iptv.tvmalaysia.cc:80/penang062/penang062/6711
+
+#EXTINF:-1 tvg-id="813" group-title="Extra" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png",ASSP3 HD
+http://iptv.tvmalaysia.cc:80/penang062/penang062/9020
 
 #EXTINF:-1 tvg-id="Thrill.MACAN" group-title="Extra" tvg-logo="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png",Thrill ID
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -49,3 +61,6 @@ http://iptv.tvmalaysia.cc:80/penang062/penang062/9022
  
 #EXTINF:-1 tvg-id="epl2" group-title="Extra" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2020/08/epl-premierleague-logo.png",EPL 2
 http://iptv.tvmalaysia.cc:80/penang062/penang062/9023
+
+#EXTINF:-1 tvg-id="Aniplus.id" group-title="Extra" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Aniplus_Asia_Logo.png/revision/latest?cb=20180531073555",Aniplus
+http://210.210.155.35/dr9445/h/h02/01.m3u8
