@@ -24,6 +24,12 @@ http://iptv.tvmalaysia.cc:80/penang062/penang062/6711
 #EXTINF:-1 tvg-id="813" group-title="Extra" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png",ASSP3 HD
 http://iptv.tvmalaysia.cc:80/penang062/penang062/9020
 
+#EXTINF:-1 tvg-id="AstroSsadsadupersport4" group-title="Extra" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png",Astro SuperSport 4 HD 
+http://iptv.tvmalaysia.cc:80/penang062/penang062/6712 
+
+#EXTINF:-1 tvg-id="814" group-title="Extra" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png",ASSP4 HD 
+http://iptv.tvmalaysia.cc:80/penang062/penang062/9026
+
 #EXTINF:-1 tvg-id="Thrill.MACAN" group-title="Extra" tvg-logo="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png",Thrill ID
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
