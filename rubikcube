@@ -43,7 +43,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_primary.mpd
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
 # https://aqfadtv.astradamy.com/stream/DidikTVKPM.php
 
-#EXTINF:-1 tvg-id="" tvg-name="IKIM" group-title="Malay" tvg-logo="https://iili.io/1NTfv2.png",TV IKIM HD
+#EXTINF:-1 tvg-id="" tvg-name="IKIM" group-title="myFreeview" tvg-logo="https://iili.io/1NTfv2.png",TV IKIM HD
 https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8
 
 #EXTINF:-1 tvg-id="8TV" ch-number="148" group-title="myFreeview" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",8TV
